@@ -1,13 +1,30 @@
 # Lovecraft: The Programming Language
 
+## Goals
+
+I really want to have a programming system (it really could work with any language) that allows infinite debugging
+back to the beginning of the computation.
+
+I believe this is completely possible by "meldling" the concepts of a source control versioning system, a programming
+system, and database.
+
+That is, we can build a system where every change of state (modification of a variable) is a revision, and all state
+is stored in the database.  There will no longer be a clear distinction between the persistent store and the dynamic state.
+
+We should be able to rewind and restart the computation at ANY point.
+
+The source code itself must be considered a part of the data.  In this way, we can rationally make a change to the 
+program (that is, fix a bug, for example) and STILL be able to debug back in time past this change (and run forward 
+from that point as well.)
+
 ## Principles:
 
 There is no distinction between compilation and execution.  All is compexion in the presence of more and more information.
-Compexion is controllable.
-There is no distinction between a program execution and a database.
-All state changes are the creation of new versions.
-All program edits are the creation of new versions.
-Synchronizing clocks is an intentional act.
+* Compexion is controllable.
+* There is no distinction between a program execution and a database.
+* All state changes are the creation of new versions.
+* All program edits are the creation of new versions.
+* Synchronizing clocks is an intentional act.
 There is a clear distinction between function execution and state change.
 A clock synchronizes a collection of variables.
 
@@ -68,5 +85,11 @@ Thoughts after isolation float on March 30th:
 
 
 Note that [Arvados](https://arvados.org) has already done this: they are recording everything in Git.  We can imagine simply making a major improvement to Arvados to lower the cost of using for small computations.
+
+## Difficulty
+
+This is a borderline research project, so it has to be classed as fairly difficult.  However, I believe it will be easy
+to storify, and to incrementally execute this project.  Of course, performance is likely to be an issue---but then,
+isn't it always?
 
 
