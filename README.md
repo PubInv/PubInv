@@ -1,6 +1,6 @@
-# PIFAH
+# Public Invention for All Humanity
 
-A Personal Invitation
+## A Personal Invitation
 
 The creation of new technology is not the only or best way to help our fellow-beings. Love is more important than lasers, and kindness more important than computers. Still, many of us better suited to serve humanity in code than in a sermon, or holding a test tube rather than the hand of the dying.
 
