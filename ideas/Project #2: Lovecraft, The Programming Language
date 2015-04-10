@@ -1,0 +1,72 @@
+# Lovecraft: The Programming Language
+
+## Principles:
+
+There is no distinction between compilation and execution.  All is compexion in the presence of more and more information.
+Compexion is controllable.
+There is no distinction between a program execution and a database.
+All state changes are the creation of new versions.
+All program edits are the creation of new versions.
+Synchronizing clocks is an intentional act.
+There is a clear distinction between function execution and state change.
+A clock synchronizes a collection of variables.
+
+
+## Example:
+
+
+## Guiding principle:
+
+1) Any machine can be rolled back precisely and infinitely.
+2) Machines are recursive.
+3) Machiens have repls.
+
+## Commands:
+
+(ANDASSIGN (VAR EXP)*)
+(ORASSIGN (VAR EXP)*)
+(COND VAR (TEST EXP)*)
+(WHILE VAR TEST EXP)
+(BOX VAR (TEST) PROGRAM)
+(MACHINE PROGRAM)
+(FREEZE MACHINE)
+(THAW MACHINE)
+(ADVISE MACHINE)
+(KILL MACHINE)
+(REWIND MACHINE VERSION)
+(CREATE VARIABLE)
+(READHISTORY VARIABLE)
+(DESTROY VARIABLE)
+(COMPILE CODE)
+(READ INPUT)
+(WRITE OUTPUT)
+(TAKE SNAPSHOT MACHINE)
+(DEBUG SNAPSHOT)
+(CREATE CAMERA)
+(SNAPSHOT CAMERA)
+(DEBUG MACHINE)
+
+## Notes:
+It should always be possible to create a new REPL on a machine.  You can always DEBUG a machine.  However, Debugging a machine may not give you vision into its sub-machines.
+
+A Machine is not “IN” a state.  A Machine is “Past” or “Post” a state.
+
+Making a distinction between INPUT and OUTPUT allows us to build clocks and cameras more efficiently.
+
+Random Numbers are generated as INPUTS to machines that can be read any number of times.
+
+In Lovecraft, a statement like “STOP WHEN X==4” is reasonable because we can control modifications to X in a reasonable way.
+
+At this point I have not really clarified the difference between a clock and a camera.
+
+Thoughts after isolation float on March 30th:
+
+1)  We can map FILE to a type, therefore allow practical editing.  This is a necessary compromise.
+2)  A MUDD in which players trade gold is a good test bed for this system.
+3)  Pretend a hacker has done something naughty and trying to rewind is a good demo application.
+4)  Build a version visualizer into the first example.
+
+
+Note that [Arvados](https://arvados.org) has already done this: they are recording everything in Git.  We can imagine simply making a major improvement to Arvados to lower the cost of using for small computations.
+
+
