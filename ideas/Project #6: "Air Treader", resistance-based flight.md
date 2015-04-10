@@ -1,5 +1,4 @@
-
-series drogue
+# Series Drogue
 
 Mariners use a device called a drogue.  it is similar to a parachute.
 
