@@ -18,6 +18,6 @@ But of course that is inevitable, at least at the beginning. There is no point i
 
 I have an adequate technological resume, particularly as a computer programmer. More importantly, however, I enjoy leading teams and am good at it. I mentor people well. Finally, I am able and willing to devote myself full-time to this project, at least for a while.
 
-You may wish to examine our project concepts to see if any appeal to you.
+You may wish to examine our project [concepts](https://github.com/PIFAH/PIFAH/tree/master/ideas) to see if any appeal to you.
 
 -- Robert L. Read, PhD
