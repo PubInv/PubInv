@@ -33,6 +33,7 @@ Note: You can buy an 80 PSI pressure chamber for $800 --- 5 gallons.  Comes with
 
 250 C = 482 F.
 
+![human waste elimination](https://cloud.githubusercontent.com/assets/5296671/7099641/8a83c346-dfbd-11e4-9b5a-5d4f374218e1.png)
 
 
 Note: Can get reactor vessel : http://www.highpressure.com/products/reactors-pressure-vessels/series-ms-micro-reactors/
