@@ -14,6 +14,9 @@ We could construct this out of iron, and fold it up like a geodesic dome.  As sh
 
 Note that one of the wonderful things about this is our ability to this in a very small scale.
 
+![char blanket](https://cloud.githubusercontent.com/assets/5296671/7100031/22835362-dfcf-11e4-8d16-909f01924fab.png)
+
+
 ## Basic storification:
 
 Build the device with manual controls.  Test that it works.
