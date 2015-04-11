@@ -24,7 +24,7 @@ You may wish to examine our project [concepts](https://github.com/PIFAH/PIFAH/tr
 
 # How to Contribute
 
-We welcome your participation.  You are welcome to email me <read.robert@gmail.com>.  However, as a public project, it is even better for you to public comment.  You can do this by opening an "issue" here at GitHub.  If you want to add to or improve one of the existing documents, you can do this with a "pull request".
+We welcome your participation.  You are welcome to email me <read.robert@gmail.com>.  However, as a public project, it is even better for you to comment publicly.  You can do this by opening an "issue" here at GitHub.  If you want to add to or improve one of the existing documents, you can do this with a "pull request".
 
 In general, each project will have a set of "stories".  This is a technique developed by the Agile community. We welcome you to take on the execution of a story if that fits your talents.  Writing new stories is also very important activity.
 
