@@ -39,6 +39,7 @@ In summary, you can contribute by:
 * Offering to lead a project,
 * Teaching us something new, or
 * Even suggesting non-PIFAH proejcts that we should contribute to.
+
 If you are not familiar with GitHub or git, please email me to give you assistance.
 
 # Warning
