@@ -22,6 +22,25 @@ You may wish to examine our project [concepts](https://github.com/PIFAH/PIFAH/tr
 
 -- Robert L. Read, PhD
 
+# How to Contribute
+
+We welcome your participation.  You are welcome to email me <read.robert@gmail.com>.  However, as a public project, it is even better for you to public comment.  You can do this by opening an "issue" here at GitHub.  If you want to add to or improve one of the existing documents, you can do this with a "pull request".
+
+In general, each project will have a set of "stories".  This is a technique developed by the Agile community. We welcome you to take on the execution of a story if that fits your talents.  Writing new stories is also very important activity.
+
+I hope that we will have need for many talents. I am a computer scientist. I greatly admire artists but don't pretend that I can create art. We will always have a need for artists, writers, and educators.
+
+We will also need chemists, welders, mechanical engineers, 3D modellers, software engineers, physicists, biologists, mycologists---we exclude no field of endeavor.
+
+In summary, you can contribute by:
+* Suggesting a new project,
+* Working on a story,
+* Offering to improve our art or wrting,
+* Offering to lead a project,
+* Teaching us something new, or
+* Even suggesting non-PIFAH proejcts that we should contribute to.
+If you are not familiar with GitHub or git, please email me to give you assistance.
+
 # Warning
 
 Some of the projects proposed here involve dangerous chemicals, powerful forces, fire, explosive gases, and biological hazards.
