@@ -14,3 +14,5 @@ However, if we could free ourselves of the circular crank shaft we could perform
 The basic idea is that the connecting rod could be fixed directly to the piston (no bearing required) and driven by
 a cam-and-follower system.
 
+![basic idea for combining motor with transmission](https://cloud.githubusercontent.com/assets/5296671/7099834/a6c76d06-dfc6-11e4-9602-66fb4cb86b66.png)
+
