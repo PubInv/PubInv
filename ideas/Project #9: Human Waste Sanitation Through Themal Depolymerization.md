@@ -1,3 +1,5 @@
+Note: These are my loose notes, this has not been edited for public consumption.
+
 I would like to understand what happens when you subject human waste to pressure cooking.  My supposition is that it turns into oil.
 
 Can we use this to build a machine that will do this efficiently?
