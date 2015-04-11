@@ -8,6 +8,8 @@ The problem become as this expands, how do you keep it air tight? How do you fil
 
 The basic insight is to use a mass of rods that fit together,  The end cap is backed by the rod faces.  As the end-caps spread, new rods are exposed.  As the end-caps spread, new room is created, and a new rod must be inserted from relatively far away in order to reach fill the space and keep things airtight.
 
+![tetrahedral airtight expansion_contraction chamber](https://cloud.githubusercontent.com/assets/5296671/7099586/e064115a-dfbb-11e4-9336-eec08d27d8d5.png)
+
 Upon contraction, each motion inward which seals a new intersection of rods allows the outer ones to be contracted, thus making room for further contraction.
 
 Such a system could provide a compression ration of 1000:1 with a 10:1 linear change.
