@@ -40,3 +40,7 @@ A large Gluss could prop up a damaged and unsafe building.
 A small Gluss could climb trees or climb into caves and other narrow spaces in ways that perhaps other robots could not.
 
 Finally, this would just be a really fun project.
+
+# History
+
+Back in the early 90s with my friend Martin Smith, I hacked a program calles "XSpringies" to make a two-dimensional software gluss.  In this the actuators were not rigid but "springs", which made it easier.  I was able to make a little caterpillar-like gluss crawl across a virtual space through a serious of spring-length changes.  I did nothing more with the idea at the time.
