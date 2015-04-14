@@ -4,14 +4,18 @@ In physics, we have conservation of energy and momentum.  In chemistry, we have 
 allows the balancing of equations.  In bookkeping we have the balance of debits and credits.  Although all
 general purpose programming languages allow the construction of abstract data types (ADTs) that represent
 these laws of conservation, there are rather rarely used.  They would seem, however, to offer the great 
-benefit of reducing erros and clarifying programming.
+benefit of reducing errors and clarifying programming.
+
+For example, if you have variable that represent the quantities of chemicals that are the complete input and output to checmical (non-nuclear) process, it is clear that an ADT that guaranteed tha each operation conserved the amounts
+of elements in the amounts of elements out would appear to reduce a certain kind of error.  Indeed, strong typing
+in general is valuable for reducing such errors.  This would simply be an extension of that.
 
 Additionally, one often sees [Sankey](http://en.wikipedia.org/wiki/Sankey_diagram) diagrams that attempt to visualize a complex process that shows inputs and outputs 
 and their quantities represented visually.  As an example in sanitations is the [SFD](http://www.susana.org/en/sfd).
 Another [example](http://www.energyvanguard.com/blog-building-science-HERS-BPI/bid/71262/Total-Energy-Use-Down-in-US-Wind-Solar-Up)
 balances "electricity in" with "electricity out".
 
-Mike Bostoc Tom Counsell have built some awesome D3 code for making such diagrams.  However, my initial read 
+Mike Bostoc and Tom Counsell have built some awesome D3 code for making such diagrams.  However, my initial read 
 of https://github.com/tamc/sankey suggests that it uses explicit (and absolute) quanities for the inputs and outputs
 to each process, and then does the topological sorting and layout relaxing automatically.
 
