@@ -4,3 +4,5 @@ For both wood and fecal matter, we would like to answer some basic questions abo
 * How much energy is available in the form of combustible biochar?
 
 Presumably this is different for a wide range of materials.  
+
+http://www.css.cornell.edu/faculty/lehmann/publ/ES%26T%2042,%204152-4158,%202008%20Gaunt.pdf
