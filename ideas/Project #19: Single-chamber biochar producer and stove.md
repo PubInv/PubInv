@@ -26,7 +26,8 @@ The CarbonZero article above is for a much large scale than I imagine but the pr
 
 # Design
 
-(I need to add a drawing here.)
+![biochar-producing syngas stove 002](https://cloud.githubusercontent.com/assets/5296671/7164458/ee607f8e-e365-11e4-8bfa-ff690d4ae29e.jpg)
+
 
 The basic idea is similar to designs for produing charcoal that I have seen.  The main chamber has a high output pipe
 that is ducted to a burner beneath the chamber.  Once pyrolisys begins, this provides enough heat to continue the 
@@ -34,7 +35,7 @@ process until no more pyrolysis occurs. Such systems often put fuel below the ma
 rely on self ignition of they syngas when pyrolysis begins.
 
 Instead, we could light the main chamber, and allow oxygen in (at the bottom, presumably.)  This would have a valve
-that could be closed.  In the simplest operation, the operator observes that pyrolysis has begun, shuts the valve to
+that could be closed.  In the simplest operation, the operator observes that pyrolysis has begun, shuts the valve/access door to
 stop combustion of the syngas, then lights the syngas jets.  Such a system thus has a symbolic "going exothermal" point.
 
 The operator could choose to open the valve, which would allow oxygen in, beginning combustion.  This biochar
