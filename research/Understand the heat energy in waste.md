@@ -9,3 +9,15 @@ Review this reference:
 
 
 http://www.css.cornell.edu/faculty/lehmann/publ/ES%26T%2042,%204152-4158,%202008%20Gaunt.pdf
+
+According to this:
+
+"The energy content of dry stool is about 2.3 x 10**7 J/kg [5]"
+
+http://large.stanford.edu/courses/2010/ph240/cash2/
+
+which sites:
+
+[5] J. L. Murphy et al., "Variability of Fecal Energy Content Measured in Healthy Women," Am. J. of Clinical Nutrition. 58, 137 (1993).
+
+
