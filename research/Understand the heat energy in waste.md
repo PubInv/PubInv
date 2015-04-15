@@ -14,7 +14,7 @@ According to this:
 
 "The energy content of dry stool is about 2.3 x 10**7 J/kg [5]"
 
-(That's 2.3 Megajoules/kg).
+(That's 2.3 Megajoules/kg). Same article states a stool is 70% water.
 
 http://large.stanford.edu/courses/2010/ph240/cash2/
 
@@ -27,5 +27,17 @@ Note that heat of combustion and Lower Heating Value for many fuels are given he
 http://en.wikipedia.org/wiki/Heat_of_combustion
 
 And 2.3 Megajoules/kg is much lower than wood, for example.
+
+Note: 1 megajoule = 239 005.736 calories, so a 1kg dry stool = 549713.1928 calories.  If we multiply by .3 to represent a dry stool, we get: 164913.9 calories.
+
+To turn the water in the original stool to steam would seem to take:
+
+1000 grams * [((100 - 37 = 63 degree) calories/gram) + 540 calories/gram] = 603 000 calories.
+
+This is similar to answers given here: http://www.nzifst.org.nz/unitoperations/drying1.htm
+
+Which makes it seem that human feces does not have energy energy to convert itself to steam starting from a moist state.  It would seem that it is hopeless to build an self-propelling toilet that attempts to dry completely by quick heating.  We must either add fuel or we must dry via some other mechanism.
+
+
 
 
