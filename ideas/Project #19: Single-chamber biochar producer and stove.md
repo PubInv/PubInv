@@ -11,8 +11,15 @@ However, such systems necessarily have a certain complexity in that the feedstoc
 We can use a single chamber and provide a way to control oxygen to the chamber. This would given the stove operator
 the option of producing biochar, or to combust the biochar for additional heat.
 
-This idea also has a potential advantage in sanitation and waste elimination if we attempt to use the feedstock as the
-fuel.
+This idea also has a potential advantage in sanitation and waste elimination if we attempt to use the feedstock as the fuel.
+
+# Relation to other designs
+
+I think:
+
+* Gassifying stoves depend on a secondary air which is heated first then added to the stream of gases produced by the fire chamber, thus more fully combusting all of the gas products.  I haven't seen any design that actually switches over to using purely syngas by cutting off oxygen in the fire chamber.
+* Rocket stoves use a forced updraft in a J-shape to provide a great deal of oxygen to produce a fast, clean comubustion.
+* Retort -- This is the basic biochar producing feature.  A great practical example using a tempperatures sensor is here: http://www.biochar.info/biochar.CarbonZero-Experimental-Biochar-Kiln.cfml  where it gives practical advice on the temperature.  Again, this design is lighting second fire under the retort rather than using the fuel in the retort and then cutting of oxygen as I am suggesting.
 
 # Design
 
