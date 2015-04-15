@@ -22,6 +22,8 @@ I think:
 * Retort -- This is the basic biochar producing feature.  A great practical example using a tempperatures sensor is here: http://www.biochar.info/biochar.CarbonZero-Experimental-Biochar-Kiln.cfml  where it gives practical advice on the temperature.  Again, this design is lighting second fire under the retort rather than using the fuel in the retort and then cutting of oxygen as I am suggesting.  This is a wonderful reasource as it gives practical advice on monitoring the temperature (i.e., pyrolisys begins at 320C, goal temperature is 360C to 420C.) It also suggests using thermocouple wire for measuring temperature. It also shows that it is possible for the fire to get too hot (up to 1000C), which will tend to destroy the stove parts, is dangerous, and decreases the amount of biochar produced.
 * Afterburner -- My current design does not have an afterburner.  I may have to add that to my design based on the excellent exposition by CarbonZero above.
 
+The CarbonZero article above is for a much large scale than I imagine but the problems they had of things getting red-hot and/or too-hot seems to suggest something like the "movable firebed" idea below could be extremely valuable as a temperature control.
+
 # Design
 
 (I need to add a drawing here.)
