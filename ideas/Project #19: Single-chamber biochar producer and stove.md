@@ -35,4 +35,10 @@ the temperator of pyrolyis and automatically shut off combustion in the chamber 
 Posssibly the dying combustion could be used to ignite the syngas---this is somewhat uncertain.  Any lighting 
 is likely to be unreliable.
 
+Note that if we are constructing a control mechanism, we also want to limit temperature (or raise temperature) to produce either more biochar (low temperature) or more energy (high temperature.)  For my initial application, limiting temperature seems more reasonable.
+
+I don't know how to do this.  We do NOT want to limit oxygen to the syngas, nor do we want to release syngas unburned, nor do I want to try to collect syngas, although obviously that could be valuable in a large scale operation.  I suppose we could control a valve that allowed a fraction of the syngas to be diverted and flared off.
+
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH Project #19: Virtual Single-chamber biochar producer and stove</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
