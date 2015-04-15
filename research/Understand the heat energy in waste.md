@@ -14,10 +14,18 @@ According to this:
 
 "The energy content of dry stool is about 2.3 x 10**7 J/kg [5]"
 
+(That's 2.3 Megajoules/kg).
+
 http://large.stanford.edu/courses/2010/ph240/cash2/
 
 which sites:
 
 [5] J. L. Murphy et al., "Variability of Fecal Energy Content Measured in Healthy Women," Am. J. of Clinical Nutrition. 58, 137 (1993).
+
+Note that heat of combustion and Lower Heating Value for many fuels are given here:
+
+http://en.wikipedia.org/wiki/Heat_of_combustion
+
+And 2.3 Megajoules/kg is much lower than wood, for example.
 
 
