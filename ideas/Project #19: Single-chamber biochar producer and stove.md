@@ -39,6 +39,20 @@ Note that if we are constructing a control mechanism, we also want to limit temp
 
 I don't know how to do this.  We do NOT want to limit oxygen to the syngas, nor do we want to release syngas unburned, nor do I want to try to collect syngas, although obviously that could be valuable in a large scale operation.  I suppose we could control a valve that allowed a fraction of the syngas to be diverted and flared off.
 
+# Alternate Embodiments
+
+## Camp Stove
+
+One valuable idea would be to make a biochar-producing camp stove for the Western audience.  This would be appealing,
+because it would help the environment.  If parks would allow it, the burying or scattering of the cooled and wetted
+biochar could be a significant improvement in both soil quality and carbon sequestration.  A challenge for this
+application would be to build a stove that would accept a standard length firewood log.
+
+## Movable Firebox
+
+A fascinating idea is to have a movable firebox, perhaps made into separate partitions.  This would allow you 
+to remove biochar from one box partition while still cooking with the other.  It is a step toward a 
+continuous process.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH Project #19: Virtual Single-chamber biochar producer and stove</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
