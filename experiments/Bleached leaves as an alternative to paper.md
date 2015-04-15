@@ -10,3 +10,7 @@ in a solution of about 30% household bleach.  As you can see they partially blea
 On the live oak leaves, I was able to write my name and some numbers with a ball-point pen.
 
 The leaves are very brittle compared to paper.
+
+
+![imag0109](https://cloud.githubusercontent.com/assets/5296671/7166457/7571748a-e373-11e4-9e52-09c777d34703.jpg)
+![imag0108](https://cloud.githubusercontent.com/assets/5296671/7166460/786cfae2-e373-11e4-859c-da6df0598083.jpg)
