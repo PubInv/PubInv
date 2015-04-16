@@ -59,11 +59,15 @@ because it would help the environment.  If parks would allow it, the burying or 
 biochar could be a significant improvement in both soil quality and carbon sequestration.  A challenge for this
 application would be to build a stove that would accept a standard length firewood log.
 
+(P.S. written after reading a stupid article in Fast Company about using a polymer to extract CO2 from the air -- I actually think if we could make a stove that would fit in people's fire place, sent the smoke up the existing flue, and produce biochar, at least some Americans would want to use it.  I believe this would do far more to sequester carbon than any idea of pulling CO2 from the air and retaining it as CO2.  Until you reduce it to elemental carbon and elemental oxygen, you aren't making progress.)
+
 ## Movable Firebox
 
 A fascinating idea is to have a movable firebox, perhaps made into separate partitions.  This would allow you 
 to remove biochar from one box partition while still cooking with the other.  It is a step toward a 
 continuous process.
+
+Note that moving toward a continuous process is actually very important for any treatment of human waste, for example.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH Project #19: Virtual Single-chamber biochar producer and stove</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
