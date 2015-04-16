@@ -1,3 +1,5 @@
+# STATUS: TO BE DONE
+
 Pyrolysis of wood tends to retain the structure of the wood perfectly.  However, wood is woody.  What if we try 
 to pyrolyze or char:
 * A carrot?
