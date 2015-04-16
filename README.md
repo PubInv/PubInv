@@ -45,12 +45,13 @@ If you are not familiar with GitHub or git, please email me to give you assistan
 # Warning
 
 Some of the projects proposed here involve dangerous chemicals, powerful forces, fire, explosive gases, and biological hazards.
+
 Humanity an not advance without experiementation that involves some risk. The important thing is to remain safe 
-at all times and not to proceed with an experiment until you have proper safety eqipment and training. In particular,
+at all times and not to proceed with an experiment until you have proper safety equipment and training. In particular,
 although we encourage young people to participate in PIFAH, they should not participate without adult supervision.
 
 We will attempt to discuss safety precautions within each project.  However, because this is a distributed project 
-and each participant may be creating their own experiments and machiens, it will not be possible for us to 
+and each participant may be creating their own experiments and machines, it will not be possible for us to 
 provide safety guidance in all cases.  Please proceed carefully at your own risk.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH Personal Invitation</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
