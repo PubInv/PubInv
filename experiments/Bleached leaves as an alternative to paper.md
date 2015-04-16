@@ -1,3 +1,5 @@
+STATUS: PERFORMED
+
 The basic question is: Could we use leaves in closer to their natural form to make paper, or paper-like products?
 
 An alternative questions is: Could we use naturally occuring pine straw as a fiber to strengthen packing materials?
