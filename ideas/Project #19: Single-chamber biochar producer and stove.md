@@ -50,6 +50,24 @@ Note that if we are constructing a control mechanism, we also want to limit temp
 
 I don't know how to do this.  We do NOT want to limit oxygen to the syngas, nor do we want to release syngas unburned, nor do I want to try to collect syngas, although obviously that could be valuable in a large scale operation.  I suppose we could control a valve that allowed a fraction of the syngas to be diverted and flared off.
 
+# Solving the Positive Feedback Problem
+
+One of the problems of any syngas retort is the that it is subject to positive feedback.  That is, the hotter it
+gets, the more syngas it produces, which makes it get hotter, which makes it produce more syngas, etc.
+
+This has several problems:
+* It's dangerous.
+* It degrades the materials faster.
+* It tends to produce more "biofuel", that is, heavier hydrocarbons in the form of alkanes, which means less biochar is produced.
+
+If we begin from the assumption that we have some form of active control in response to temperature, we limit this 
+positive feedback. It would be very dangeous to allow pressure to build up in the syngas. I am not prepared to contemplate piping the syngas off for storage (although in other circumstance it is a valuabe product and that would
+be the best thing to do.
+
+I believe there should always be two flames: the heating flame, which heats the retort, and the "afterburner" which does not heat the retort, but burns excess syngas.  If we can adjust the proportion of produced syngas going to these two flames, we can limit the amount of heating.  It is even reasonable to assume that the afterburner can be arragned so that it burn draw more air across the outside of the retort, thus cooling it.
+
+It would seem that any practical use by non-experts would have to have either passive or active control of the proportion of the syngas going to these two flames.
+
 # Alternate Embodiments
 
 ## Camp Stove
