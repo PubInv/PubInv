@@ -57,9 +57,9 @@ I don't know how to do this.  We do NOT want to limit oxygen to the syngas, nor 
 One valuable idea would be to make a biochar-producing camp stove for the Western audience.  This would be appealing,
 because it would help the environment.  If parks would allow it, the burying or scattering of the cooled and wetted
 biochar could be a significant improvement in both soil quality and carbon sequestration.  A challenge for this
-application would be to build a stove that would accept a standard length firewood log.
+application would be to build a stove that would accept a standard length firewood log, which seems to be 16".  We would have to make a firebox 18" in at least one dimension.
 
-(P.S. written after reading a stupid article in Fast Company about using a polymer to extract CO2 from the air -- I actually think if we could make a stove that would fit in people's fire place, sent the smoke up the existing flue, and produce biochar, at least some Americans would want to use it.  I believe this would do far more to sequester carbon than any idea of pulling CO2 from the air and retaining it as CO2.  Until you reduce it to elemental carbon and elemental oxygen, you aren't making progress.)
+(P.S. written after reading a stupid article in Fast Company about using a polymer to extract CO2 from the air -- I actually think if we could make a stove that would fit in people's fire place, sent the smoke up the existing flue, and produce biochar, at least some Americans would want to use it.  This would mean the 18" firebox would have to be vertical rather than horizontal. I believe this would do far more to sequester carbon than any idea of pulling CO2 from the air and retaining it as CO2.  Until you reduce it to elemental carbon and elemental oxygen, you aren't making progress.)
 
 ## Movable Firebox
 
