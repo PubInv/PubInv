@@ -9,6 +9,8 @@ If each member of the truss were not a rigid piece of angle iron but rather an e
 then we can imagine the truss moving.  We could consturct a robotic truss.  Rather than a wheeled or walking robot, 
 this would be a "flowing" robot.  It would move like a slug or a snake, which I why I call it a "Gluss" (slug truss).
 
+![gluss](https://cloud.githubusercontent.com/assets/5296671/7195220/c062264c-e481-11e4-9de6-ec7c8a77502d.png)
+
 # Construction
 
 There are several well-understood and inexpensive models for the individual length-changing elements.  Hydraulic
