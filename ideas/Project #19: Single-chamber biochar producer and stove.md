@@ -78,6 +78,18 @@ I need to make a drawing of this, but I've thought of a number of improvements.
 * We put the arduino control outside and give it a smoke detector.  Can't be too careful.
 * We may try to power the arduino with an simple heat engine or "egg-beater" turbine from the exhaust gases.  In this way we would need no batteries.  The system would be completely self contained: one match does every thing you need.
 
+## Stories
+
+We always work in termsof simple stories.  This project has a lot of them:
+* Build a simulated Arduino control system.
+* Build a simple retort out of old food cans on a tiny scale.
+* Build the energy simulation system mentioned elsewhere.
+* Build a model out of cardboard.
+* Learn to weld.
+* Build a steel model.
+* Build an Arduino-instrumented system (but with human power of controls.)
+* Build an Arduino-powered system.
+
 # Alternate Embodiments
 
 ## Camp Stove
