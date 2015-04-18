@@ -68,6 +68,16 @@ I believe there should always be two flames: the heating flame, which heats the 
 
 It would seem that any practical use by non-experts would have to have either passive or active control of the proportion of the syngas going to these two flames.
 
+## Design Improvements
+
+I need to make a drawing of this, but I've thought of a number of improvements.
+
+* We want a simple system for safely shutting off the O2 input.  This can be a cock-and-fire one time system. The operator raises a door, propped up by a solenoid.  Our control system slams the door shut, making it mostly air-tight, when temperature is high enough to prdocue syngas. This reduces the chance of the char bursting into flame int he presence of oxygen later.
+* We have a single exhaust with a single flare.  However, it is fed by three systems: the O2-in-the-box system and the syngas-around the box system and the excess-syngas system.
+* There is a single valve that control how much syngas goes back to the retort vs. how much goes out to waste heat. In this way there is ALWAYS an flared exhaust port working.
+* We put the arduino control outside and give it a smoke detector.  Can't be too careful.
+* We may try to power the arduino with an simple heat engine or "egg-beater" turbine from the exhaust gases.  In this way we would need no batteries.  The system would be completely self contained: one match does every thing you need.
+
 # Alternate Embodiments
 
 ## Camp Stove
