@@ -79,6 +79,13 @@ application would be to build a stove that would accept a standard length firewo
 
 (P.S. written after reading a stupid article in Fast Company about using a polymer to extract CO2 from the air -- I actually think if we could make a stove that would fit in people's fire place, sent the smoke up the existing flue, and produce biochar, at least some Americans would want to use it.  This would mean the 18" firebox would have to be vertical rather than horizontal. I believe this would do far more to sequester carbon than any idea of pulling CO2 from the air and retaining it as CO2.  Until you reduce it to elemental carbon and elemental oxygen, you aren't making progress.)
 
+## Fireplace Stove
+
+What if we build a stove that would fit into the average American fireplace?  We could direct the exhaust up the 
+flue. If we build a one-log system that could reduce a single log to biochar, then people could safely make biochar
+at home, get heat and get rid of waste wood all at the same time.  No pretty dancing flames, however.  But you could 
+roast marshmallows.  You will have to provide your own bearskin rug.
+
 ## Movable Firebox
 
 A fascinating idea is to have a movable firebox, perhaps made into separate partitions.  This would allow you 
