@@ -51,4 +51,14 @@ light the fuel with one match and it does the rest.
 Obviously, all of this is taking place in a very hostile environment --- not sure how well that will work.  I guess
 we may fint out.
 
+# Idea: Detect bacteria by detecting a dielectric change
+
+Our ability to analyze water quality is seriously hampered by the fact that we use indirect methods that are very slow.
+
+I believe a bacterium is on micrometer in size.  We can make microchips with features much smaller, 14 nanometers.  What if we made a microship that was a two-dimensional grid that had a capacitance contact in each cell?  Then we 
+cover the grid with water to be analyzed.  We then freeze dry it to remove the water, presumably leaving bacteria
+in place. Then we measure the capacitance of each cell (possibly doing this at wide number of frequencies, since
+permittivity is frequency dependent.) We expect most cells to contain pure water.  Some cells will presumably 
+contain dirt. Some will presumably contain a bacterium, and possibly we can detect this by the dielectric constant (or graph.)
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
