@@ -24,4 +24,8 @@ are poorly studied compared to the poison-dart frogs of Central America.  You co
 Possibly there are animals which are suspected but have never been identified which coudld be physically located with
 this technique (I imagine that many of them would be arthropods, of course.)
 
+# Notes
+
+I really think of this as a Raspberry PI type project, not an Arduino project.  Nonetheless, the Arduino DOES have an (FFT library)[http://wiki.openmusiclabs.com/wiki/ArduinoFFT]. This would make it possibly to at least test out some ideas with an Arduino.
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH Project #18: Virtual Soundscape Recorder and Wildlife Locator</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
