@@ -34,6 +34,10 @@ In order to keep the piston from wacking into the walls and jamming, we can use 
 
 Although not shown, this could be a closed-air engine if we have a large enough "cool" chamber, but that is not technically needed, though it would increase realiability.
 
+Perhaps it is not obvious from the diagram, but "N" and "S" in all cases represent the North and South poles of permanent magnets.  (Note that permanent magnets must be protected from heat.) I'm specifically imagining a relatively low heat differential for this system (to bleed power from a smoke stack or exhuast pipe, for instance.)
+
+I'm excited about this idea and may work on it as the first sprint, though I have to order the magnets first!  
+
 
 
 
