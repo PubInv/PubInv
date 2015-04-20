@@ -8,6 +8,11 @@ Different models of waste treatment require different inputs and produce differe
 composting toilets produce compost but do not produce biogas or biochar. Some systems produce sequestable 
 carbon in the form of biochar. Some may even recover water from the waste at various levels of quality.
 
+Note that since I am particularly interested in pyrolysis here, this simulation would be a chemical simulation,
+not a waste-water management simulation.
+
+
+
 # Idea
 
 I have previously prodeced a client-side deployable D3 project for creating an [interactive model](http://18f.github.io/d3-technical-debt/index.html)
@@ -22,6 +27,10 @@ In particular, it could help us answer some basic questions:
 * Is there enough energy in human feces, if perfectly acquired, to exceed the energy cost of its processing under
 a given treatment approach?
 * How much biogas, syngas, or biochar can we expect to obtain from a system?
+
+## References
+
+http://cavemanchemistry.com/oldcave/projects/fire/
 
 
 
