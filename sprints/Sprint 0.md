@@ -18,5 +18,9 @@ and want to continue supporting that.
 * Work out initial mathematics of energy balance of biochar production -- 8 hours
 * Experiment with reading analog input with Arduino -- 2 hours
 * Attempt to do dielectric heating of a leaf (possibly with David) -- 8 hours
+* Fill out Texas Glassware License -- 3 hours
+
+(Note: The state of Texas in an attempt to curb Meth production requires you to have a license to own laboratory glassare, even a beaker.  This is an onerous regulation for a hobbyist who doesn't know what he wants, but I intend
+to attempt to comply as best I can. The glassware that I need is in support of water quality analysis, pyrolysis, thermal depolymerization, and distillation.)
 
 
