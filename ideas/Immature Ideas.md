@@ -93,6 +93,14 @@ records this and let's you get feedback and review.
 I'm not much of a martial artist, but I know a lot of people would like to know that they threw "30 heavy punches" in a three-minute round with a heavy bag.  I have no idea what a "heavy" punch is---but we could use force sensors
 to quantify this.
 
+## Idea: Unstable plane-in-wind power generator
+
+Out where the tumbleweeds roll, they put signs on the ground to advertise gas stations. These are loaded on a spring, because the wind would blow them over otherwise.  It is windy on the plains, and they quite often are blown flat but they pop right back up.  Under some wind speeds they oscillate noticable.
+
+We could put a magnet-and-coil system in the base of these to generate power.  It is hard to imagine this being as effective as a turbine, but small is beautiful. Perhaps such a system would be better in some location, where a turbine might harm a child or a bird, and where you can't build very high, or where the wind is highly unpredictable.
+
+Possible such a system would work in flowing water as well, more reliably than turbine, that would be damaged by logs and snags and aligators.
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
