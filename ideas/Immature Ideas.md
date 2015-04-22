@@ -105,7 +105,7 @@ Possible such a system would work in flowing water as well, more reliably than t
 
 I've heard people use a tiny magnet on a little cantilever to generate some microwattage for sensors.  This generates power from vibration.
 
-Building on the idea above, what if we place a spherical magnet inside a set of coils and tried to build a "rotational microgenerator".  I haven't researched this yet, I assume it has been done.  Not so different than self-winding watches, which we have had for a century, I imagine.
+Building on the idea above, what if we place a spherical magnet inside a set of coils and tried to build a "rotational microgenerator".  I haven't researched this yet, I assume it has been done.  Not so different than self-winding watches, which we have had for a century, I imagine. (This is close: http://www.kinetron.eu/micro-generator-technology/)
 
 
 
