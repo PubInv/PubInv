@@ -101,11 +101,17 @@ We could put a magnet-and-coil system in the base of these to generate power.  I
 
 Possible such a system would work in flowing water as well, more reliably than turbine, that would be damaged by logs and snags and aligators.
 
-## Idea: Rotational microgeneator
+## Idea: Multi-axis Rotational microgeneator
 
 I've heard people use a tiny magnet on a little cantilever to generate some microwattage for sensors.  This generates power from vibration.
 
 Building on the idea above, what if we place a spherical magnet inside a set of coils and tried to build a "rotational microgenerator".  I haven't researched this yet, I assume it has been done.  Not so different than self-winding watches, which we have had for a century, I imagine. (This is close: http://www.kinetron.eu/micro-generator-technology/)
+
+Note that I don't mean rotation in one dimension---I mean complete sperical rotation.  So if you had it in your front pocket, the gentle swaying of your leg, maybe a 10 degree change per step, would provide power, no matter how it was oriented in your pocket.
+
+Joke: We could put this inside a Doc Halliday cutter and generate power that way --- not that his cutters don't have enough power!
+
+You could mount this on a sqirrel, and use it to power a miniature "squirrel cam".  The squirrels in my back yard spend a lot of time changing direction!  It would be pretty fun to see the world as a squirrel---they fly, but along bent branches, not in a straight line.  A roller-coaster ride.  Now if I can only build an air rifle that will fit the camera and generator onto them....
 
 
 
