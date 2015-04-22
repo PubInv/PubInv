@@ -17,4 +17,8 @@ https://www.sparkfun.com/products/8891.
 I am pretty ignorant when it comes to electronics, so I don't really know how to mechanically connect this.  I suppose 
 I could solder six wires to the 6 pins but that seems like a bad idea---but I have to do something.
 
+Luckily, the Arduino people give much better instructions:
+
+http://playground.arduino.cc/Main/MQGasSensors
+
 
