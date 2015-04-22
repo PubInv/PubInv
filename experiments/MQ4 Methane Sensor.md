@@ -21,4 +21,10 @@ Luckily, the Arduino people give much better instructions:
 
 http://playground.arduino.cc/Main/MQGasSensors
 
+===
+
+After considerable effort, I'm giving this up for now.  I tried to bend the leads to fit into bread board.  I suppose if I had six very small aligator clips I might be able to do this.
+
+I'm putting this down for now.
+
 
