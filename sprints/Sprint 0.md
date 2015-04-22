@@ -12,15 +12,21 @@ up my laboratory and improving my Arduino skills.  I am also doing some Arduino 
 and want to continue supporting that.
 
 ## Stories:
-* Sketch design of Lab -- 3 hours
-* Order very tall shelving -- 2 hours
-* Build an Arduino breadboard example of the fan control system for EWB -- 2 hours
+* Sketch design of Lab -- 3 hours - done, in fact electronic lab is set up
+* Order very tall shelving -- 2 hours - done
+* Build an Arduino breadboard example of the fan control system for EWB -- 2 hours - done, took to the meeting
 * Work out initial mathematics of energy balance of biochar production -- 8 hours
-* Experiment with reading analog input with Arduino -- 2 hours
-* Attempt to do dielectric heating of a leaf (possibly with David) -- 8 hours
+* Experiment with reading analog input with Arduino -- 2 hours -- done
+* Attempt to do dielectric heating of a leaf (possibly with David) -- 8 hours -- Need to build a low-current high voltage power supply to do this, it will take longer than 8 hours (got a great reference: http://ocw.mit.edu/courses/physics/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/labs/802x.pdf)
 * Fill out Texas Glassware License -- 3 hours
 
 (Note: The state of Texas in an attempt to curb Meth production requires you to have a license to own laboratory glassare, even a beaker.  This is an onerous regulation for a hobbyist who doesn't know what he wants, but I intend
 to attempt to comply as best I can. The glassware that I need is in support of water quality analysis, pyrolysis, thermal depolymerization, and distillation.)
+
+## Stories as of Wednesday
+
+* Test methane sensor that I got in the mail for EWB with Arduino
+* Test bench power supply
+* Order parts for save, low-current HVPS.
 
 
