@@ -25,8 +25,15 @@ to attempt to comply as best I can. The glassware that I need is in support of w
 
 ## Stories as of Wednesday
 
-* Test methane sensor that I got in the mail for EWB with Arduino
-* Test bench power supply
-* Order parts for save, low-current HVPS.
+* Test methane sensor that I got in the mail for EWB with Arduino  - failed
+* Test bench power supply - done
+* Order parts for safe, low-current HVPS.
+
+## Stories for Thursday
+
+* Build a transistor based oscillator as an exercize.
+* Read and study as much of Horowitz and Hill as possible.
+* Order an inductor?
+* 
 
 
