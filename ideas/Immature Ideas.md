@@ -61,6 +61,8 @@ in place. Then we measure the capacitance of each cell (possibly doing this at w
 permittivity is frequency dependent.) We expect most cells to contain pure water.  Some cells will presumably 
 contain dirt. Some will presumably contain a bacterium, and possibly we can detect this by the dielectric constant (or graph.)
 
+Reference: http://www.microwaves101.com/encyclopedias/measuring-dielectric-constant
+
 ## Idea: Stove-pipe microgenerator
 
 It would be really nice to extract a small amount of power (about 1 Watt, enough to drive an Arduino, 100 milliamps at 12 V ~= 1.2 W) from a stovepipe/smokestack.
