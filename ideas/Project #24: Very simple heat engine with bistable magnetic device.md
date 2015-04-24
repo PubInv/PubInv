@@ -36,7 +36,15 @@ Although not shown, this could be a closed-air engine if we have a large enough 
 
 Perhaps it is not obvious from the diagram, but "N" and "S" in all cases represent the North and South poles of permanent magnets.  (Note that permanent magnets must be protected from heat.) I'm specifically imagining a relatively low heat differential for this system (to bleed power from a smoke stack or exhuast pipe, for instance.)
 
-I'm excited about this idea and may work on it as the first sprint, though I have to order the magnets first!  
+I'm excited about this idea and may work on it as the first sprint, though I have to order the magnets first! 
+
+# April 24th, 2015
+
+I have now obtained a bunch of very small Neobdynium magnets in cylindrical shape, 1/8" long by 1/8" diameter. Also magnet wire for making coils. I've also used my multimeter to observe an induced voltage when moved through a coil.
+
+I believe there are two valuable stories to do for this project now:
+* Build and publish a circuit which allows the simplest possible charging of a capacitor when a single magnet is moved back and forth in a coil.
+* Purchase materials to try to make the "bistable magnetic device". In the short term this can be a wooden dowel 1/8" in diameter and a tiny thin non-ferrous tube.  The idea will be do drill holes in the dowel to place the magnets therein, in order to make the "free piston".  This will then be placed in the tube, which will have magnets mounted on the outside somehow, to try to get the "bistable" behavior.
 
 
 
