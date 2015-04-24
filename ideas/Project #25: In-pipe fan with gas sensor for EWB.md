@@ -21,6 +21,10 @@ I've orderd a "breakout board" which should allow me to solder to it to test it.
 I've been told we are going to exhibit something at the upcoming Mini-Maker Faire in Austin on May 16-17th, so I would
 like to improve this project by that time.
 
+Note that a rooftop fan might be better, because we have to build a vent of some kind there anyway.
+
+A weakness of putting the fan in the pipe is that it obstructs the air flow when not running.  In that sense it may be counter productive.
+
 ## Stories
 
 * Publish photos and sketch of current work
@@ -46,6 +50,7 @@ like to improve this project by that time.
 * This firm seems to just use caps rather than in-pip solutions: https://www.roofvents.com/aura-fan-kit-flat-roof-mounted-exhaust-fan-4800-cfm-kit-includes-24-diameter-aura-vent-6-collar
 * There exist Duct Fans that are alread in-pipe, maybe I can find a 4" one: http://www.homedepot.com/p/Suncourt-Corded-4-in-In-Line-Duct-Fan-DB204-CRD/203227157?cm_mmc=Shopping%7CBase&gclid=CjwKEAjw0-epBRDOp7f7lOG0zl4SJABxJg9qP4Uio9FMdzkf_jG-On3bK42qXETH70YwsbNP0ENgphoCUl7w_wcB&gclsrc=aw.ds
 * Here's a 4" inline 12 volt blower: http://www.amazon.com/Inline-Blower-235-CFM-Volt/dp/B001JHJ0WW
+* Another one: http://www.amazon.com/Attwood-Quiet-Blower-White-4-Inch/dp/B003BMATFK
 
 
 
