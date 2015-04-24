@@ -115,6 +115,10 @@ Joke: We could put this inside a Doc Halliday cutter and generate power that way
 
 You could mount this on a sqirrel, and use it to power a miniature "squirrel cam".  The squirrels in my back yard spend a lot of time changing direction!  It would be pretty fun to see the world as a squirrel---they fly, but along bent branches, not in a straight line.  A roller-coaster ride.  Now if I can only build an air rifle that will fit the camera and generator onto them....
 
+Note: You could do this with 3 ring rotators in 3 perpendicular planes.
+
+Note: It is simpler to extract energy from a change in rotation than from constant rotation, which requires some sort of external friction force.
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
