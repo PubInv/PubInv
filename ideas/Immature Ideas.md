@@ -30,6 +30,21 @@ second Arduino!
 This would apply to all kinds of control problems, such as keeping a neo-natal incubator at a correct temperature, 
 or controlling a fire within a temperature range to produce good biochar.
 
+## Idea: Arduino sketch sketcher for Homeostasis
+
+Build a D3-based software system that lets you automatically generate plans that make solving a "homeostasis" problem with an Arduino easier.
+
+Many problems that you wish to address with an Arduino can be valuably charactized as a variant of the problem of maintaining some conditions (homeostatis).  For example, the premature infant incubator problem is one of maintaining the incubator at 37C within fairly narrow limits. Although not particularly difficult if you are a skilled programmer, we can imagine a website (publishable here on GitHub) that makes it even easier.
+
+We could have a D3-based visual system that allow you to drag-and-drop from an expandable palette of sensors, remediators, and strategies.  Although we can allow new sensors to be added, we can prepopulate with some basic sensors such as the MQ4 methane sesnor and a basic temperature sensor.  Remediations could include "running a fan" or "sounding an alarm" or "turning on the heating coil". A user may choose a remediation strategy such as "turn on remediation #1 for 10 seconds and 80% power"
+
+After the user sketches the system visually, the output includes:
+* A bill of materials,
+* An explicit sktech that can be downloaded directly into the Arduino, 
+* A library-based Arduino sketch,
+* A schematic, and even
+* A printed circuit board---this would be pushing it!
+
 ## Idea: Make an accurate physical simulation of a biochar retort
 
 Build a D3-based usable simulation of a biochar retort, using a true physical model that was fairly 
