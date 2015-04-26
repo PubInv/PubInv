@@ -45,6 +45,12 @@ After the user sketches the system visually, the output includes:
 * A schematic, and even
 * A printed circuit board---this would be pushing it!
 
+### RemeDI: A Digital Interface like MIDI for Arduino sensors
+
+A part of this idea would be to provide a "Digital Interface" to each kind of sensor.  This would be an expanding library, but it would allow each sensor and remediation to be treated in a fairly standard way.
+
+An important aspect of this would be to create an "event driven" approach.  (Probably a library for this already exists, I need to research.) We could treat each sensor as if it produced Events, and allow you to register Event Handlers for each of these events.  A typical Event would be "Temperature got too hot" from the TN335 sensor or "the push button was pushed". Programming could then be thought of in terms of creating event handlers.  The Remediation Actions (Or perhaps just "Actions" is a better term) would Also have a digitial interface, so you would call "Turn motor on for 3 seconds".  The library would have to handle the interlacing of time so that multiple actions could be handled at various times.
+
 ## Idea: Make an accurate physical simulation of a biochar retort
 
 Build a D3-based usable simulation of a biochar retort, using a true physical model that was fairly 
