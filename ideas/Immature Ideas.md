@@ -66,6 +66,8 @@ Note that this library: https://github.com/igormiktor/arduino-EventManager seems
 
 Note: A firm, http://www.vernier.com/engineering/arduino/, Vernier, appears to have standardized their own line of sensors for the Arduino.  In that sense they may have done a lot of what we want here.  It is unclear how extensible it is.  People have built a "Vernier Shield", because most of the Vernier sensors appear to use their own physical public standard.
 
+Note: A Dallas firm has created the "1-Wire" approach to building sensors --- basically they implement a simple digital protocol for the communication between the sensor and the system (possibly an Arduino.)  http://playground.arduino.cc/Learning/OneWire  This seems like a very nice idea but requires extra electronics on the sensor side.  This is not quite the "pick your sensor and software wrapper to make it look digital" that this idea was going for.
+
 ## Idea: Make an accurate physical simulation of a biochar retort
 
 Build a D3-based usable simulation of a biochar retort, using a true physical model that was fairly 
