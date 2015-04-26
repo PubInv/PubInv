@@ -53,6 +53,15 @@ An important aspect of this would be to create an "event driven" approach.  (Pro
 
 Note: It appears that QP, and possibly other solutions, already do this. http://www.state-machine.com/qm/  At least they doe the Event-driven stuff, ad preemptive multi-tasking.  It is unclear how much they are handling the other idea of standardizing the physical sensors, but possibly quite a lot.  It is unclear that they focus on homeostasis or use the physical model of variables/remediation that I was thinking of, but clearly I will need to investigate.
 
+Upon looking over QP, I infer:
+* It is focused on State Machines, a valuable usecase but not quite the homeostatis issue I was looking for,
+* It pushes you into the C++ domain, which seems unnecesary,
+* You have to download the software,
+* It is representing the resulting programs as XML, which presumably puts you most in the QP domain, and
+* I didn't see anything that really addressed the sensor encapsulation problem.
+
+So although I need to do some more research, it seems like a D3-based, generate the code for me, with a an emphasis on specific sensors, might be a very valuable addition to the space of Arduino programming.  I need to investigate this further.
+
 ## Idea: Make an accurate physical simulation of a biochar retort
 
 Build a D3-based usable simulation of a biochar retort, using a true physical model that was fairly 
