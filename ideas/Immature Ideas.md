@@ -62,6 +62,8 @@ Upon looking over QP, I infer:
 
 So although I need to do some more research, it seems like a D3-based, generate the code for me, with a an emphasis on specific sensors, might be a very valuable addition to the space of Arduino programming.  I need to investigate this further.
 
+Note that this library: https://github.com/igormiktor/arduino-EventManager seems somewhat simpler, but very similar in some ways.
+
 ## Idea: Make an accurate physical simulation of a biochar retort
 
 Build a D3-based usable simulation of a biochar retort, using a true physical model that was fairly 
