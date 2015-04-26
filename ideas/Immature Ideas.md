@@ -51,6 +51,8 @@ A part of this idea would be to provide a "Digital Interface" to each kind of se
 
 An important aspect of this would be to create an "event driven" approach.  (Probably a library for this already exists, I need to research.) We could treat each sensor as if it produced Events, and allow you to register Event Handlers for each of these events.  A typical Event would be "Temperature got too hot" from the TN335 sensor or "the push button was pushed". Programming could then be thought of in terms of creating event handlers.  The Remediation Actions (Or perhaps just "Actions" is a better term) would Also have a digitial interface, so you would call "Turn motor on for 3 seconds".  The library would have to handle the interlacing of time so that multiple actions could be handled at various times.
 
+Note: It appears that QP, and possibly other solutions, already do this. http://www.state-machine.com/qm/  At least they doe the Event-driven stuff, ad preemptive multi-tasking.  It is unclear how much they are handling the other idea of standardizing the physical sensors, but possibly quite a lot.  It is unclear that they focus on homeostasis or use the physical model of variables/remediation that I was thinking of, but clearly I will need to investigate.
+
 ## Idea: Make an accurate physical simulation of a biochar retort
 
 Build a D3-based usable simulation of a biochar retort, using a true physical model that was fairly 
