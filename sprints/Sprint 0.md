@@ -33,7 +33,14 @@ to attempt to comply as best I can. The glassware that I need is in support of w
 
 * Build a transistor based oscillator as an exercize.
 * Read and study as much of Horowitz and Hill as possible.
-* Order an inductor?
-* 
+* Measured time-constant of an RC circut effectively - done
+* Attempt to measure voltage induced by moving magnet - done, with some trouble.
+
+
+## Final stories of Sprint
+* Work with Methane sensor
+* Attempt to build High-voltage power supply
+
+
 
 
