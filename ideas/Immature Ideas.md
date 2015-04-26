@@ -64,6 +64,8 @@ So although I need to do some more research, it seems like a D3-based, generate 
 
 Note that this library: https://github.com/igormiktor/arduino-EventManager seems somewhat simpler, but very similar in some ways.
 
+Note: A firm, http://www.vernier.com/engineering/arduino/, Vernier, appears to have standardized their own line of sensors for the Arduino.  In that sense they may have done a lot of what we want here.  It is unclear how extensible it is.  People have built a "Vernier Shield", because most of the Vernier sensors appear to use their own physical public standard.
+
 ## Idea: Make an accurate physical simulation of a biochar retort
 
 Build a D3-based usable simulation of a biochar retort, using a true physical model that was fairly 
