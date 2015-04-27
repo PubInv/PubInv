@@ -41,6 +41,12 @@ to attempt to comply as best I can. The glassware that I need is in support of w
 * Work with Methane sensor
 * Attempt to build High-voltage power supply
 
+# Conclusion
+
+* Worked with Methane sensor, failed to noticably react to any volatiles that I tried.
+* Tried to build HVPS, failed miserably, transistor not working, must de-solder and test.
+* 
+
 
 
 
