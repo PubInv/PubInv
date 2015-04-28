@@ -28,7 +28,7 @@ A weakness of putting the fan in the pipe is that it obstructs the air flow when
 ## Stories
 
 * Publish photos and sketch of current work
-* Order a 12V fan that I can control with a relay or transistor (I have MOSFET transistors that can switch a lot of power.)
+* Order a 12V fan that I can control with a relay or transistor (I have MOSFET transistors that can switch a lot of power.) - done
 * Get a piece of PVC pipe into which we can mount the fan and potentially the sensor.
 * Breadboard so that I can use 12V power instead of the 5V Arduino power for the fan.
 * Try to mount the fan inside the PVC.
@@ -37,7 +37,7 @@ A weakness of putting the fan in the pipe is that it obstructs the air flow when
 * Get a smaller Arduino and a separate enclosure for actually mounting on the fan.
 * Build a perfboard version (not a breadboard!) for demonstrations
 * Publish schematics, maybe even EagleCAD up a PCB?
-* Get the MQ4 sesnor working, burned in and tested.
+* Get the MQ4 sesnor working, burned in and tested - underway
 * Get ready for Mini-Maker Faire!
 * Test in a real barn/latrine!
 * Test on my compost pile!
