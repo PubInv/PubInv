@@ -64,5 +64,14 @@ Can we build a Doggy Pooper Scooper that is battery powered and uses RC heating 
 
 The user experience should be: scoop, and by the time you get home it is completely dry and odor free.
 
+# RF Pyrolysis
+
+I have performed and planned some experiments with RF Heating (also known as dielectric heating.) In pursuant of that, I built a high-voltage power supply: https://github.com/PIFAH/PIFAH/blob/master/experiments/MIT-OCW%20High%20Voltage%20Power%20Supply.md
+It is probably not quite up to snuff, as we really need a AC source at 10 MHz and probably more than a few Watts of power, but it is a start.
+
+The reason I think this is interesting is that it may be a more efficient and safer way of drying feces and pyrolyzing it.  Since in any pyrolysis thorough drying is a necessary part of the process and major cost of the total energy, I would like to know if we can dry things using RF Heating (possibly in combination with a vacuum to lower the boiling point of water) efficiently and safely.  This may be safer than joule heating (or burning a fuel) because it is cleaner, can heat "from the inside" of the sample, and might prevent a dry crust on the outside from forming. Furtermore, although it requires high voltage, it might be safer overall than higher temperatures, in much the same way that a microwave oven (a related but distinct heating mechanism) is in someways safer than a gas overn.
+
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH Project #23:  Pyrolysis Toilet</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>. 
 
