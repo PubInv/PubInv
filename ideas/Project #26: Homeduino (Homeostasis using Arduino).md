@@ -22,6 +22,8 @@ This could LITERALLY be done as simulation at the above site, and people could f
 
 This would apply to all kinds of control problems, such as keeping a neo-natal incubator at a correct temperature, or controlling a fire within a temperature range to produce good biochar.
 
+Note: The PID algortihm could be a potential candidate algoirthm for this, and there exists and Arduino library for it already: http://en.wikipedia.org/wiki/PID_controller
+
 ## Idea: Arduino sketch sketcher for Homeostasis
 
 Build a D3-based software system that lets you automatically generate plans that make solving a "homeostasis" problem with an Arduino easier.
