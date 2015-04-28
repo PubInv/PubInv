@@ -21,6 +21,16 @@ We can imagine a toilet that tracked and recorded:
 * Analyzed color,
 * Looked for blood streaks.
 
+Melody Kramer added the valuable insight that:
+"With urine, could conduct:
+
+pregnancy tests
+STD tests
+UTI tests
+BAC Test (imagine a toilet in a nightclub telling you if you couldn't drive)",
+
+to which I think we might be able to add a test for diabetes.  In fact this is a wonderful idea, and probably easier than my original idea!  Thanks, Mel!
+
 Note that in "West", parasites are generally not a problem, whereas getting enough fiber is. The situation
 is reversed in less affluent nations, where plant-based diets are more common, but parasites are more
 of a problem in those nations (which are correlated with tropical climate.) This idea could be valuable
