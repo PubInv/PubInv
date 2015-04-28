@@ -5,8 +5,8 @@
 * Get the HVPS to work - achieved!
 * Be able to properly drive a fan
 * Get the gas sensosrs to work
-* Build the piston assembly of the simple heat engine
-* Be able to charge a capacitor for the free piston
+* Build the piston assembly of the simple heat engine -- delay until next sprint
+* Be able to charge a capacitor for the free piston -- delay until next sprint.
 
 # Stories
 
