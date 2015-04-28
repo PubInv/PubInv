@@ -8,3 +8,6 @@ less than a milliamp.) I am unsure of that, because I may have mistakenly chosen
 
 I built this both as a learning exercise, but more importantly as a step to being able to do the Radio-Frequency heating 
 experiments mentioned elsewhere in this directory.
+
+![imag0111](https://cloud.githubusercontent.com/assets/5296671/7363243/05bd6710-ed3d-11e4-9137-587819985cc3.jpg)
+
