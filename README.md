@@ -9,7 +9,7 @@ If you are one of those persons, I invite you to participate with me in a projec
 What we do hope to use some modern principles:
 * We will be completely transparent and open from the first.
 * Everything we produce will be shared to everyone without exception.
-* We will organize our using an Agile methodology, whether our work is software, hardware, research, or education.
+* We will organize our work using an Agile methodology, whether our work is software, hardware, research, or education.
 In other words, this will be an free-libre open-source project that welcomes participation from the public and seeks to organize work so that the work so that as many hands can pitch in as possible, and so that as many voices can contribute as possible.
 
 I am not committed to this project. If I find an existing project that can utilize my talents better, I may drop PIFAH to assist others. I don’t want this to be about me.
