@@ -11,3 +11,4 @@ experiments mentioned elsewhere in this directory.
 
 ![imag0111](https://cloud.githubusercontent.com/assets/5296671/7363243/05bd6710-ed3d-11e4-9137-587819985cc3.jpg)
 
+Note: My friend David Vaughan who assisted me with this also built one.  He tried to drive it up to 1 Megahertz in oscillation (the circuit as designed oscillates at about 215KHz.) Unfortunately as he did so the output voltage dropped precipitously. Sadly I am not a good enough electical engineer to immediatly understand why this out to be the case.
