@@ -16,3 +16,4 @@ energetically to drying by more rapid heating?  I have researched this for about
 explanation of the energy involved.  I believe the cost of the vaporization must still be "paid" one way or another, either 
 in the pump or in heat, but it is possible that a process carried out at low temperature may be more efficient.  After all,
 we don't really want hot steam as a byproduct, we just want to dry the material at room temperature, all else being equal.
+* Does anyone know anything about the efficiency of RF heating?  That is, if we heat a flat material between two electrodes, can we expect this to compare with microwave (magnetron) or joule heating?  
