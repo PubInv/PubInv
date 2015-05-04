@@ -1,5 +1,7 @@
 # Theme: Get control of my electronics
 
+Much of the work of this sprint was written up in a blog post: http://publicinvention.blogspot.com/2015/05/an-artificial-test-preemie-for-incubator.html
+
 ## Goals
 
 * Get the HVPS to work - achieved!
