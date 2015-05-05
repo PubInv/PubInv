@@ -108,6 +108,11 @@ I've been doing a lot of breadboarding on an Arduino. It is easy to make a mista
 
 I wonder if we could build a solid state breadboard that would handle the connections for us?  Perhaps it could even identify compoonents for us, and automatically provide places for O-scope probes.
 
+## Idea: Build a MOSFET-And-Sensor breakout board.
+
+At Sparkfun and Fritzing, there are is a lot of open-source sharing of designs, some of which are in a form that things can be easily ordered as PCBs.  Commonly shared valuable designs include "Breakout boards" which make it easier to mount sensors, for example.
+
+I find myself right now in need of something fairly generic: A breakout board that has a MOSFET, a (potentially) high voltage input (by high I mean up to 30V, higher than an Arduino) and a place to solder a sensor.  In my case, thise is a sensor uses one +5V rail, and ground rail, and brings back a signal in the 0V to +5V range.  I think this is something than many other people would use.
 
 
 
