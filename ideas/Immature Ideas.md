@@ -102,6 +102,14 @@ Note: You could do this with 3 ring rotators in 3 perpendicular planes.
 
 Note: It is simpler to extract energy from a change in rotation than from constant rotation, which requires some sort of external friction force.
 
+## Idea: Solid-state breadboard
+
+I've been doing a lot of breadboarding on an Arduino. It is easy to make a mistake, and it wastes wires, and it is hard to see, and it is too small.
+
+I wonder if we could build a solid state breadboard that would handle the connections for us?  Perhaps it could even identify compoonents for us, and automatically provide places for O-scope probes.
+
+
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
