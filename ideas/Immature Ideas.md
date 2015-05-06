@@ -114,6 +114,9 @@ At Sparkfun and Fritzing, there are is a lot of open-source sharing of designs, 
 
 I find myself right now in need of something fairly generic: A breakout board that has a MOSFET, a (potentially) high voltage input (by high I mean up to 30V, higher than an Arduino) and a place to solder a sensor.  In my case, thise is a sensor uses one +5V rail, and ground rail, and brings back a signal in the 0V to +5V range.  I think this is something than many other people would use.
 
+## Idea: Micropower to pump hot water for neonatal heating
+
+Possibly we can move a great deal of heat by using a very small pump attached to a large pot of water.  If this could be done at cell-phone level milliwatttage, we might be in business here.
 
 
 
