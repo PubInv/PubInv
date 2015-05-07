@@ -120,6 +120,8 @@ Possibly we can move a great deal of heat by using a very small pump attached to
 
 ## Idea: (Born of frustration) Can someobdy please build a solid-state breadboard?
 
+## Idea: Oscillatory cryotherapy and heat machine (probably done)
 
+I'm sure somebody has had this idea, but a "pad" that oscillated relatively rapidly (say 60 seconds) between ice cold and very warm could be a pleasant therapeutic device.  I suspect this alreayd exists. Certainly the principle is not new, it would just be the implementation that would matter.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
