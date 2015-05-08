@@ -12,7 +12,6 @@ Could we build a "blinker", a cover that would briefly open to allow a sensor to
 applied in a very hostile environment, like the underside of a working lawnmower or the inside of a smoke stack?
 
 
-
 ## Idea: Make an accurate physical simulation of a biochar retort
 
 Build a D3-based usable simulation of a biochar retort, using a true physical model that was fairly 
