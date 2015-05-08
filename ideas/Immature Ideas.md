@@ -108,6 +108,18 @@ I've been doing a lot of breadboarding on an Arduino. It is easy to make a mista
 
 I wonder if we could build a solid state breadboard that would handle the connections for us?  Perhaps it could even identify compoonents for us, and automatically provide places for O-scope probes.
 
+* * * 
+
+After thinking about this some more, it is clearly possible to build a "wireless" breadboard.  If you want to have 10 "slots" in the breadboard, you would ONLY need 100 relays.  This sounds a little crazy, but it might be possible. I imagine a system in which you use LEDs to show which rail is "wired" to which other rails.  Then instead of jamming unreliable little wires jumpers into the system, you could actually program the breadboard configuration with an Arduino.  Which means of course that you could program it with a full-on computer---perhaps integrate with Fritzing.  It could be a very educational system.
+
+100 relays for 10 slots (In general, you need N * N - 1 relays to make all possible physical connections.)  At the risk of reduced flexibility you reduce the asymptotic complexity.  For example, you almost certunatly don't need a a full 20 slot system --- you could have two 10-slot board areas, with a few rails available for communication between the two areas.
+
+I suspect this could also bet done with a FPGA --- but if you do that, you may be limited to CMOS logic voltages.  You would have a hard time adding true power applications to that.  However, I could be wrong---certainly, if you used MOSFETS you could go up to 60V and 30A, although I don't know if there would be affects at low and reverse voltages---relays would avoid that problem completely.
+
+Perhaps there is some switching theory that would let you decrease the asymptotic complexity as well---off the top of my head I don't know it.  You might be able to make the number of relays limited to K * N, where K is a constant and N is the number of components you are tryin to breadboard.
+
+This would be a fun project, and the result would be salable, if only for education purposes.
+
 ## Idea: Build a MOSFET-And-Sensor breakout board.
 
 At Sparkfun and Fritzing, there are is a lot of open-source sharing of designs, some of which are in a form that things can be easily ordered as PCBs.  Commonly shared valuable designs include "Breakout boards" which make it easier to mount sensors, for example.
@@ -123,5 +135,9 @@ Possibly we can move a great deal of heat by using a very small pump attached to
 ## Idea: Oscillatory cryotherapy and heat machine (probably done)
 
 I'm sure somebody has had this idea, but a "pad" that oscillated relatively rapidly (say 60 seconds) between ice cold and very warm could be a pleasant therapeutic device.  I suspect this alreayd exists. Certainly the principle is not new, it would just be the implementation that would matter.
+
+## Idea: A low-battery Buzzer for the Arduino
+
+Today I ran down a 9V battery leaving it plugged into my Arduino.  Although there are lots of things you can do to decrease power, they are a little cumbersome.  But in anycase you will always run out of battery power eventually.  The Arduino allows you to read its own power voltage. Most batteries have an approximately flat but slightly decreasing voltage as they age.  The Arduino UNO has an on-board voltage regulator.  Either reading the input voltage to the regulator (might require a circuit) or the regulated voltage would give you SOME warning that you could hook up to a buzzer.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
