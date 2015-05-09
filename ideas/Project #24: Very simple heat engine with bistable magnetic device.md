@@ -58,6 +58,8 @@ I am not sure we can get valve that release explosively, but that would be idea.
 
 Note that even if we try to do this as a way to avoid the hot seal, we still are using the basic hydraulic amplification principle, as well as a free-piston linear actuator.  So I need to be able to do both of those things to make this work.
 
+In a sense, this is a just a variation of the above idea. Both are using the idea of bistable device, magnetic or mechanical, to store energy until it can be released in a way that you can extract it and get usable power out, and have certainly that you can return to a state guaranteed to move be replicable when more heat is added.
+
 
 
 
