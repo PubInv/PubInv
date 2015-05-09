@@ -56,6 +56,8 @@ Mount a linear alternator (that is, a generator consisting of a magnetic moving 
 
 I am not sure we can get valve that release explosively, but that would be idea.  A valve that at 16 psi releases immediately and doesn't shut until 15 psi.  It should be possible to bulid such a device.
 
+Note that even if we try to do this as a way to avoid the hot seal, we still are using the basic hydraulic amplification principle, as well as a free-piston linear actuator.  So I need to be able to do both of those things to make this work.
+
 
 
 
