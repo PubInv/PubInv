@@ -46,6 +46,16 @@ I believe there are two valuable stories to do for this project now:
 * Build and publish a circuit which allows the simplest possible charging of a capacitor when a single magnet is moved back and forth in a coil.
 * Purchase materials to try to make the "bistable magnetic device". In the short term this can be a wooden dowel 1/8" in diameter and a tiny thin non-ferrous tube.  The idea will be do drill holes in the dowel to place the magnets therein, in order to make the "free piston".  This will then be placed in the tube, which will have magnets mounted on the outside somehow, to try to get the "bistable" behavior.
 
+# May 9th, 2015
+
+In thinking more about this it seems that problem is that this requires a "hot seal", that is, you have to have a tight pressure seal.
+
+I think I came up with an even more reliable design.
+
+Mount a linear alternator (that is, a generator consisting of a magnetic moving linearly in a coil) on a spring. Place this in a very small diameter tube. A seal is not necessary. On the hot tank mount two pressure valve: an intake valve set for 14 psi (that is, less than atmospheric pressure) and an exit valve set to 16 psi.  As the air in the chamber is heated, it will move the actuator, although this may not be much. When the pressure reach 16 psi, it will be released, causing the piston to more at great amplitude.
+
+I am not sure we can get valve that release explosively, but that would be idea.  A valve that at 16 psi releases immediately and doesn't shut until 15 psi.  It should be possible to bulid such a device.
+
 
 
 
