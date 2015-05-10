@@ -139,4 +139,14 @@ I'm sure somebody has had this idea, but a "pad" that oscillated relatively rapi
 
 Today I ran down a 9V battery leaving it plugged into my Arduino.  Although there are lots of things you can do to decrease power, they are a little cumbersome.  But in anycase you will always run out of battery power eventually.  The Arduino allows you to read its own power voltage. Most batteries have an approximately flat but slightly decreasing voltage as they age.  The Arduino UNO has an on-board voltage regulator.  Either reading the input voltage to the regulator (might require a circuit) or the regulated voltage would give you SOME warning that you could hook up to a buzzer.
 
+## Idea: String-art percussion musical instrument.
+
+String wires across a frame in such a way that a large a number of wires are exposed to be played by striking with s drum stick.  For example, build a frame about 1 meter square, and string 40 wires around it such that they form an 40-sided polygon.  A musician can take a drumstick and strick any of the 40 wires individually.
+
+## Idea: Multi-gas sensor
+
+There exists a number of relatively inexpensive gas sensors sold by Sparkfun, for example.  They have part numbers like MQ-2 through MQ-9 and MQ-135.  These sense concentrations for various gases.  I doubt this is as valuable as spectroscopy or gas chromatography, but it having a portable instrument that showed you the read-outs of a variety f these sensors could be quite valuable.  It is possibly that after building such a device we would discover uses for it which are not apparent on first thought.  Many of these sensors have somewhat overlapping sensitive to various volatile gases, but one can imagine that possibly a certain amount of data analysis could allow you to tease out the relationships between various gases.  Each of these sensors cost about $5 (and up to $35).
+
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
