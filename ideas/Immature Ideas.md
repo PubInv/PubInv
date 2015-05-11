@@ -157,6 +157,8 @@ Making a 90-degree phase change in a continuous AC current is in chapter one of 
 
 This would potentially allow you to build very small Stirling engines, possibly in multiples.  One can imagine "printing a sheet" of Stirling Engines, which could then be wrapped around an exhaust pipe to make micro-power.
 
+Upon reading further I believe this all old-hat and has been exhausted by others.
+
 
 ## Idea: Can we pump ferrofluids around with coils?
 
