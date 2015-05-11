@@ -147,6 +147,27 @@ String wires across a frame in such a way that a large a number of wires are exp
 
 There exists a number of relatively inexpensive gas sensors sold by Sparkfun, for example.  They have part numbers like MQ-2 through MQ-9 and MQ-135.  These sense concentrations for various gases.  I doubt this is as valuable as spectroscopy or gas chromatography, but it having a portable instrument that showed you the read-outs of a variety f these sensors could be quite valuable.  It is possibly that after building such a device we would discover uses for it which are not apparent on first thought.  Many of these sensors have somewhat overlapping sensitive to various volatile gases, but one can imagine that possibly a certain amount of data analysis could allow you to tease out the relationships between various gases.  Each of these sensors cost about $5 (and up to $35).
 
+## Idea: Stirling Egine displacer phase done electronically...
 
+Stirling engines (http://en.wikipedia.org/wiki/Stirling_engine) are heat engines valued for their simplicity and robustness.  They basically rely on a physical mechanism to keep the displacer 90 degrees out of phase with the power piston. This is done with a linkage in most examples.
+
+However, I wonder if we could build a Stirling engine that had two free pistons, both of which tied to so-called linear alternators (that is, they generate EMF directly by pushing a magnet into a coil, and move the displacer 90 degress out of phase with the power piston?  That is, for example, could we use either a properly designed circuit to do this, or perhaps even a microcontroller.
+
+Making a 90-degree phase change in a continuous AC current is in chapter one of Horowitz and Hill.  I'm afraid I'm not smart enough to immediately see if this can be done in a non-continuous way with a simple circuit.  Clearly it can be done with a microcontroller if we have excess power (for startup only, it should generate power once it is going.)
+
+This would potentially allow you to build very small Stirling engines, possibly in multiples.  One can imagine "printing a sheet" of Stirling Engines, which could then be wrapped around an exhaust pipe to make micro-power.
+
+
+## Idea: Can we pump ferrofluids around with coils?
+
+If we could, then one can imagine a wide variety of applications that could almost be printed much as a Printed Circuit Board is printed.
+
+## Idea: Reliable instant-on power generation with bimetallic valves
+
+A basic problem is how to reliably "wake up" a heat engine when the heat source is hot enough to provide power. The Stirling engine, for example, often must be primed by initiating mostion.  We would prefer a system that could stay cold and dead reliably for months and then begin extracing power reliably when the heat source gets hot.
+
+I think this is a rather difficult problem, but the best that I can come up with is to keep a gas chamber perfectly sealed until a sufficient temperature difference for power extraction is obtained.  The only way I can think to do this very reliably is with a bimetallic valve which keeps pressure very solidly until opening when hot.  Possibly such things already exist.
+
+If we had a valve that waited until X degrees of temperature difference existed and then would stay open until (X-K) degrees of temperature difference existed, we would have a very reliable system.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
