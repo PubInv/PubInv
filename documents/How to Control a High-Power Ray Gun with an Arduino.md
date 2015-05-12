@@ -3,10 +3,10 @@
 1. Get a Ray Gun (RG).
 2. Decide how to power the RG. Batteries are portable. Up to 30A and 60V can be powered with the Fairchild Semiconductor
 FQP30N06L for $0.95, as explained in a bildr.org (tutorial)[http://bildr.org/2012/03/rfp30n06le-arduino/].
-3. Get an N4001 diode to use as a flyback diode, since yoru RG might produce a back voltage.
+3. Get an N4001 diode to use as a flyback diode, since yoru RG might produce a back voltage. (TBD: I need to check if this is really a well-rated diode for this circuit.)
 4. Build the circuit:
 
-Wear your safety goggles when cutting wire or soldering. Remember, use Red wires for power, Black for ground, and other colors for everything else.
+Wear your safety goggles when cutting wire or soldering. Remember, use Red wires for power, Black for ground, and other colors for everything else. I like Green for important signal wires.
 
 5. Test your ability to fire by applying 5V to the green wire.
 6. Choose a sensor, such as a Hidden Hostile ExtraTerrestrial Probability Detector. If an HHETPD is hard to source,
