@@ -11,8 +11,11 @@
 * Order a new MQ4 sensor and get a new Pololu board for it.
 * Solder up MOSFET board for fan control
 * Potentially order PCB board as an experiment.
+* Figure out a better way to make presentations
+* Publish amp-hour understanding of preemie statistics.
+* Figure out a good way to compute everything that we do.
 
-* Go on to working on biochar or other ideas
+* Go on to working on basic biochar concepts.
 
 
 
