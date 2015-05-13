@@ -172,4 +172,8 @@ I think this is a rather difficult problem, but the best that I can come up with
 
 If we had a valve that waited until X degrees of temperature difference existed and then would stay open until (X-K) degrees of temperature difference existed, we would have a very reliable system.
 
+## Idea: Phased Array Sonic Micro Communication
+
+WiFi is an excellent communcation mechanism.  Wifi chips and shields are available for the Arduino.  I wonder if we could build an inexpensive system with mere microphones that could "find" each other in space, so that two Arduinos could communicate with each other?  This could be conceivably be done with small phased arrays of microphones.  I'm not sure this would really be better than radio communications---but at least it would be interesting. In theory this could be done very very inexpensively.
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
