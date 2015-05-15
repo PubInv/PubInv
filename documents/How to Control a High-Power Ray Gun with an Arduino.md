@@ -36,4 +36,5 @@ using A0 for the input. It will probably look like this:
 * "High-Power Control: Arduino + N-Channel MOSFET" http://bildr.org/2012/03/rfp30n06le-arduino
 * Adafruit ARDX - v1.3 Experimentation Kit for Arduino (Uno R3) - v1.3 http://www.adafruit.com/products/170
 * We are planning to produce the circuit above as a sharable PCB design. Look for it at the Engineers Without Borders GitHub 
-(repository)[https://github.com/PIFAH/EWB]
+[repository](https://github.com/PIFAH/EWB)
+* http://www.instructables.com/id/Yet-Another-Arduino-110v-Power-Controller/
