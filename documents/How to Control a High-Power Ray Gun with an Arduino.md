@@ -2,7 +2,7 @@
 
 1. Get a Ray Gun (RG).
 2. Decide how to power the RG. Batteries are portable. Up to 30A and 60V can be powered with the Fairchild Semiconductor
-FQP30N06L for $0.95, as explained in a bildr.org (tutorial)[http://bildr.org/2012/03/rfp30n06le-arduino/].
+FQP30N06L for $0.95, as explained in a bildr.org [tutorial](http://bildr.org/2012/03/rfp30n06le-arduino/).
 3. Get an N4001 diode to use as a flyback diode, since yoru RG might produce a back voltage. (TBD: I need to check if this is really a well-rated diode for this circuit.)
 4. Build the circuit:
 
