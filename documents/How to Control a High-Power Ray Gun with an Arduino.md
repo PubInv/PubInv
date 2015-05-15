@@ -38,3 +38,4 @@ using A0 for the input. It will probably look like this:
 * We are planning to produce the circuit above as a sharable PCB design. Look for it at the Engineers Without Borders GitHub 
 [repository](https://github.com/PIFAH/EWB)
 * http://www.instructables.com/id/Yet-Another-Arduino-110v-Power-Controller/
+* http://arduino-info.wikispaces.com/ArduinoPower
