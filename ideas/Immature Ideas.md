@@ -139,6 +139,8 @@ I'm sure somebody has had this idea, but a "pad" that oscillated relatively rapi
 
 Today I ran down a 9V battery leaving it plugged into my Arduino.  Although there are lots of things you can do to decrease power, they are a little cumbersome.  But in anycase you will always run out of battery power eventually.  The Arduino allows you to read its own power voltage. Most batteries have an approximately flat but slightly decreasing voltage as they age.  The Arduino UNO has an on-board voltage regulator.  Either reading the input voltage to the regulator (might require a circuit) or the regulated voltage would give you SOME warning that you could hook up to a buzzer.
 
+My experience at Austin Mini Maker Faire has led me to believe even further that this is a very vaulable, very reusable project. I think this should be given a high prority.
+
 ## Idea: String-art percussion musical instrument.
 
 String wires across a frame in such a way that a large a number of wires are exposed to be played by striking with s drum stick.  For example, build a frame about 1 meter square, and string 40 wires around it such that they form an 40-sided polygon.  A musician can take a drumstick and strick any of the 40 wires individually.
