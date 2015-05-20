@@ -44,3 +44,12 @@ I am attempting to construct the magnetic actuator anew with a poster-board wrap
 ![imag0167](https://cloud.githubusercontent.com/assets/5296671/7717453/696f8140-fe67-11e4-9946-693e15722392.jpg)
 ![imag0169](https://cloud.githubusercontent.com/assets/5296671/7717455/6972f24e-fe67-11e4-8186-548a4fa34717.jpg)
 
+## Wednesday
+
+I learned that the tightness of the windings really matters.  I'm now getting a few ounces of force, I imagine.  I have a strange assymetry in the actuator I built that I can't explain.
+
+I tried using an aluminum tube and it seemed very weak --- possibly the Krebbs effect at work.
+
+I embedded two magnets in a wooden dowel.  When that is placed inside a PVC pipe with a coil around it, I am starting to see the kind of behavior I expect, though the weird assymetry persists.
+
+I am very tempted to buy some better materials---I know that will make a difference, but it is also a delay and an expense.  I want to carry on with as many experiments as I can at present.
