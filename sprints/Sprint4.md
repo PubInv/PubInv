@@ -53,3 +53,7 @@ I tried using an aluminum tube and it seemed very weak --- possibly the Krebbs e
 I embedded two magnets in a wooden dowel.  When that is placed inside a PVC pipe with a coil around it, I am starting to see the kind of behavior I expect, though the weird assymetry persists.
 
 I am very tempted to buy some better materials---I know that will make a difference, but it is also a delay and an expense.  I want to carry on with as many experiments as I can at present.
+
+General lesson:  It is really hard to get a coil 3/4" wide to discrimnate a magnet only a 1/2" long.
+
+I've got a bistable system, but it should have 3 or 4 poles (for 2 or 3 magnets), that is, 3 stable conditions.  In stead it seems to "wash out" in the middle.  it is as if the flux within the coil is swamped by the flux at either end.
