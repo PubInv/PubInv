@@ -37,3 +37,10 @@ I was quite surprised that the force was insufficient, although my coil has only
 I am attempting to construct the magnetic actuator anew with a poster-board wrapper. Hopefully this will be both "slicker", having less friction, and will be lighter. It is possible this model will work.  It is possible that I will have to go back to the drawing boards.
 
 ![imag0170](https://cloud.githubusercontent.com/assets/5296671/7717488/d201cc4a-fe67-11e4-90d6-f607678fe7ea.jpg)
+
+![imag0161](https://cloud.githubusercontent.com/assets/5296671/7717452/696c9f84-fe67-11e4-8cde-7c1b951a6d59.jpg)
+![imag0163](https://cloud.githubusercontent.com/assets/5296671/7717454/6970313a-fe67-11e4-8d89-eb21bc71caf2.jpg)
+![imag0165](https://cloud.githubusercontent.com/assets/5296671/7717456/6973fa86-fe67-11e4-8f9f-e538a7f1a327.jpg)
+![imag0167](https://cloud.githubusercontent.com/assets/5296671/7717453/696f8140-fe67-11e4-9946-693e15722392.jpg)
+![imag0169](https://cloud.githubusercontent.com/assets/5296671/7717455/6972f24e-fe67-11e4-8186-548a4fa34717.jpg)
+
