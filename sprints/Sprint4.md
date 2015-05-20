@@ -35,3 +35,4 @@ I tried it, and it didn't work.  That is, it twitched. It did not do what I need
 I was quite surprised that the force was insufficient, although my coil has only 30 or 40 turns, and mow power supply cuts off at 5 amps. Nonetheless, it was a failure.
 
 I am attempting to construct the magnetic actuator anew with a poster-board wrapper. Hopefully this will be both "slicker", having less friction, and will be lighter. It is possible this model will work.  It is possible that I will have to go back to the drawing boards.
+
