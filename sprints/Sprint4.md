@@ -21,3 +21,17 @@ move the actuator to a different state.
 the actuator state in both directions.
 
 As a matter of procedure, if I can get anything working I will create a new Repo for this project.
+
+## Log
+
+In the last two days, since Mini Make Faire, I worked on the actuator.
+
+I build a coil and a set of magnets, placed in some foamcore.  I was able to get it to move.
+
+I think worked much harder, and built a good plywood holder for 6 of the 1/4 x 1/2 magnets. I held these in place in polycarbonate taped together.
+
+I tried it, and it didn't work.  That is, it twitched. It did not do what I need it to do: move to one of the "pole" positions based on the current.
+
+I was quite surprised that the force was insufficient, although my coil has only 30 or 40 turns, and mow power supply cuts off at 5 amps. Nonetheless, it was a failure.
+
+I am attempting to construct the magnetic actuator anew with a poster-board wrapper. Hopefully this will be both "slicker", having less friction, and will be lighter. It is possible this model will work.  It is possible that I will have to go back to the drawing boards.
