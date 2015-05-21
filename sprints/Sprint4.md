@@ -57,3 +57,10 @@ I am very tempted to buy some better materials---I know that will make a differe
 General lesson:  It is really hard to get a coil 3/4" wide to discrimnate a magnet only a 1/2" long.
 
 I've got a bistable system, but it should have 3 or 4 poles (for 2 or 3 magnets), that is, 3 stable conditions.  In stead it seems to "wash out" in the middle.  it is as if the flux within the coil is swamped by the flux at either end.
+
+## Wednesday Night
+
+I am a fool, but I have done it! My expectations were wrong.  It is clear if now that if you build a "comb" with alternative North and South poles each one will represent a stable position (probably just on the opposite side of the charged coil.)  I can now, just by switching power, move randomly through 4 stable states with 5 magnets.
+The motion is random now because I can't control which state it will move to when I switch current direction driving it out of the current state.  However, that can be fixed easily in the future.
+
+I think this is a great success.  IF this can be tied into a frame that provides permanent magnet latching, and IF I can get an Arduino to successfully switch on and reverse power (such as with the MOSFET circuit I built earlier, then it seems that I might have actually created something useful: A cheap, long-through, multi-polar linear actuator.
