@@ -184,6 +184,6 @@ I've actually started working on this in Spring4.md.
 
 ## Idea: Linear Induction Motor for Linear Actuator
 
-Last night my friend John Gibbons asked in an off-the-cuff way, "Why not use a linear induction motor?"
+Last night my friend John Gibbons asked in an off-the-cuff way, "Why not use a linear induction motor?" for the Actuator. At the time I didn't understand what one was. I now believe this is a valuable idea. Unlike the Multi-pole latching linear actuator, it will require more than one electromagnet.  However, it would have the advantage of smoother operation, whereas my multi-pole latching linear actuator is, well, multi-polar.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
