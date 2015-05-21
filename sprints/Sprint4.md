@@ -64,3 +64,5 @@ I am a fool, but I have done it! My expectations were wrong.  It is clear if now
 The motion is random now because I can't control which state it will move to when I switch current direction driving it out of the current state.  However, that can be fixed easily in the future.
 
 I think this is a great success.  IF this can be tied into a frame that provides permanent magnet latching, and IF I can get an Arduino to successfully switch on and reverse power (such as with the MOSFET circuit I built earlier, then it seems that I might have actually created something useful: A cheap, long-through, multi-polar linear actuator.
+
+Note: I messed up the spacing on the magnets in my actuator.  I may have to redo in order to get the latching to work properly. Ideally I would have better materials by that time.
