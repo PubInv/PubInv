@@ -95,3 +95,4 @@ Let me try to summarize:
 * Using my 8-volt system with a limited amperage, I can make a nail repulse a small magnet.  However, my home-made electronmagnes are in general not as powerful as the neodymium magnets.
 * I CAN easily build a latching system with the permanent magnets.  It is interesting to imagine a latching system that cooperates with the electromagnetic motion.  However, I now believe this is a distraction---getting the driving working is hard enough, and we can latch with a solenoid mechanically to be stronger and cheaper (I think) than we can ever hope to be with this pure magnets.
 
+I have created a new repo: https://github.com/PIFAH/Linear-Actuator and will probably move much of this file to that repo.
