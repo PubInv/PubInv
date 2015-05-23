@@ -66,3 +66,32 @@ The motion is random now because I can't control which state it will move to whe
 I think this is a great success.  IF this can be tied into a frame that provides permanent magnet latching, and IF I can get an Arduino to successfully switch on and reverse power (such as with the MOSFET circuit I built earlier, then it seems that I might have actually created something useful: A cheap, long-through, multi-polar linear actuator.
 
 Note: I messed up the spacing on the magnets in my actuator.  I may have to redo in order to get the latching to work properly. Ideally I would have better materials by that time.
+
+## Friday Night
+
+The two-dimensional attempt basically didn't move very well.
+
+I switched back to a tubular approach, basically re-inventing the tubular linear motor.
+
+This actually "worked" in that I could easily drive a 2" crest-to-crest change using the coil.  This is similar to a 
+coil gun, with a permanent magnet in place.
+
+![imag0171](https://cloud.githubusercontent.com/assets/5296671/7781700/d26dcf86-00b9-11e5-914c-325e6de70a12.jpg)
+
+![imag0172](https://cloud.githubusercontent.com/assets/5296671/7781706/fe6990f2-00b9-11e5-8a02-22daf59d06fe.jpg)
+
+![imag0173](https://cloud.githubusercontent.com/assets/5296671/7781699/d26bef86-00b9-11e5-8c47-92364ee8b9e8.jpg)
+
+I have learned a lot this sprint, though perhaps that is only a sign of how ignorant I am.
+
+Let me try to summarize:
+
+* Magnetic field computations are actually quite difficult. Unlike electrostatic compuations, the "field" the field is modified by anything ferrous. It is in fact quite difficult to to analytically figure out the forces. Also, there is no good free online simulation!
+* I believe it IS possible to build a repulsive system, but it is rather complicated. Naive approaches produce a "pinching" of attractive approaches.
+* The tightness of the coil is really quite important.  A lot of flux is wasted if the coil is larger than necessary.
+* My system provides no control --- I can change state but can't control direction. It is fairly obvious how to control it with a separate additional coils.
+* The best way to really handle this is to have a microcontroller really understand the position of the shuttle. I don't know a good way to do this.
+* This is obvious, but if you take iron it will move to a central position on the coil.
+* Using my 8-volt system with a limited amperage, I can make a nail repulse a small magnet.  However, my home-made electronmagnes are in general not as powerful as the neodymium magnets.
+* I CAN easily build a latching system with the permanent magnets.  It is interesting to imagine a latching system that cooperates with the electromagnetic motion.  However, I now believe this is a distraction---getting the driving working is hard enough, and we can latch with a solenoid mechanically to be stronger and cheaper (I think) than we can ever hope to be with this pure magnets.
+
