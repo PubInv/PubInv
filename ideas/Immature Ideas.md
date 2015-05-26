@@ -195,4 +195,7 @@ electrical wires and then, for example, lower the temperature to make it more st
 to make some sort of photomask.  Possibly this would be far moreinteresting when done on a smaller scale.  
 A variation of this idea would be to impregnae a cloth and attempt to concentrate the ferrofluid with the same approach, possibly producing a controlled pattern.  Possibly this could then be used to dye selectively.
 
+![imag0179](https://cloud.githubusercontent.com/assets/5296671/7817261/7a6d9d88-0399-11e5-8b10-39842779a875.jpg)
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
