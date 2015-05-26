@@ -186,4 +186,13 @@ I've actually started working on this in Spring4.md.
 
 Last night my friend John Gibbons asked in an off-the-cuff way, "Why not use a linear induction motor?" for the Actuator. At the time I didn't understand what one was. I now believe this is a valuable idea. Unlike the Multi-pole latching linear actuator, it will require more than one electromagnet.  However, it would have the advantage of smoother operation, whereas my multi-pole latching linear actuator is, well, multi-polar.
 
+## Idea: Make a photo mask with Ferrofluid by using currents in a thin capillary surface
+
+If you enclose ferrofluid in a clear plastic bag, you can move the ferrofluid around with a magnet.  It actually 
+requires a surprisingline strong field to do this.  However, possibly it would require less if we used glass.
+If we put a drop of ferrofluid on a microscope slide, we might be able to design a pattern using a a grid of 
+electrical wires and then, for example, lower the temperature to make it more stable.  This could then be used
+to make some sort of photomask.  Possibly this would be far moreinteresting when done on a smaller scale.  
+A variation of this idea would be to impregnae a cloth and attempt to concentrate the ferrofluid with the same approach, possibly producing a controlled pattern.  Possibly this could then be used to dye selectively.
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
