@@ -201,5 +201,9 @@ A variation of this idea would be to impregnae a cloth and attempt to concentrat
 
 Is this possible? I would start by attempting to make a diffraction grating. (Note: After research, it looks like this has been attempted: http://webcache.googleusercontent.com/search?q=cache:pr0xXrnKJLkJ:piers.org/piersproceedings/download.php%3Ffile%3DcGllcnMyMDE0R3Vhbmd6aG91fDFQMF8wMDYwLnBkZnwxNDA0MTQwMzE0NDY%3D+&cd=1&hl=en&ct=clnk&gl=us&client=safari, as a google search reveals.  A cursory reading of this paper raises a number of questions.  I believe this is something that could be experimented with in a home laboratory very reasonably. Note that it also raises the possibility (that I had not considered) of simply building a magnetic controlled lens at a macroscropic level.
 
+## Idea: Could we make a very small, light movable stage with ferrofluid?
+
+Could we treat ferro fluid as an ink, print dots on a page, then use an electronic magnet to move the page in two dimensions?
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
