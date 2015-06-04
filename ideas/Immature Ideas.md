@@ -205,5 +205,9 @@ Is this possible? I would start by attempting to make a diffraction grating. (No
 
 Could we treat ferro fluid as an ink, print dots on a page, then use an electronic magnet to move the page in two dimensions?
 
+## Idea: A fluid cooled coil system....
+
+The way we build coils now is ridiculous---we use copper wire that is heavier than we really need, decreasing the number of turns we can put on a coil, because we can't keep the coil cool.  Someone needs to figure out a robust fluid based coil.  Could we 3-D print a spool that has nice little air or water channels build in?  Could we use bare copper wire inside some fluid guaranteed to be non-conductive?  It would seem that this would overall be a huge money saver.
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
