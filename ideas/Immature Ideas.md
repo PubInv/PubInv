@@ -209,5 +209,15 @@ Could we treat ferro fluid as an ink, print dots on a page, then use an electron
 
 The way we build coils now is ridiculous---we use copper wire that is heavier than we really need, decreasing the number of turns we can put on a coil, because we can't keep the coil cool.  Someone needs to figure out a robust fluid based coil.  Could we 3-D print a spool that has nice little air or water channels build in?  Could we use bare copper wire inside some fluid guaranteed to be non-conductive?  It would seem that this would overall be a huge money saver.
 
+## Idea: Build a Burrowing Robot
+
+![burrowing robot](https://cloud.githubusercontent.com/assets/5296671/8398720/1dab4870-1dc0-11e5-9e39-5a07ba482572.png)
+
+I think it would be pretty cool to build a burrowing robot.  There are many uses for this in terms of investigating buried archeaologoical sites, following pipes looking for leaks, mapping animal burrows and root systems, taking sub-surface soil samples.  And truffles---did I mention truffles?
+
+I don't know if people have ever built such a think before.  Based on the diagram above I think it could basically be done with solenoids only, though of course refinement is possible.  Such a device could burrow through sand.
+
+We might even imagine taking a tough bladder full of wax and filling it with burrowers, and using the burrowers to move the bladder/membrane---an artifical slime mold if you will.  BTW, sonic communication would be a good way to communicate with the robot while underground.
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
