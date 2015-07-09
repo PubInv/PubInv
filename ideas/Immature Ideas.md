@@ -225,5 +225,16 @@ I was at dinner with my friend John Gibbons and I came up with the idea of a "Ch
 
 A simple idea is to build a "Refinery in a Suitcase".  Even simpler is a "Still in a Suitcase".  You could pour in a heavy hydrocarbon and get out oil, and gasoline, and tar, etc.  You could pour in "beer" (by which I mean fermented vegetable matter to the limit of alcohol or vinegar production) and get out a concentrated product.  I don't mean a "still" for making whiskey per se, but something precisely controlled.
 
+## Idea: Build a Machine that Gives you Anything you want that you can mount on telephone poles
+
+Okay, I admit this is wacky---perhaps it is more of an art project than anything else.  The basic Idea would be a machine that says a sign that says "What do you need?" and some buttons:
+
+* Food : You press this and a nutritious energy bar pops out
+* Water: Your press this a cold drink pops up
+* Information: You press this a book pops out
+* Love: You press this and a small stuffed animal pops out
+* Courage: Your press this and you get an inspiring quote
+
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
