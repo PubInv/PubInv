@@ -234,6 +234,19 @@ Okay, I admit this is wacky---perhaps it is more of an art project than anything
 * Information: You press this a book pops out
 * Love: You press this and a small stuffed animal pops out
 * Courage: Your press this and you get an inspiring quote
+* 
+
+## Idea: Make a slowly switchable magnet out of multiple rare earth magents that can rotate.
+
+The fundamental beauty of the electromagnet is that it is controllable.  The fundamental beauty of the rare-earth magnet is that it is strong and permanent.
+
+Iron consists of tiny domains which can be switched very rapidly to line up in the same polarity, adding up to a strong field.  This can occur very rapidly---at radio frequenicys of MHz, I think, certainly 100s of KHz in transformers.
+
+Suppose you had a matchbox filled with tiny, 1/8" by 1/8" neodymium magnets.  Without moving the matchbox itself, you could change the polarity by turning each tiny magnet around 180 degrees.
+
+Of course, it wouldn't stay put until more than half of the magnets are switched!
+
+But, if we had an electromechanical means of controlling and locking each magnet, then we could potentially switch and lock each magnet individually.  We would then have a very strong magnet that we have switched (albeit rather slowly) to the opposite polarity.  But once we have done so, it requires not power.
 
 
 
