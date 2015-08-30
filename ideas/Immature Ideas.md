@@ -248,6 +248,9 @@ Of course, it wouldn't stay put until more than half of the magnets are switched
 
 But, if we had an electromechanical means of controlling and locking each magnet, then we could potentially switch and lock each magnet individually.  We would then have a very strong magnet that we have switched (albeit rather slowly) to the opposite polarity.  But once we have done so, it requires not power.
 
+## Idea: Use OpenSCAD to make parametric fractal trusses
+
+There has been a lot of research into microscopic truseses, including those that exhibit a fractal nature.  OpenSCAD is a parametric system.  A Plug-in or something that you let you take any two points and join them with a fractal truss could be beautiful, wicked, and highly strong and highly efficient.  This would be a pretty easy project --- medium computer skills, and a lot of patience figuring out how fine you could print, and perhaps some analytic work to measure if it was really stronger in some way.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
