@@ -28,7 +28,7 @@ A weakness of putting the fan in the pipe is that it obstructs the air flow when
 ## Stories
 
 * Publish photos and sketch of current work
-* Order a 12V fan that I can control with a relay or transistor (I have MOSFET transistors that can switch a lot of power.)
+* Order a 12V fan that I can control with a relay or transistor (I have MOSFET transistors that can switch a lot of power.) - done
 * Get a piece of PVC pipe into which we can mount the fan and potentially the sensor.
 * Breadboard so that I can use 12V power instead of the 5V Arduino power for the fan.
 * Try to mount the fan inside the PVC.
@@ -37,7 +37,7 @@ A weakness of putting the fan in the pipe is that it obstructs the air flow when
 * Get a smaller Arduino and a separate enclosure for actually mounting on the fan.
 * Build a perfboard version (not a breadboard!) for demonstrations
 * Publish schematics, maybe even EagleCAD up a PCB?
-* Get the MQ4 sesnor working, burned in and tested.
+* Get the MQ4 sesnor working, burned in and tested - underway
 * Get ready for Mini-Maker Faire!
 * Test in a real barn/latrine!
 * Test on my compost pile!
@@ -54,4 +54,4 @@ A weakness of putting the fan in the pipe is that it obstructs the air flow when
 
 
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH Project #24: Very simple heat engine with bistable magnetic device</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>. 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH Project #25:  In-pipe fan with gas sensor for EWB</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>. 

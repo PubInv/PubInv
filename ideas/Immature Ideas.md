@@ -11,62 +11,6 @@ use a transformer to fire a spark to ignite exhaust gases? This would be very va
 Could we build a "blinker", a cover that would briefly open to allow a sensor to take a reading or a spark to be 
 applied in a very hostile environment, like the underside of a working lawnmower or the inside of a smoke stack?
 
-## Idea: Arduino control game
-
-[123D Circuits](http://123d.circuits.io) has some WONDERFUL Arduino simulators.  Could we build a "game" out of
-one of their simulators?  The idea is that we program and Arduino to intentioal represent an unstable behavior control
-problem.  We would have a hidden internal model.  We produce a single output voltage that is "where we are".  The 
-player must build a second Arduino which supplies a single input voltage to the unstable control system.  The goal 
-of the game is to keept the unstable system close to some central value.  However, we don't tell you how 
-we are going to react to your input!
-
-But we do give you some parameters.  We will change our model smoothly and no faster than a certain rate per second.
-So if a "high" input is driving us "high" this turn, way may change that next turn, but only at a gentle rate. After 
-five or 10 seconds, a value that was driving "high" at a fast rate will now be drivin us "low" at a fast rate.
-
-This could LITERALLY be done as simulation at the above site, and people could fork it and try to program the 
-second Arduino!
-
-This would apply to all kinds of control problems, such as keeping a neo-natal incubator at a correct temperature, 
-or controlling a fire within a temperature range to produce good biochar.
-
-## Idea: Arduino sketch sketcher for Homeostasis
-
-Build a D3-based software system that lets you automatically generate plans that make solving a "homeostasis" problem with an Arduino easier.
-
-Many problems that you wish to address with an Arduino can be valuably charactized as a variant of the problem of maintaining some conditions (homeostatis).  For example, the premature infant incubator problem is one of maintaining the incubator at 37C within fairly narrow limits. Although not particularly difficult if you are a skilled programmer, we can imagine a website (publishable here on GitHub) that makes it even easier.
-
-We could have a D3-based visual system that allow you to drag-and-drop from an expandable palette of sensors, remediators, and strategies.  Although we can allow new sensors to be added, we can prepopulate with some basic sensors such as the MQ4 methane sesnor and a basic temperature sensor.  Remediations could include "running a fan" or "sounding an alarm" or "turning on the heating coil". A user may choose a remediation strategy such as "turn on remediation #1 for 10 seconds and 80% power"
-
-After the user sketches the system visually, the output includes:
-* A bill of materials,
-* An explicit sktech that can be downloaded directly into the Arduino, 
-* A library-based Arduino sketch,
-* A schematic, and even
-* A printed circuit board---this would be pushing it!
-
-### RemeDI: A Digital Interface like MIDI for Arduino sensors
-
-A part of this idea would be to provide a "Digital Interface" to each kind of sensor.  This would be an expanding library, but it would allow each sensor and remediation to be treated in a fairly standard way.
-
-An important aspect of this would be to create an "event driven" approach.  (Probably a library for this already exists, I need to research.) We could treat each sensor as if it produced Events, and allow you to register Event Handlers for each of these events.  A typical Event would be "Temperature got too hot" from the TN335 sensor or "the push button was pushed". Programming could then be thought of in terms of creating event handlers.  The Remediation Actions (Or perhaps just "Actions" is a better term) would Also have a digitial interface, so you would call "Turn motor on for 3 seconds".  The library would have to handle the interlacing of time so that multiple actions could be handled at various times.
-
-Note: It appears that QP, and possibly other solutions, already do this. http://www.state-machine.com/qm/  At least they doe the Event-driven stuff, ad preemptive multi-tasking.  It is unclear how much they are handling the other idea of standardizing the physical sensors, but possibly quite a lot.  It is unclear that they focus on homeostasis or use the physical model of variables/remediation that I was thinking of, but clearly I will need to investigate.
-
-Upon looking over QP, I infer:
-* It is focused on State Machines, a valuable usecase but not quite the homeostatis issue I was looking for,
-* It pushes you into the C++ domain, which seems unnecesary,
-* You have to download the software,
-* It is representing the resulting programs as XML, which presumably puts you most in the QP domain, and
-* I didn't see anything that really addressed the sensor encapsulation problem.
-
-So although I need to do some more research, it seems like a D3-based, generate the code for me, with a an emphasis on specific sensors, might be a very valuable addition to the space of Arduino programming.  I need to investigate this further.
-
-Note that this library: https://github.com/igormiktor/arduino-EventManager seems somewhat simpler, but very similar in some ways.
-
-Note: A firm, http://www.vernier.com/engineering/arduino/, Vernier, appears to have standardized their own line of sensors for the Arduino.  In that sense they may have done a lot of what we want here.  It is unclear how extensible it is.  People have built a "Vernier Shield", because most of the Vernier sensors appear to use their own physical public standard.
-
-Note: A Dallas firm has created the "1-Wire" approach to building sensors --- basically they implement a simple digital protocol for the communication between the sensor and the system (possibly an Arduino.)  http://playground.arduino.cc/Learning/OneWire  This seems like a very nice idea but requires extra electronics on the sensor side.  This is not quite the "pick your sensor and software wrapper to make it look digital" that this idea was going for.
 
 ## Idea: Make an accurate physical simulation of a biochar retort
 
@@ -157,6 +101,159 @@ Note: You could do this with 3 ring rotators in 3 perpendicular planes.
 
 Note: It is simpler to extract energy from a change in rotation than from constant rotation, which requires some sort of external friction force.
 
+## Idea: Solid-state breadboard
 
+I've been doing a lot of breadboarding on an Arduino. It is easy to make a mistake, and it wastes wires, and it is hard to see, and it is too small.
+
+I wonder if we could build a solid state breadboard that would handle the connections for us?  Perhaps it could even identify compoonents for us, and automatically provide places for O-scope probes.
+
+* * * 
+
+After thinking about this some more, it is clearly possible to build a "wireless" breadboard.  If you want to have 10 "slots" in the breadboard, you would ONLY need ~100 relays.  This sounds a little crazy, but it might be possible. I imagine a system in which you use LEDs to show which rail is "wired" to which other rails.  Then instead of jamming unreliable little wires jumpers into the system, you could actually program the breadboard configuration with an Arduino.  Which means of course that you could program it with a full-on computer---perhaps integrate with Fritzing.  It could be a very educational system.
+
+100 relays for 10 slots (In general, you need N * N - 1 relays to make all possible physical connections.)  At the risk of reduced flexibility you can reduce the asymptotic complexity.  For example, you almost certainly don't need a a full 20 slot system --- you could have two 10-slot board areas, with a few rails available for communication between the two areas.
+
+I suspect this could also be done with a FPGA --- but if you do that, you may be limited to CMOS logic voltages.  You would have a hard time adding true power applications to that.  However, I could be wrong---certainly, if you used MOSFETS you could go up to 60V and 30A, although I don't know if there would be affects at low and reverse voltages---relays would avoid that problem completely.
+
+Perhaps there is some switching theory that would let you decrease the asymptotic complexity as well---off the top of my head I don't know it.  You might be able to make the number of relays limited to K * N, where K is a constant and N is the number of components you are tryin to breadboard.
+
+This would be a fun project, and the result would be salable, if only for education purposes.
+
+## Idea: Build a MOSFET-And-Sensor breakout board.
+
+At Sparkfun and Fritzing, there are is a lot of open-source sharing of designs, some of which are in a form that things can be easily ordered as PCBs.  Commonly shared valuable designs include "Breakout boards" which make it easier to mount sensors, for example.
+
+I find myself right now in need of something fairly generic: A breakout board that has a MOSFET, a (potentially) high voltage input (by high I mean up to 30V, higher than an Arduino) and a place to solder a sensor.  In my case, thise is a sensor uses one +5V rail, and ground rail, and brings back a signal in the 0V to +5V range.  I think this is something than many other people would use.
+
+## Idea: Micropower to pump hot water for neonatal heating
+
+Possibly we can move a great deal of heat by using a very small pump attached to a large pot of water.  If this could be done at cell-phone level milliwatttage, we might be in business here.
+
+## Idea: (Born of frustration) Can someobdy please build a solid-state breadboard?
+
+## Idea: Oscillatory cryotherapy and heat machine (probably done)
+
+I'm sure somebody has had this idea, but a "pad" that oscillated relatively rapidly (say 60 seconds) between ice cold and very warm could be a pleasant therapeutic device.  I suspect this alreayd exists. Certainly the principle is not new, it would just be the implementation that would matter.
+
+## Idea: A low-battery Buzzer for the Arduino
+
+Today I ran down a 9V battery leaving it plugged into my Arduino.  Although there are lots of things you can do to decrease power, they are a little cumbersome.  But in anycase you will always run out of battery power eventually.  The Arduino allows you to read its own power voltage. Most batteries have an approximately flat but slightly decreasing voltage as they age.  The Arduino UNO has an on-board voltage regulator.  Either reading the input voltage to the regulator (might require a circuit) or the regulated voltage would give you SOME warning that you could hook up to a buzzer.
+
+My experience at Austin Mini Maker Faire has led me to believe even further that this is a very vaulable, very reusable project. I think this should be given a high prority.
+
+## Idea: String-art percussion musical instrument.
+
+String wires across a frame in such a way that a large a number of wires are exposed to be played by striking with s drum stick.  For example, build a frame about 1 meter square, and string 40 wires around it such that they form an 40-sided polygon.  A musician can take a drumstick and strick any of the 40 wires individually.
+
+## Idea: Multi-gas sensor
+
+There exists a number of relatively inexpensive gas sensors sold by Sparkfun, for example.  They have part numbers like MQ-2 through MQ-9 and MQ-135.  These sense concentrations for various gases.  I doubt this is as valuable as spectroscopy or gas chromatography, but it having a portable instrument that showed you the read-outs of a variety f these sensors could be quite valuable.  It is possibly that after building such a device we would discover uses for it which are not apparent on first thought.  Many of these sensors have somewhat overlapping sensitive to various volatile gases, but one can imagine that possibly a certain amount of data analysis could allow you to tease out the relationships between various gases.  Each of these sensors cost about $5 (and up to $35).
+
+## Idea: Stirling Egine displacer phase done electronically...
+
+Stirling engines (http://en.wikipedia.org/wiki/Stirling_engine) are heat engines valued for their simplicity and robustness.  They basically rely on a physical mechanism to keep the displacer 90 degrees out of phase with the power piston. This is done with a linkage in most examples.
+
+However, I wonder if we could build a Stirling engine that had two free pistons, both of which tied to so-called linear alternators (that is, they generate EMF directly by pushing a magnet into a coil, and move the displacer 90 degress out of phase with the power piston?  That is, for example, could we use either a properly designed circuit to do this, or perhaps even a microcontroller.
+
+Making a 90-degree phase change in a continuous AC current is in chapter one of Horowitz and Hill.  I'm afraid I'm not smart enough to immediately see if this can be done in a non-continuous way with a simple circuit.  Clearly it can be done with a microcontroller if we have excess power (for startup only, it should generate power once it is going.)
+
+This would potentially allow you to build very small Stirling engines, possibly in multiples.  One can imagine "printing a sheet" of Stirling Engines, which could then be wrapped around an exhaust pipe to make micro-power.
+
+Upon reading further I believe this all old-hat and has been exhausted by others.
+
+
+## Idea: Can we pump ferrofluids around with coils?
+
+If we could, then one can imagine a wide variety of applications that could almost be printed much as a Printed Circuit Board is printed.
+
+## Idea: Reliable instant-on power generation with bimetallic valves
+
+A basic problem is how to reliably "wake up" a heat engine when the heat source is hot enough to provide power. The Stirling engine, for example, often must be primed by initiating mostion.  We would prefer a system that could stay cold and dead reliably for months and then begin extracing power reliably when the heat source gets hot.
+
+I think this is a rather difficult problem, but the best that I can come up with is to keep a gas chamber perfectly sealed until a sufficient temperature difference for power extraction is obtained.  The only way I can think to do this very reliably is with a bimetallic valve which keeps pressure very solidly until opening when hot.  Possibly such things already exist.
+
+If we had a valve that waited until X degrees of temperature difference existed and then would stay open until (X-K) degrees of temperature difference existed, we would have a very reliable system.
+
+## Idea: Phased Array Sonic Micro Communication
+
+WiFi is an excellent communcation mechanism.  Wifi chips and shields are available for the Arduino.  I wonder if we could build an inexpensive system with mere microphones that could "find" each other in space, so that two Arduinos could communicate with each other?  This could be conceivably be done with small phased arrays of microphones.  I'm not sure this would really be better than radio communications---but at least it would be interesting. In theory this could be done very very inexpensively.
+
+## Idea: Multi-pole Latching Linear Actuator
+
+I've actually started working on this in Spring4.md.
+
+## Idea: Linear Induction Motor for Linear Actuator
+
+Last night my friend John Gibbons asked in an off-the-cuff way, "Why not use a linear induction motor?" for the Actuator. At the time I didn't understand what one was. I now believe this is a valuable idea. Unlike the Multi-pole latching linear actuator, it will require more than one electromagnet.  However, it would have the advantage of smoother operation, whereas my multi-pole latching linear actuator is, well, multi-polar.
+
+## Idea: Make a photo mask with Ferrofluid by using currents in a thin capillary surface
+
+If you enclose ferrofluid in a clear plastic bag, you can move the ferrofluid around with a magnet.  It actually 
+requires a surprisingline strong field to do this.  However, possibly it would require less if we used glass.
+If we put a drop of ferrofluid on a microscope slide, we might be able to design a pattern using a a grid of 
+electrical wires and then, for example, lower the temperature to make it more stable.  This could then be used
+to make some sort of photomask.  Possibly this would be far moreinteresting when done on a smaller scale.  
+A variation of this idea would be to impregnae a cloth and attempt to concentrate the ferrofluid with the same approach, possibly producing a controlled pattern.  Possibly this could then be used to dye selectively.
+
+![imag0179](https://cloud.githubusercontent.com/assets/5296671/7817261/7a6d9d88-0399-11e5-8b10-39842779a875.jpg)
+
+## Idea: Make diffraction grating or a hologram with Ferrofluid
+
+Is this possible? I would start by attempting to make a diffraction grating. (Note: After research, it looks like this has been attempted: http://webcache.googleusercontent.com/search?q=cache:pr0xXrnKJLkJ:piers.org/piersproceedings/download.php%3Ffile%3DcGllcnMyMDE0R3Vhbmd6aG91fDFQMF8wMDYwLnBkZnwxNDA0MTQwMzE0NDY%3D+&cd=1&hl=en&ct=clnk&gl=us&client=safari, as a google search reveals.  A cursory reading of this paper raises a number of questions.  I believe this is something that could be experimented with in a home laboratory very reasonably. Note that it also raises the possibility (that I had not considered) of simply building a magnetic controlled lens at a macroscropic level.
+
+## Idea: Could we make a very small, light movable stage with ferrofluid?
+
+Could we treat ferro fluid as an ink, print dots on a page, then use an electronic magnet to move the page in two dimensions?
+
+## Idea: A fluid cooled coil system....
+
+The way we build coils now is ridiculous---we use copper wire that is heavier than we really need, decreasing the number of turns we can put on a coil, because we can't keep the coil cool.  Someone needs to figure out a robust fluid based coil.  Could we 3-D print a spool that has nice little air or water channels build in?  Could we use bare copper wire inside some fluid guaranteed to be non-conductive?  It would seem that this would overall be a huge money saver.
+
+## Idea: Build a Burrowing Robot
+
+![burrowing robot](https://cloud.githubusercontent.com/assets/5296671/8398720/1dab4870-1dc0-11e5-9e39-5a07ba482572.png)
+
+I think it would be pretty cool to build a burrowing robot.  There are many uses for this in terms of investigating buried archeaologoical sites, following pipes looking for leaks, mapping animal burrows and root systems, taking sub-surface soil samples.  And truffles---did I mention truffles?
+
+I don't know if people have ever built such a think before.  Based on the diagram above I think it could basically be done with solenoids only, though of course refinement is possible.  Such a device could burrow through sand.
+
+We might even imagine taking a tough bladder full of wax and filling it with burrowers, and using the burrowers to move the bladder/membrane---an artifical slime mold if you will.  BTW, sonic communication would be a good way to communicate with the robot while underground.
+
+## Idea: Distillation in a Suitcase
+
+I was at dinner with my friend John Gibbons and I came up with the idea of a "Chemical Synthesis plant the size of breadbox".  That's a nice idea, but its hard to imagine how to really make it, given the wide variety of feedstocks required.
+
+A simple idea is to build a "Refinery in a Suitcase".  Even simpler is a "Still in a Suitcase".  You could pour in a heavy hydrocarbon and get out oil, and gasoline, and tar, etc.  You could pour in "beer" (by which I mean fermented vegetable matter to the limit of alcohol or vinegar production) and get out a concentrated product.  I don't mean a "still" for making whiskey per se, but something precisely controlled.
+
+## Idea: Build a Machine that Gives you Anything you want that you can mount on telephone poles
+
+Okay, I admit this is wacky---perhaps it is more of an art project than anything else.  The basic Idea would be a machine that says a sign that says "What do you need?" and some buttons:
+
+* Food : You press this and a nutritious energy bar pops out
+* Water: Your press this a cold drink pops up
+* Information: You press this a book pops out
+* Love: You press this and a small stuffed animal pops out
+* Courage: Your press this and you get an inspiring quote
+* 
+
+## Idea: Make a slowly switchable magnet out of multiple rare earth magents that can rotate.
+
+The fundamental beauty of the electromagnet is that it is controllable.  The fundamental beauty of the rare-earth magnet is that it is strong and permanent.
+
+Iron consists of tiny domains which can be switched very rapidly to line up in the same polarity, adding up to a strong field.  This can occur very rapidly---at radio frequenicys of MHz, I think, certainly 100s of KHz in transformers.
+
+Suppose you had a matchbox filled with tiny, 1/8" by 1/8" neodymium magnets.  Without moving the matchbox itself, you could change the polarity by turning each tiny magnet around 180 degrees.
+
+Of course, it wouldn't stay put until more than half of the magnets are switched!
+
+But, if we had an electromechanical means of controlling and locking each magnet, then we could potentially switch and lock each magnet individually.  We would then have a very strong magnet that we have switched (albeit rather slowly) to the opposite polarity.  But once we have done so, it requires not power.
+
+## Idea: Use OpenSCAD to make parametric fractal trusses
+
+There has been a lot of research into microscopic truseses, including those that exhibit a fractal nature.  OpenSCAD is a parametric system.  A Plug-in or something that you let you take any two points and join them with a fractal truss could be beautiful, wicked, and highly strong and highly efficient.  This would be a pretty easy project --- medium computer skills, and a lot of patience figuring out how fine you could print, and perhaps some analytic work to measure if it was really stronger in some way.
+
+## Idea: Build an "auto octet-truss" system to turn planar surfaces into octet trusses.
+
+## Idea: Even simpler: Just put a proper octest truss design at Thingiverse!!
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
