@@ -256,4 +256,14 @@ There has been a lot of research into microscopic truseses, including those that
 
 ## Idea: Even simpler: Just put a proper octest truss design at Thingiverse!!
 
+## Idea: Build an easier to cool electromagnetic coil by using solid discs and a chopper circuit
+
+This is based on the idea of a Bitter magnet.  One of the main limitations of electromagnetic coils, which are normally made with coiling wire or magnet wire, is that they get too hot. It is hard to get the heat away from them. This can be addressed by various heat sinks, or even putting tubes filled with water into the coils to provide water cooling.  But these are relatively complex solutions.
+
+What if instead we manifactured a magent with justs discs of paper think copper?  We spaced these with little pads of insulation which kept them from shorting, but allowed a fluid (air, preferably) to be forced through them efficiently. Since copper is a good heat conductor, air against a multitude of thin plates would be a great heat conveyance mechanism---in fact, that is how heat sinks are built.
+
+The result would have the problem that it would have almost zero resistance, which would mean that it would be almost a short circuit for your power source. It would draw a very high amperage, limited probably by the internal resistance of your power source.  To solve this, we would feed it with a capacitor.  That would of course also melt the capacitor---if we let it run for long. But if we had a chopping circuit that would pulse it, perhaps with a small duty cycle, we might be able to tolerate the high amperage, because we would be dividing it by the duty cycle. MOSFETs are capable of very rapid switching.  However, they themselves are current limited. But in principle, if our chopping circuit and our capacitor could survive the current draw, we might be okay.
+
+The result would be an electomagnet that was effectively "pulse width modulated". It would have a single "winding", compared to a wire coil, so the number of turns would be small (perahps 2-10 per millimeter of length), but the amperage would be high. Taking heat out would be relatively easy. 
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
