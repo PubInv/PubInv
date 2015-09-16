@@ -1,5 +1,13 @@
 # Public Invention for All Humanity
 
+## Accomplishments So Far
+
+* A team formed at the Austin Hack for Change Civic Hackathon won "Most Hacked Forward" superlative with [ATX Preemie Warmer](https://www.youtube.com/watch?v=zb-F0qTptJs&list=PL9nAioXQFlE59Aalkz2NbcodxL4__Su7y).
+* This project later took 4th place on the Women in Technology Institute (WITI) Virtual Hackathon.
+* We've created and published [CoilChoice](http://pifah.github.io/CoilChoice/), and interactive tool for desiging electromagnetic coils.
+* The [Gluss Pusher project](https://github.com/PIFAH/Gluss-Pusher/tree/master) has created an expensive Arduino based way of measuring absolute position of the pushrod using just an LED and a photocell.
+* The [Gluss Pusher project](https://github.com/PIFAH/Gluss-Pusher/tree/master) is developing an inexpensive prototype linear actuator for building large, highly scalable robots.
+
 ## A Personal Invitation
 
 The creation of new technology is not the only or best way to help our fellow-beings. Love is more important than lasers, and kindness more important than computers. Still, many of us are better suited to serve humanity in code than in a sermon, or holding a test tube rather than the hand of the dying.
