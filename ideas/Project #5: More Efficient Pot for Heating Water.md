@@ -12,6 +12,10 @@ An example is: http://stoves.bioenergylists.org/content/pot-skirt-investigat
 
 I don't know if anyone has tried the helical vane idea.
 
+This invention, the Miito might also be a worthwhile approach: https://vimeo.com/108997936
+As it promotes more efficiency by warming what's used (vs. a lager quantity)
+    * See also: http://www.wired.com/2014/11/tea-kettle-alternative-thats-cooler-cleaner-eco-friendly/
+
 ## Success Criteria
 
 Basically we want to build a pot that you can place on a stove and heat water faster (or with less heat and fuel)
