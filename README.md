@@ -7,6 +7,7 @@
 * We've created and published [CoilChoice](http://pifah.github.io/CoilChoice/), and interactive tool for desiging electromagnetic coils.
 * The [Gluss Pusher project](https://github.com/PIFAH/Gluss-Pusher/tree/master) has created an expensive Arduino based way of measuring absolute position of the pushrod using just an LED and a photocell.
 * The [Gluss Pusher project](https://github.com/PIFAH/Gluss-Pusher/tree/master) is developing an inexpensive prototype linear actuator for building large, highly scalable robots.
+* We have published a legitimiate novel invention: [The Turret Joint](https://github.com/PIFAH/turret-joint) which is essential to the construciton of Gluss robots.
 
 ## A Personal Invitation
 
