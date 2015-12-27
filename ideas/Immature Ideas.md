@@ -276,4 +276,8 @@ I've been studying bacteriologic analysis of water quality as part of my volunte
 
 Following my work on the "gluss" robot and Robert Gatliff's suggestion to use a "geomag" like system, build a a joint based on magnets that can couple to steel balls. Add to this an electrically signal of some kind that allows each actuator to determine which actuators it is connected to. Thus a person can easily assemble and dissassemble it by hand, and it automatically recognizes the geometry.
 
+# Idea: Build a better Tea Infuser
+
+I got my wife a nice tea infuser for Christmas.  However, a better one would tell you the temperature, have preset steeping times based on the kind of tea, and control tea and temperature.  This is actually a pretty easy and slightly awesome project. 
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
