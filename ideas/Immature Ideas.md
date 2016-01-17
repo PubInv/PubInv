@@ -288,4 +288,8 @@ This would allow large objects to be created conveniently.  It would involve som
 
 As part of my work for Engineers Without Borders, I am making a petrifilm incubator.  This uses Joule heating to keep things at approximately body temperature.  However, it has no way of cooling.  It might be both more efficient, and possibly capable of cooling, if we had a miniature, battery powered reversible heat pump.
 
+# Idea: Create an OpenSCAD parametric Truss
+
+The idea would be to make a customizable truss, using the principles of the Octet Truss, to allow a truss of any dimensions to be 3D printed. Thus if anyone wanted a strong part that fit within their printing capabilities, they could easily build it to the exact dimensions that they need.  This is great idea because it is so simple -- not really an invention at all -- more of an open-source contribution to the world of 3D printing.
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
