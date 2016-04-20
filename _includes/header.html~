@@ -1,0 +1,33 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container  inner">
+    <div class="navbar-header ">
+      <a class="navbar-brand" href="#">
+	<img  style="position: relative; bottom: 80%; width: 80px; height=80px" src="./images/logo-tight.png"  alt="Public Invention Logo"></img>
+      </a>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+
+    <div id="navbar" class="collapse navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="https://pubinv.github.io/gluss/">The Gluss Project</a></li>
+        <li><a href="https://github.com/PubInv/gluss/tree/master">Repo</a></li>
+        <li><a href="https://github.com/PubInv">All PubInv Repos</a></li>
+	<li><a href="https://pubinv.github.io/Gluss-Pusher/">Gluss Pusher</a></li>
+        <li><a href="https://github.com/RobertLRead">Contact</a></li>
+      </ul>
+    </div><!--/.nav-collapse -->
+       
+  </div>
+
+</nav>
+<header>
+      <h1 style="margin-top: 120px;font-size: 60px" class="inner">
+      The Gluss Project
+      </h1>
+      </header>

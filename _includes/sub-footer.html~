@@ -1,0 +1,10 @@
+    <div class="inner">
+        <h1>Context</h1>
+      </div>
+      <div class="well">
+        <p>This is project is a part of Public Invention For All Humanity (PubInv), a nascent organization that needs your energy and talent. <a href="mailto:read.orbert@gmail.com">Contact Us.</a>  </p>
+        <p>All materials produced by PubInv are free and open-source, and licensed either with the GPL (for code) or the Creative Commons Share Alike v 4.0 licenese (for text and designs.)</p>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">This file and all PubInv materials by default.</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PubInv" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PubInv/EWB" rel="dct:source">https://github.com/PubInv/EWB</a>.
+      </div>
+</div><!--/row -->

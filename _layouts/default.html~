@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="./images/favicon.ico">
+
+    <title>Gluss Pusher Project</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Bootstrap theme -->
+    <link href="bootstrap/css/bootstrap-theme.min.css" rel="stylesheet">
+
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
+    <!-- Make sure to include these modifications after Bootstrap -->    
+    <link rel="stylesheet" type="text/css" href="stylesheets/toc-layout.css">    
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    {% include header.html %}
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+	  {{ content }}
+	  {% include sub-footer.html %}
+
+        </section>
+
+	 <aside>
+	  <ul id="toc">	  
+	  </ul>
+	 </aside>
+
+
+        <aside id="sidebar">
+	  Hello!
+
+          <a href="https://github.com/PubInv/Gluss-Pusher/zipball/master" class="button">
+            <small>Download</small>
+            .zip file
+          </a>
+          <a href="https://github.com/PubInv/Gluss-Pusher/tarball/master" class="button">
+            <small>Download</small>
+            .tar.gz file
+          </a>
+	</aside>
+	
+
+      </div>
+
+
+    </div>
+
+    {% include footer.html %}
+
+
+  
+  
+  <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="javascripts/jquery.tableofcontents.js" type="text/javascript" charset="utf-8"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<!--    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script> -->
+<script type="text/javascript" charset="utf-8">
+	$(function(){ $("#toc").tableOfContents(); })
+</script>
+  </body>
+</html>
+
+
