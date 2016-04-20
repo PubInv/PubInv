@@ -8,7 +8,7 @@ title: Public Invention
 
 The creation of new technology is not the only or best way to help our fellow-beings. Love is more important than lasers, and kindness more important than computers. Still, many of us are better suited to serve humanity in code than in a sermon, or holding a test tube rather than the hand of the dying.
 
-If you are one of those persons, I invite you to participate with me in a project I call Public Invention For All Humanity (PubInv). Throughout 2015, we hope to run a number of projects best described as “inventions” that will be valuable to humanity. This is not particularly original. This is yet another project in the exponentially growing tradition of working for the public good.
+If you are one of those persons, I invite you to participate with me in a project I call Public Invention (PubInv). Throughout 2015, and now 2016, we hope to run a number of projects best described as “inventions” that will be valuable to humanity. This is not particularly original. This is yet another project in the exponentially growing tradition of working for the public good.
 
 What we do hope to use some modern principles:
 * We will be completely transparent and open from the first.
