@@ -30,32 +30,34 @@ You may wish to examine our project [concepts](https://github.com/PubInv/PubInv/
 
 # Accomplishments So Far
 
-* [The Gluss Project](https://github.com/PubInv/gluss/) has demonstrated a very novel unconventional robot. 
+* [The Gluss Project](http://pubinv.github.io/gluss/) has [demonstrated](https://www.youtube.com/watch?v=1T8XSMhwKUE) a very novel unconventional robot.
+<iframe width="280" height="162" src="https://www.youtube.com/embed/1T8XSMhwKUE" frameborder="0" allowfullscreen></iframe>
 * The [Gluss Pusher project](https://github.com/PubInv/Gluss-Pusher/tree/master) is developing an inexpensive prototype linear actuator for building large, highly scalable robots.
 * We have published a legitimiate novel invention: [The Turret Joint](https://github.com/PubInv/turret-joint) which is essential to the construciton of Gluss robots.
-* The [Gluss Pusher project](https://github.com/PubInv/Gluss-Pusher/tree/master) has created an inexpensive Arduino based way of measuring absolute position of the pushrod using just an LED and a photocell.
 * We've created and published [CoilChoice](http://pifah.github.io/CoilChoice/), and interactive tool for desiging electromagnetic coils.
 * This project later took 4th place on the Women in Technology Institute (WITI) Virtual Hackathon.
 * A team formed at the Austin Hack for Change Civic Hackathon won "Most Hacked Forward" superlative with [ATX Preemie Warmer](https://www.youtube.com/watch?v=zb-F0qTptJs&list=PL9nAioXQFlE59Aalkz2NbcodxL4__Su7y).
 
 # How to Contribute
 
-
-We welcome your participation.  You are welcome to email me (&lt;read.robert@gmail.com&gt;)[mailto:<read.robert@gmail.com>].
+We welcome your participation.  You are welcome to email me <read.robert@gmail.com>.
 However, as a public project, it is even better for you to comment publicly.
-You can do this by opening an "issue" here at GitHub.  If you want to add to or improve one of the existing documents, you can do this with a "pull request".
+You can do this by opening an ("issue")[https://github.com/PubInv/PubInv/issues] here at GitHub.  If you want to add to or improve one of the existing documents, you can do this with a "pull request".
 
-In general, each project will have a set of "stories".  This is a technique developed by the Agile community. We welcome you to take on the execution of a story if that fits your talents.  Writing new stories is also very important activity.
+You may wish to subscribe to our <a href="https://www.youtube.com/watch?v=1T8XSMhwKUE">YouTube Channel</a>. Since we are bound neither by the need to keep something secret due to patent restrictions imposed by Universities, nor by the formality of Academic publishing, nor by the need to maintain trade secrets, we publish informally a lot at YouTube.
 
-I hope that we will have need for many talents. I am a computer scientist. I greatly admire artists but don't pretend that I can create art. We will always have a need for artists, writers, and educators.
+
+At the momement, we have a *desperate need for someone who can sketch* (like with a pencil) to do some simple art for our most active project, [The Gluss Project](http://pubinv.github.io/gluss/).
+
+I am a computer scientist. I greatly admire artists but don't pretend that I can create art. We will always have a need for artists, writers, and educators.
 
 We will also need chemists, welders, mechanical engineers, 3D modellers, software engineers, physicists, biologists, mycologists---we exclude no field of endeavor.
 
 In summary, you can contribute by:
 
+* Offering to improve our art or wrting or videos,
 * Suggesting a new project,
 * Working on a story,
-* Offering to improve our art or wrting,
 * Offering to lead a project,
 * Teaching us something new, or
 * Even suggesting non-PubInv proejcts that we should contribute to.
