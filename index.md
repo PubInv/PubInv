@@ -47,7 +47,7 @@ You can do this by opening an ("issue")[https://github.com/PubInv/PubInv/issues]
 You may wish to subscribe to our <a href="https://www.youtube.com/watch?v=1T8XSMhwKUE">YouTube Channel</a>. Since we are bound neither by the need to keep something secret due to patent restrictions imposed by Universities, nor by the formality of Academic publishing, nor by the need to maintain trade secrets, we publish informally a lot at YouTube.
 
 
-At the momement, we have a *desperate need for someone who can sketch* (like with a pencil) to do some simple art for our most active project, [The Gluss Project](http://pubinv.github.io/gluss/).
+At the momement, we have a **desperate need for someone who can sketch** (like with a pencil) to do some simple art for our most active project, [The Gluss Project](http://pubinv.github.io/gluss/).
 
 I am a computer scientist. I greatly admire artists but don't pretend that I can create art. We will always have a need for artists, writers, and educators.
 
