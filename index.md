@@ -6,21 +6,23 @@ title: Public Invention
 
 # A Personal Invitation
 
-The creation of new technology is not the only or best way to help our fellow-beings. Love is more important than lasers, and kindness more important than computers. Still, many of us are better suited to serve humanity in code than in a sermon, or holding a test tube rather than the hand of the dying.
+The creation of new technology is not the only or dominant way to help our fellow-beings. Love is more important than lasers, and kindness more important than computers. Still, many of us are better suited to serve humanity in code than in a sermon, or holding a test tube rather than the hand of the dying.
 
 If you are one of those persons, I invite you to participate with me in a project I call Public Invention (PubInv). Throughout 2015, and now 2016, we hope to run a number of projects best described as “inventions” that will be valuable to humanity. This is not particularly original. This is yet another project in the exponentially growing tradition of working for the public good.
 
-What we do hope to use some modern principles:
+What we do hope to do is use some modern principles:
+
 * We will be completely transparent and open from the first.
 * Everything we produce will be shared to everyone without exception.
 * We will organize our work using an Agile methodology, whether our work is software, hardware, research, or education.
+
 In other words, this will be an free-libre open-source project that welcomes participation from the public and seeks to organize work so that the work so that as many hands can pitch in as possible, and so that as many voices can contribute as possible.
 
-I am not committed to this project. If I find an existing project that can utilize my talents better, I may drop PubInv to assist others. I don’t want this to be about me.
+There have always been public inventors who have worked in the public interest. Benjamin Franklin and Buckminster Fuller are perhaps the best examples. The Curies and Jonas Salk forewent patents in order to make their research freely usable by all. The patent system has provided valuable incentive over the last 200 years to inventors, but it now seems largely obsolete in a rapidly moving world of ever-increasing abundance.
 
-But of course that is inevitable, at least at the beginning. There is no point in false humility. I really want to act as the head coach of PubInv, and I think I can do it well.
+The Free Software movement has blazed a trail that we hope to follow with hardware inventions. Every year the Free Software movement, of which Wikipedia is perhaps an outstanding offshoot, add billions of dollars worth of value to the economic well-being of everyone. Sadly our economomists have not caught up to this fact, and becuase much of this work does not require money to change hands it is not treated as expanding the Gross (Domestic/World) Product.
 
-I have an adequate technological resume, particularly as a computer programmer. More importantly, however, I enjoy leading teams and am good at it. I mentor people well. Finally, I am able and willing to devote myself full-time to this project, at least for a while.
+If you are willing to forgo the siren song of intelletual property and have the mental strength to contribute to inventions directly for the benefit of all humannity, I invite you to contact me.
 
 You may wish to examine our project [concepts](https://github.com/PubInv/PubInv/tree/master/ideas) to see if any appeal to you.
 
@@ -38,9 +40,10 @@ You may wish to examine our project [concepts](https://github.com/PubInv/PubInv/
 
 # How to Contribute
 
-For specific immediate needs, please see [HELP_WANTED.md](https://github.com/PubInv/PubInv/blob/master/HELP_WANTED.md) file.
 
-We welcome your participation.  You are welcome to email me <read.robert@gmail.com>.  However, as a public project, it is even better for you to comment publicly.  You can do this by opening an "issue" here at GitHub.  If you want to add to or improve one of the existing documents, you can do this with a "pull request".
+We welcome your participation.  You are welcome to email me (&lt;read.robert@gmail.com&gt;)[mailto:<read.robert@gmail.com>].
+However, as a public project, it is even better for you to comment publicly.
+You can do this by opening an "issue" here at GitHub.  If you want to add to or improve one of the existing documents, you can do this with a "pull request".
 
 In general, each project will have a set of "stories".  This is a technique developed by the Agile community. We welcome you to take on the execution of a story if that fits your talents.  Writing new stories is also very important activity.
 
