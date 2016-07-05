@@ -37,6 +37,9 @@ You may wish to examine our project [concepts](https://github.com/PubInv/PubInv/
 * We've created and published [CoilChoice](http://pifah.github.io/CoilChoice/), and interactive tool for desiging electromagnetic coils.
 * This project later took 4th place on the Women in Technology Institute (WITI) Virtual Hackathon.
 * A team formed at the Austin Hack for Change Civic Hackathon won "Most Hacked Forward" superlative with [ATX Preemie Warmer](https://www.youtube.com/watch?v=zb-F0qTptJs&list=PL9nAioXQFlE59Aalkz2NbcodxL4__Su7y).
+* An educational [double pendulum simulation](https://pubinv.github.io/chaos-pendulum/) has been created,
+as part of an unsolicited proposal to Montshire Science Museum for a physical exhibit.
+If any knows of a better double-pendulum simulation, please let me know.
 
 # How to Contribute
 
