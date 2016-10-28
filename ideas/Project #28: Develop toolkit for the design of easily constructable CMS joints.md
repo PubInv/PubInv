@@ -18,4 +18,14 @@ for the purpose of creating the CMS joint components.  That is, basic parameters
 be laser-cuttable and/or 3D printable designs which could easily create the CMS joint. Note that Public Invention
 has already produced a simlar project, [Coil Choice](http://pubinv.github.io/CoilChoice/).
 
+## Anglular Limitations
+
+An important aspect of the CMS joint is that it has a wide, but limited, range of spherical angular motion.
+(As each such joint joins two members, this may be consider an planar angular range.) Therefore one of the
+most useful aspects of this tool is to state the minimum and maximum angle for a give set of paramerts.
+Gregory J. Hamlin and Arthur C. Sanderson's book,
+[Tetrobot, A Modular Approach to Reconfigurable Parallel Robotics](https://play.google.com/store/search?c=books&q=TETROBOT),
+provides, beginning on page 53, a mathematical description of these issues. The resulting equations are of
+sufficient complexity that a spreadsheet-like ability to compute them quickly for a given set of parameters
+would be very useful.
 
