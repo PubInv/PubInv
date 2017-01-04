@@ -1,3 +1,7 @@
+# Implementation
+
+This project has begun; please go to the [project page](https://pubinv.github.io/color-block-font/).
+
 # Motivation
 
 Historically it has been difficult to produce color printing.  With much text now read on computer screens, we should
