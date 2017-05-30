@@ -300,5 +300,9 @@ The idea would be to make a customizable truss, using the principles of the Octe
 
 Conservation laws are useful in many situations: double-entry bookkeeping, games, angular momentum, linear momentum, mass, energy, etc.  Yet we do not have a fundamental, cross-language Abstract Data Type to represent a Conserved Quantity.  This is a great project because it could be applied to many different langagues.
 
+# Idea: Investigate the periodicity of convergenet series
+
+I know this is probably well-knwon, but looking at the series expansion of the SIN function it is just very unnartural to see that it has a period of 2PI. For example, we know SIN(1000) is something in the range [-1,1] but the first term is big. I don't have the knowledge to think about this but as a computer scientist it seems wrong.
+
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
