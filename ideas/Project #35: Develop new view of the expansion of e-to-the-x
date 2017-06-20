@@ -1,0 +1,37 @@
+# Develop a new way of thinking about the expansion of e. (and sin, and cos)
+
+This is a an admittedly half-baked idea.  My knowledge of analysis is woefully incomplete, something I am attempting to remedy.
+
+Nonetheless, as a "public inventor", I work in the light, even the light shows how silly I am.
+ 
+Consider the Taylor series expansion of [sin x](https://en.wikipedia.org/wiki/Taylor_series):
+
+Sigma (x = 0 -> infinity)  -1^n * x^(2n+1)/(2n+1)!
+
+Now speaking only for myself this is deeply weird to think that no matter what x we put in, this summation stays in the
+interval [-1,1].  To a mathematician, this might not be weird, but think about this as a computer scientist.
+We know it sort of make sense that x from 0 to 2 * pi is going to beheave somewhat reasonably.
+
+But consider if we put in x of "100". The first terms in this expansion are GIGANTIC. In fact if you plot them
+they rise and rise up to a maximum.  The values are alternately negative, which is what keeps the result from being 
+huge.  If we look at the "envelope" of both the positive and negative values it will have a pronounced bulge 
+which increase as x increases. The values get huge, yet always seem to cancel out.
+
+I'm told the proof that this expansion is periodic is tricky, and I believe it --- it seems crazy that it can be.
+
+Now thinking as a computer programmer rather than a mathematician, doesn't this mean that we are representing 
+our series incorrectly?  Doesn't it make sense to recast the series in terms of where the maximum value is?
+
+If we were calculating this by hand, we would not start at the 0 term---we would start at the maximum value,
+and then adjust moving to the left and right of this value.
+
+Basically, the fact that x^n/n! grows with x up to a point and then diminishes suggests that they're may 
+be some valuable way of looking at the summation differently.  (I know this is vague statement.)
+
+The maximum of the x^n/n! tends to occur near x = n. As x increases beyond n, each increment of n decreases our running value.
+I propose that we find a formal expression for the maximum, and construct a series where that is the first term
+in the series.  In order to make this symmetric about this value, we will have to manipulate the tail of the series,
+since the series starts at n = 0, which is in fact assymmetric.  Possibly through some manipulation we can find
+a manipulation which is symmetric about the max point.
+
+
