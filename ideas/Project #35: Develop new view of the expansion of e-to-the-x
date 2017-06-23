@@ -55,6 +55,9 @@ performed only at the last step.  The result would be a completely rational, unr
 know where to partition the series starts to become very valuable.  If you know that there was less than one 
 millionth remainin in the terms x^n/n! where n was greater than 352, then one could add together the first 351 terms
 with a certain security.
-would let you estimate how many such terms would have to be added to 
+would let you estimate how many such terms would have to be added to obtain a given precision.
+
+Since x^n/n! decreases rapidly when x > 2n, I think it should be quite possible to put effective bounds on the remainder of the
+series.
 
 
