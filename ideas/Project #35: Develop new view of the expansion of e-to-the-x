@@ -34,4 +34,27 @@ in the series.  In order to make this symmetric about this value, we will have t
 since the series starts at n = 0, which is in fact assymmetric.  Possibly through some manipulation we can find
 a manipulation which is symmetric about the max point.
 
+Note: I have proven the maximum magnitude occurs when n = floor(x).
+
+I believe an interesting algorithmic approach would be to compute "compensatory pairs".  The idea is to take the maximum
+and the next term, which are of alternate sign. Add them together using a rational arithmetic approach. These two
+terms form a fraction like (1 - x) * x^n / (j+1)!. If fully evalutated, this term is of relatively low magnitude, because
+it is of two terms that are close to canceling in a certain sense. Then add to this the same calculation for the pair
+to the left, then the same calculation for the pair to the right.  After you get back to zero, start taking pairs
+only incrasing magnitude.  In a certain sense, this approach keeps the values relatively small. After performing 
+numerator addition (subtraction) one can then look for factors in the numerator and denominator which cancel at 
+each step, greatly reducing overall magnitude, potentiall.  The absolute value converges to the value of the series
+rather quickly, in a limited sense.  Note this can be used to compute e^x as well (though the terms are all positive
+in that case, you are at least looking for the largest terms first.
+
+Note: It may also be interesting to investigate at what value of n x^n/n! becomes less than 1.0, or 0.1, etc. and when
+the summation of all terms n > this value becomes less than 1.0 and 0.1 and other fences. Knowing this would allow
+you to know how many terms are needed to compute a given accuracy of e^x.  This would allow you to perform all addtion
+ahead of time, forming a single rational fraction, and then look for simplications so that factoring would be 
+performed only at the last step.  The result would be a completely rational, unrdounded lower bound on e^x. So in a since
+know where to partition the series starts to become very valuable.  If you know that there was less than one 
+millionth remainin in the terms x^n/n! where n was greater than 352, then one could add together the first 351 terms
+with a certain security.
+would let you estimate how many such terms would have to be added to 
+
 
