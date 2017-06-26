@@ -60,4 +60,18 @@ would let you estimate how many such terms would have to be added to obtain a gi
 Since x^n/n! decreases rapidly when x > 2n, I think it should be quite possible to put effective bounds on the remainder of the
 series.
 
+After studying a bit more how the power series for sine is developed from Taylor's Theorem, I think I have been a little
+stupid---since the power series is developed at SIN(0), of course it converges more slowly at SIN(X) as X is far from zero,
+and in a sense this is "just" the behavior of a Taylor's series approximation.
+
+However, in my mind it does still raise certain questions:  Can we develop a different expansion for sine than one at zero?
+For example, can we use 45 degree angle points (this depends on the knowability of the nth derivative at those points.)
+
+However, the issue still stands in the computation of e^x or in a Taylor series in general.  Is it not better as a 
+computational strategy to compute the terms in order of their size? (and, as we can see, if x >> 0, the first term is not
+the largest in the e^x expansion.)
+
+Would it be possible to choose a Taylor expansion around a different point that would produce a power series that would be
+more efficient for the computation of the sin(x) (or even e^x)?
+
 
