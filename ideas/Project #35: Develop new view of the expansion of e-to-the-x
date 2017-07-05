@@ -74,4 +74,19 @@ the largest in the e^x expansion.)
 Would it be possible to choose a Taylor expansion around a different point that would produce a power series that would be
 more efficient for the computation of the sin(x) (or even e^x)?
 
+I've been trying to study this and I clearly I have been confused but I remained astounded that the Taylor expansion of SINE 
+about 0 is A) Periodic, B) Bounded between [-1.0,1.0], C) capable of resolving such gigantic terms down to such small numbers.
+
+Perhaps this is just my own stupidity, but I think it must be worth deeper consideration. There must be some other way 
+of loosing at the summation of the series which explicates these bizarre features.
+
+For example, what if we took some other function, such as sine(x^1.1), or sine^3(x). Can we produce the series of these at all?
+The trick of eliminationg the nth derivative will clearly not work. 
+
+How is it that this series has (in some sense) a period of 2PI? How can we deduce this from the series? 
+
+
+
+
+
 
