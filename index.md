@@ -30,7 +30,7 @@ You may wish to examine our project [concepts](https://github.com/PubInv/PubInv/
 
 # Accomplishments So Far
 
-* [The Gluss Project](http://pubinv.github.io/gluss/) has [demonstrated](https://www.youtube.com/watch?v=1T8XSMhwKUE) a very novel unconventional robot.
+* [The Gluss Project](http://pubinv.github.io/tetrobot/) has [demonstrated](https://www.youtube.com/watch?v=1T8XSMhwKUE) a very novel unconventional robot.
 <iframe width="280" height="162" src="https://www.youtube.com/embed/1T8XSMhwKUE" frameborder="0" allowfullscreen></iframe>
 * The [Gluss Pusher project](https://github.com/PubInv/Gluss-Pusher/tree/master) is developing an inexpensive prototype linear actuator for building large, highly scalable robots.
 * We have published a legitimiate novel invention: [The Turret Joint](https://github.com/PubInv/turret-joint) which is essential to the construciton of Gluss robots.
@@ -50,7 +50,7 @@ You can do this by opening an ("issue")[https://github.com/PubInv/PubInv/issues]
 You may wish to subscribe to our <a href="https://www.youtube.com/watch?v=1T8XSMhwKUE">YouTube Channel</a>. Since we are bound neither by the need to keep something secret due to patent restrictions imposed by Universities, nor by the formality of Academic publishing, nor by the need to maintain trade secrets, we publish informally a lot at YouTube.
 
 
-At the momement, we have a **desperate need for someone who can sketch** (like with a pencil) to do some simple art for our most active project, [The Gluss Project](http://pubinv.github.io/gluss/).
+At the momement, we have a **desperate need for someone who can sketch** (like with a pencil) to do some simple art for our most active project, [The Gluss Project](http://pubinv.github.io/tetrobot/).
 
 I am a computer scientist. I greatly admire artists but don't pretend that I can create art. We will always have a need for artists, writers, and educators.
 
