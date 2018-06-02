@@ -1,0 +1,15 @@
+# 3D-printable variable-length snap line
+
+I have recently taken up painting, purely as a hobby for fun.
+
+I am currently using oil paints. Unless watercolors, which can receive ink before or after the coloring, oils cannot easily be
+be marked with water-based ink. If you want a fine line, you pretty much have to pain it with a tiny brush. There is a severe limit
+to how fine a line you can make.
+
+If we had a machine that had two sliding components on a rail, we could tension a thread or string. If that thread were soaked in
+oil paint, we could hold it against a painted canvas and pluck the string to make a straight line on the canvas.
+
+The components would have to be adjustable to make a line of variable length, with relatively sharp endpoints.
+
+Such a device could be 3D printed pretty easily for the purpose of experimentation.
+
