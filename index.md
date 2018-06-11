@@ -28,8 +28,32 @@ You may wish to examine our project [concepts](https://github.com/PubInv/PubInv/
 
 -- Robert L. Read, PhD
 
+# Mission
+
+The purpose of the Public Invention is to invent livingry. That is, to create inventions which improve the well-being of all humanity.
+
+To do this, Public Invention creates, teaches, and empowers public inventors working in the public interest. It:
+* Connects public inventors for moral support and collaboration,
+* Creates public inventors through education,
+* Honors public inventors to encourage further public invention,
+* Financially supports public invention,
+* Finanically supports experimentation that may lead to power livingry,
+* Publishes public inventions and about public invention.
+
+# Immediate Plans
+
+This summer, I intend to create a non-profit corporation and apply for 501c3 status.
+
+My immediate plans are therefore:
+* To create a corporation capable of handling money,
+* Apply for 501c3 status,
+* Find a powerful board supporting public invention,
+* Develop policies that promote public invention, such as paying for Open Access for important journal articles, and
+* Create and publish a guidebook for public inventors.
+
 # Accomplishments So Far
 
+* Published peer-reviewed academic journal article describing simple optimization of a [tetrahelix](http://mechanismsrobotics.asmedigitalcollection.asme.org/article.aspx?articleid=2683455).
 * [The Gluss Project](http://pubinv.github.io/tetrobot/) has [demonstrated](https://www.youtube.com/watch?v=1T8XSMhwKUE) a very novel unconventional robot.
 <iframe width="280" height="162" src="https://www.youtube.com/embed/1T8XSMhwKUE" frameborder="0" allowfullscreen></iframe>
 * The [Gluss Pusher project](https://github.com/PubInv/Gluss-Pusher/tree/master) is developing an inexpensive prototype linear actuator for building large, highly scalable robots.
