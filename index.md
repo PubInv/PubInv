@@ -8,7 +8,7 @@ title: Public Invention
 You may want to click through our Mission Statement using the Plectica Map below.
 
 <div class="iframe_container">
-  <iframe width="560" height="315" src="https://plectica.com/maps/VT6JNQ5AP?present=1" frameborder="0" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://plectica.com/maps/VT6JNQ5AP?present=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The Mission of Public Invention is to invent things that help humanity.
