@@ -5,67 +5,52 @@ title: Public Invention
 
 # The Mission of Public Invention
 
+You may want to click through our Mission Statement using the Plectica Map below.
+
 <div class="iframe_container">
   <iframe width="560" height="315" src="https://plectica.com/maps/VT6JNQ5AP?present=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
+The Mission of Public Invention is to invent things that help humanity.
+
+We follow these principles:
+
+* Share everything equally and immediately. Do not seek patents that imply a monopoly that is the antithesis of sharing.
+* Work in the light. In addition to publishing successful inventions, publish failures. Publish mediocrity. Publish everything. Work in the public for the public.
+* Keep it real. Always be working towards a real invention that reallys helps people.
+It is better to make something tiny and real than to make something grand and awesome
+that is not real. A roller skate is better than a toy space fighter.
+* Don't build weapons. Technology is not neutral. Some things are more easily
+used for good and harder to pervert than others. Invent things that heal, help,
+educate, entertain, enlighten, strengthen, and ennoble humanity.
+* Seek egalitarian usefulness. All else being equal, inventions which make us more
+equal are better than inventions that make us less equal.
+* Collaborate whenever possible. Even if it slows you down, try to involve others
+whenever you can.
+* Honor and value every contribution. Some inventions require specialized math;
+all inventions require general communications and the most specialized and the
+most general skills are all needed.
 
 
 
-# A Personal Invitation
+# Who we are in 2018
 
-The creation of new technology is not the only or dominant way to help our fellow-beings. Love is more important than lasers, and kindness more important than computers. Still, many of us are better suited to serve humanity in code than in a sermon, or holding a test tube rather than the hand of the dying.
-
-If you are one of those persons, I invite you to participate with me in a project I call Public Invention (PubInv). Throughout 2015, and now 2016, we hope to run a number of projects best described as “inventions” that will be valuable to humanity. This is not particularly original. This is yet another project in the exponentially growing tradition of working for the public good.
-
-What we do hope to do is use some modern principles:
-
-* We will be completely transparent and open from the first.
-* Everything we produce will be shared to everyone without exception.
-* We will organize our work using an Agile methodology, whether our work is software, hardware, research, or education.
-
-In other words, this will be an free-libre open-source project that welcomes participation from the public and seeks to organize work so that the work so that as many hands can pitch in as possible, and so that as many voices can contribute as possible.
-
-There have always been public inventors who have worked in the public interest. Benjamin Franklin and Buckminster Fuller are perhaps the best examples. The Curies and Jonas Salk forewent patents in order to make their research freely usable by all. The patent system has provided valuable incentive over the last 200 years to inventors, but it now seems largely obsolete in a rapidly moving world of ever-increasing abundance.
-
-The Free Software movement has blazed a trail that we hope to follow with hardware inventions. Every year the Free Software movement, of which Wikipedia is perhaps an outstanding offshoot, add billions of dollars worth of value to the economic well-being of everyone. Sadly our economomists have not caught up to this fact, and becuase much of this work does not require money to change hands it is not treated as expanding the Gross (Domestic/World) Product.
-
-If you are willing to forgo the siren song of intelletual property and have the mental strength to contribute to inventions directly for the benefit of all humannity, I invite you to contact me.
-
-You may wish to examine our project [concepts](https://github.com/PubInv/PubInv/tree/master/ideas) to see if any appeal to you.
-
--- Robert L. Read, PhD
-
-# Mission
-
-The purpose of the Public Invention is to invent livingry. That is, to create inventions which improve the well-being of all humanity.
-
-To do this, Public Invention creates, teaches, and empowers public inventors working in the public interest. It:
-* Connects public inventors for moral support and collaboration,
-* Creates public inventors through education,
-* Honors public inventors to encourage further public invention,
-* Financially supports public invention,
-* Finanically supports experimentation that may lead to power livingry,
-* Publishes public inventions and about public invention.
-
-# Immediate Plans
-
-This summer, I intend to create a non-profit corporation and apply for 501c3 status.
-
-My immediate plans are therefore:
-* To create a corporation capable of handling money,
-* Apply for 501c3 status,
-* Find a powerful board supporting public invention,
-* Develop policies that promote public invention, such as paying for Open Access for important journal articles, and
-* Create and publish a guidebook for public inventors.
+Robert L. Read is the head coach and founder of Public Invention, and devotes
+most of his time to it. Other participants include Joshua L. Hannon, Evan Bartilson,
+Morgan Chen, Keeshan Patel,
+and Neil Martis. We plan to incorporate in 2019, and are actively seeking
+additional volunteers, and, above all, public inventors.
 
 # Accomplishments So Far
 
+* We have produced [26 open-source](https://github.com/PubInv) repos of work so far.
 * Published peer-reviewed academic journal article describing simple optimization of a [tetrahelix](http://mechanismsrobotics.asmedigitalcollection.asme.org/article.aspx?articleid=2683455).
 * [The Gluss Project](http://pubinv.github.io/tetrobot/) has [demonstrated](https://www.youtube.com/watch?v=1T8XSMhwKUE) a very novel unconventional robot.
 <iframe width="280" height="162" src="https://www.youtube.com/embed/1T8XSMhwKUE" frameborder="0" allowfullscreen></iframe>
+* Developed a [3D printable optical linear sensor](https://github.com/PubInv/optical-linear-sensor/blob/master/doc/OpticalDisplacementSensor.pdf) (with Keeshan Patel.)
+* Published an [article](http://www.nutsvolts.com/magazine/article/setting-up-the-raspberry-pi-3) on using the Raspberry Pi in Nuts and Volts (with Morgan Chen.)
 * The [Gluss Pusher project](https://github.com/PubInv/Gluss-Pusher/tree/master) is developing an inexpensive prototype linear actuator for building large, highly scalable robots.
-* We have published a legitimiate novel invention: [The Turret Joint](https://github.com/PubInv/turret-joint) which is essential to the construciton of Gluss robots.
+* We have published 3D plans for a legitimiate novel invention: [The Turret Joint](https://github.com/PubInv/turret-joint) which is essential to the construciton of Gluss robots (this was invented by Song, Kwon, and Kim.)
 * We've created and published [CoilChoice](http://pifah.github.io/CoilChoice/), and interactive tool for desiging electromagnetic coils.
 * This project later took 4th place on the Women in Technology Institute (WITI) Virtual Hackathon.
 * A team formed at the Austin Hack for Change Civic Hackathon won "Most Hacked Forward" superlative with [ATX Preemie Warmer](https://www.youtube.com/watch?v=zb-F0qTptJs&list=PL9nAioXQFlE59Aalkz2NbcodxL4__Su7y).
