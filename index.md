@@ -3,6 +3,14 @@ layout: default
 title: Public Invention
 ---
 
+# The Mission of Public Invention
+
+<div class="iframe_container">
+  <iframe width="560" height="315" src="https://plectica.com/maps/VT6JNQ5AP?present=1" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+
 
 # A Personal Invitation
 
