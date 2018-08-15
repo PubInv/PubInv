@@ -15,19 +15,19 @@ The Mission of Public Invention is to invent things that help humanity.
 
 We follow these principles:
 
-* Share everything equally and immediately. Do not seek patents that imply a monopoly that is the antithesis of sharing.
-* Work in the light. In addition to publishing successful inventions, publish failures. Publish mediocrity. Publish everything. Work in the public for the public.
-* Keep it real. Always be working towards a real invention that reallys helps people.
+* **Share everything equally and immediately.** Do not seek patents that imply a monopoly that is the antithesis of sharing.
+* **Work in the light.** In addition to publishing successful inventions, publish failures. Publish mediocrity. Publish everything. Work in the public for the public.
+* **Keep it real.** Always be working towards a real invention that reallys helps people.
 It is better to make something tiny and real than to make something grand and awesome
 that is not real. A roller skate is better than a toy space fighter.
-* Don't build weapons. Technology is not neutral. Some things are more easily
+* **Don't build weapons.** Technology is not neutral. Some things are more easily
 used for good and harder to pervert than others. Invent things that heal, help,
 educate, entertain, enlighten, strengthen, and ennoble humanity.
-* Seek egalitarian usefulness. All else being equal, inventions which make us more
+* **Seek egalitarian usefulness.** All else being equal, inventions which make us more
 equal are better than inventions that make us less equal.
-* Collaborate whenever possible. Even if it slows you down, try to involve others
+* **Collaborate whenever possible.** Even if it slows you down, try to involve others
 whenever you can.
-* Honor and value every contribution. Some inventions require specialized math;
+* **Honor and value every contribution.** Some inventions require specialized math;
 all inventions require general communications and the most specialized and the
 most general skills are all needed.
 
