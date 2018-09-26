@@ -3,7 +3,9 @@ layout: default
 title: Public Invention
 ---
 
-# The Mission of Public Invention
+# Mission of Public Invention
+
+The Mission of Public Invention is to “Invent in the public, for the public.” 
 
 You may want to click through our Mission Statement using the Plectica Map below.
 
@@ -11,10 +13,14 @@ You may want to click through our Mission Statement using the Plectica Map below
   <iframe width="800" height="400" src="https://plectica.com/maps/AGMKYDVA7?present=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
-The Mission of Public Invention is to invent things that help humanity.
 
-We follow these principles:
+We invent things that help all people. We empower inventors, technologists, and students to publish, find, and collaborate on invention ideas through direct coaching, team formation, curation of work, publication, co-working and learning events, and, in some cases, material support.
 
+We challenge the notion that inventions should be reserved for patents and profits. Rather, we invite fellow builders of the future to use their skills for humanitarian purpose. We want to make the future better for everyone. To do this we remove, rather than add, legal barriers to the free use of our inventions. All work done with Public Invention is free and open to all under share-alike public licenses.
+
+The Public Inventor of the future is not a lone genius but a person who is part of a community. We empower Public Invention Teams that embrace the interdisciplinary talents that combine to shape the future: inventiveness, design, writing, art, photography, engineering, administration, fundraising, and other skills we cannot predict. All of our work is in service to nurture humanitarian invention.
+
+Public Inventors follow these principles:
 * **Share everything equally and immediately.** Do not seek patents that imply a monopoly that is the antithesis of sharing.
 * **Work in the light.** In addition to publishing successful inventions, publish failures. Publish mediocrity. Publish everything. Work in the public for the public.
 * **Keep it real.** Always be working towards a real invention that reallys helps people.
@@ -23,6 +29,7 @@ that is not real. A roller skate is better than a toy space fighter.
 * **Don't build weapons.** Technology is not neutral. Some things are more easily
 used for good and harder to pervert than others. Invent things that heal, help,
 educate, entertain, enlighten, strengthen, and ennoble humanity.
+* **Ideas are cheap.** Invention requires a flash of insight, an inspiration. But that is only 1% of the work of developing an idea. 
 * **Seek egalitarian usefulness.** All else being equal, inventions which make us more
 equal are better than inventions that make us less equal.
 * **Collaborate whenever possible.** Even if it slows you down, try to involve others
@@ -30,8 +37,6 @@ whenever you can.
 * **Honor and value every contribution.** Some inventions require specialized math;
 all inventions require general communications and the most specialized and the
 most general skills are all needed.
-
-
 
 # Who we are in 2018
 
@@ -41,12 +46,15 @@ Morgan Chen, Keeshan Patel,
 and Neil Martis. We plan to incorporate in 2019, and are actively seeking
 additional volunteers, and, above all, public inventors.
 
+Initial Board members in 2019 are Adam Riggs, Lea Shanley, PhD, Nina Bianchi, Martin Smith, PhD, Keeshan Patel, John K. Gibbons, Kaitlin Devine, and Robert L. Read.
+
 # Accomplishments So Far
 
 * We have produced [26 open-source](https://github.com/PubInv) repos of work so far.
 * Our biggest accomplishment has been revitalizing the [Tetrobot concept](https://pubinv.github.io/tetrobot/).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kYpHKjkcXKA" frameborder="0" allowfullscreen></iframe>
 * Published peer-reviewed academic journal article describing simple optimization of a [tetrahelix](http://mechanismsrobotics.asmedigitalcollection.asme.org/article.aspx?articleid=2683455).
+* In conjunction with the Greater Austin Chapter of Engineers Without Borders USA, invented the Armadillo, a portable Petrifilm Incubator: https://www.ewb.org.au/jhe/index.php/jhe/article/view/127.
 * [The Gluss Project](http://pubinv.github.io/tetrobot/) has [demonstrated](https://www.youtube.com/watch?v=1T8XSMhwKUE) a very novel unconventional robot.
 <iframe width="280" height="162" src="https://www.youtube.com/embed/1T8XSMhwKUE" frameborder="0" allowfullscreen></iframe>
 * Developed a [3D printable optical linear sensor](https://github.com/PubInv/optical-linear-sensor/blob/master/doc/OpticalDisplacementSensor.pdf) (with Keeshan Patel.)
