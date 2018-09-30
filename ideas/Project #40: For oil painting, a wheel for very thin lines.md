@@ -26,3 +26,10 @@ I prpose a simple invention: A holder, like a pizza cutter, with a smaller wheel
 pressure (though not with the naked hand), re-loads the wheel as it rolls, allowing a fine line to be drawn.
 
 This would be a relatively easy to device to manufacture.
+
+Additionally, something is needed---a mixing/loading tablet. This is probably best done as a set of grooves (one for each
+color to mixed) that are narrow and shallow, ending in a broader hollow for mixing. The grooves should have a length
+slightly longer than the circumference of the wheel. If someone wants to use a CNC machine to manufacture this for us, that 
+would be wonderful; please contact me!
+
+
