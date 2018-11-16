@@ -19,6 +19,8 @@ Light shined into one end would be totally internally reflected.
 If we made a helical coil, we could easily produce several meters of light path in a compact space, still
 containing 100 ml of water, the normal test sample size.
 
+[Rapid Detection of Colorimetric Change in Water.pdf](https://github.com/PubInv/PubInv/files/2591085/Rapid.Detection.of.Colorimetric.Change.in.Water.pdf)
+
 Then, the machine could, wich some sensitivity, report a graph of tranmissivity over time, using a simple LED 
 and a photodiode.
 
