@@ -24,6 +24,8 @@ containing 100 ml of water, the normal test sample size.
 Then, the machine could, wich some sensitivity, report a graph of tranmissivity over time, using a simple LED 
 and a photodiode.
 
+In theory, it might be possible to detect changes in the color in a rapid period of time.
+
 The increase light path would multiply the sensitivy to transmissivity changes into a range detectable by 
 a normal analog-to-digital converter, so long as the decreased trasmissivity was due solely to reaction of the 
 reagent with the bacterial byprodut (if the water were very turbid, transmissivity might be so low this would not be possible.)
@@ -32,4 +34,8 @@ The result might be the ability to perform this test in a much lower time than 2
 
 This would be a great boon in emergency situations. You could essentially test a an unkown source of water for 
 fecal contamination indicator organisms in, for example, 30 minutes, to rapidly determine safety.
+
+An improvement would be to use the same LED and the same photodiode for measuring both the control and the sample. However, we sould then need some sort of switch to shut off light to one of the tubes. One can imagine a mechanical switch of 
+physical device in an air gap; some sort of Faraday effect with polarization might be possible but is probably not worth it.
+
 
