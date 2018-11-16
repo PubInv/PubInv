@@ -1,7 +1,8 @@
 # Rapid coliform presence/absence test
 
 One of the means of determining drinking water safety is to perform a coliform presene/absence test such as those made by
-[Hach](https://www.hach.com/presence-absence-test-pk-12/product-downloads?id=7640249610).
+[Hach](https://www.hach.com/presence-absence-test-pk-12/product-downloads?id=7640249610) or 
+[IDEXX](https://www.idexx.com/en/water/water-products-services/colilert/).
 
 These methods require incubation at a certain temperature an produce a color change in the presence of the organism.
 Generally they require 24 hours or 48 hours.
@@ -11,7 +12,8 @@ the transmisssivity of a certain color, perhaps through a large linear quanity o
 this might detect a color change more rapidly than 24 hours.
 
 For example, suppose that we could build a waveguide for water, consisting of a plastic tube with an index 
-of refraction less than water. The tube, when filled with water, would resemble a glass optcal fiber.
+of refraction less than water. (The only plastic I know of that has this property is Teflon AF, made by DuPont,
+which can [specifically](http://www.biogeneral.com/teflon-af/) be used to make a light wave guide.) The tube, when filled with water, would resemble a glass optcal fiber.
 Light shined into one end would be totally internally reflected.
 
 If we made a helical coil, we could easily produce several meters of light path in a compact space, still
