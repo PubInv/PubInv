@@ -52,7 +52,7 @@ Initial Board members in 2019 are Adam Riggs, Lea Shanley, PhD, Nina Bianchi, Ma
 
 We have defined 43 public invention projects:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbBuF-ouZch8tvpEleG9lZYPPJagckiqiCLiD1JiXz-lk8JeLrcfM6wkawovRR-peMQ7zEh0fOEU5C/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe width="560" height="315" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbBuF-ouZch8tvpEleG9lZYPPJagckiqiCLiD1JiXz-lk8JeLrcfM6wkawovRR-peMQ7zEh0fOEU5C/pubhtml?widget=true&amp;headers=false"></iframe>
 
 You might like to read our [invitation](https://medium.com/@RobertLeeRead/43-public-invention-projects-that-need-you-a8e4e39130b4) about these projects
 
