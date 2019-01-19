@@ -48,8 +48,20 @@ additional volunteers, and, above all, public inventors.
 
 Initial Board members in 2019 are Adam Riggs, Lea Shanley, PhD, Nina Bianchi, Martin Smith, PhD, Keeshan Patel, John K. Gibbons, Kaitlin Devine, and Robert L. Read.
 
+# Our projects
+
+We have defined 43 public invention projects:
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbBuF-ouZch8tvpEleG9lZYPPJagckiqiCLiD1JiXz-lk8JeLrcfM6wkawovRR-peMQ7zEh0fOEU5C/pubhtml?widget=true&amp;headers=false"></iframe>
+
+You might like to read our [invitation](https://medium.com/@RobertLeeRead/43-public-invention-projects-that-need-you-a8e4e39130b4) about these projects
+
+
+You may want to review our projects via our [spreadsheet](https://docs.google.com/spreadsheets/d/1c_qcNfTRaGTTsexRF7Lp0HDJyPFmueahzMh6_wR3N1Y/edit?usp=sharing)
+
 # Accomplishments So Far
 
+* On the weekend of Dec. 1st, we hosted the first ever Public Mathathon to address serious open math problem communally. Although participation was low the [results](https://hackernoon.com/the-story-of-a-public-cooperative-mathathon-29ea5f4ff538) were stunning. 
 * We have produced [26 open-source](https://github.com/PubInv) repos of work so far.
 * Our biggest accomplishment has been revitalizing the [Tetrobot concept](https://pubinv.github.io/tetrobot/).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kYpHKjkcXKA" frameborder="0" allowfullscreen></iframe>
