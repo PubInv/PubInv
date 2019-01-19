@@ -38,7 +38,7 @@ whenever you can.
 all inventions require general communications and the most specialized and the
 most general skills are all needed.
 
-# Who we are in 2018
+# Who we are in 2019
 
 Robert L. Read is the head coach and founder of Public Invention, and devotes
 most of his time to it. Other participants include Joshua L. Hannon, Evan Bartilson,
@@ -61,7 +61,7 @@ You may want to review our projects via our [spreadsheet](https://docs.google.co
 
 # Accomplishments So Far
 
-* On the weekend of Dec. 1st, we hosted the first ever Public Mathathon to address serious open math problem communally. Although participation was low the [results](https://hackernoon.com/the-story-of-a-public-cooperative-mathathon-29ea5f4ff538) were stunning. 
+* On the weekend of Dec. 1st, we hosted the first ever Public Mathathon to address serious open math problem communally. Although participation was low the [results](https://hackernoon.com/the-story-of-a-public-cooperative-mathathon-29ea5f4ff538) were stunning, including 2 presumably publishable results. 
 * We have produced [26 open-source](https://github.com/PubInv) repos of work so far.
 * Our biggest accomplishment has been revitalizing the [Tetrobot concept](https://pubinv.github.io/tetrobot/).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kYpHKjkcXKA" frameborder="0" allowfullscreen></iframe>
