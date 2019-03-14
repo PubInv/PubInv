@@ -57,3 +57,6 @@ https://github.com/PubInv/PubInv/blob/master/images/pi%20no%2040%20grooved%20pai
 
 https://github.com/PubInv/PubInv/blob/master/images/pi%20no%2040%20grooved%20paint%20well.svg
 
+Annalee also points out that it might be easier to just use "ice stick trays" like this: https://www.amazon.com/Silicone-Ice-Cube-Sticks-Tray/dp/B01KB0XALO
+
+
