@@ -44,4 +44,9 @@ Here's the cutting wheel:
 
 ![CuttingWheelWithPaint](https://user-images.githubusercontent.com/5296671/54374399-0c0b3d00-464d-11e9-8b85-a59f289c1c13.jpg)
 
+In response to this Article Annalee Flower Horne proposed a simple design for a "loading board" by cutting grooves and reservoirs into wood or arcylic, like this:
+
+![AnnaLeespalette](https://user-images.githubusercontent.com/5296671/54376082-41655a00-4650-11e9-8b7a-9c3a28b98cf1.png)
+
+
 
