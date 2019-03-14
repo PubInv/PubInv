@@ -130,7 +130,10 @@ provide safety guidance in all cases.  Please proceed carefully at your own risk
 
 12/01/2018 David Jeschke, Nathan Gilbert and other contribute the first every [Public Invention Mathathon](https://github.com/PubInv/Mathathon-2018-Simplex-Chains).
 
+08/01/2018 Neil Martis assisted in the creation and programming of the [geotagtext](https://github.com/PubInv/geotagtext) project, which grew out of Project #1: "Little Free Library" mobile app
+
 07/01/2018 Keeshan Patel did all the construction and date collection and half the writing of [Optical Linear Sensor](https://github.com/PubInv/optical-linear-sensor/blob/master/doc/OpticalDisplacementSensor.pdf).
+
 
 01/01/2018 Joshua Hannan signifiantly contributed to the Gluss Controller Project, including some Raspberry Pi python code which was used at SXSW Create.
 
