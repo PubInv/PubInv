@@ -122,6 +122,8 @@ provide safety guidance in all cases.  Please proceed carefully at your own risk
 
 03/14/2019 Annalee Flower Horne contributed some ideas to [Project #40: Oil Painting Wheel for Very Thin Lines](https://github.com/PubInv/PubInv/blob/master/ideas/Project%20%2340:%20Oil%20painting%20wheel%20for%20very%20thin%20lines.md).
 
+02/15/2019 Adam Riggs, Martin Smith, Keeshan Patel, Kaitlin Devine, Nina Bianchi, Lea Shanley, John Gibbons, Stephanie Liu, and Marc Jones became the first official board member of Public Invention, along with President Robert L. Read
+
 02/01/2019 Robert Gatliff begins contribution work on the Platonic solides to [Project #45: Segmented Helices](https://pubinv.github.io/segmented-helixes/index.html)
 
 01/01/2019 Mark Frazier contributes the basic idea of [Project #44: Social Tetrahedrons](https://github.com/PubInv/SocialTetrahedrons).
