@@ -49,4 +49,11 @@ In response to this Article Annalee Flower Horne proposed a simple design for a 
 ![AnnaLeespalette](https://user-images.githubusercontent.com/5296671/54376082-41655a00-4650-11e9-8b7a-9c3a28b98cf1.png)
 
 
+Annalee provided these files in Adobe illustrator format so they can be edited:
+
+https://github.com/PubInv/PubInv/blob/master/images/AnnaLeespalette.png
+
+https://github.com/PubInv/PubInv/blob/master/images/pi%20no%2040%20grooved%20paint%20well.ai
+
+https://github.com/PubInv/PubInv/blob/master/images/pi%20no%2040%20grooved%20paint%20well.svg
 
