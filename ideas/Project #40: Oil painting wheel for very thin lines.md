@@ -32,4 +32,10 @@ color to mixed) that are narrow and shallow, ending in a broader hollow for mixi
 slightly longer than the circumference of the wheel. If someone wants to use a CNC machine to manufacture this for us, that 
 would be wonderful; please contact me!
 
+# The Medium Article
+
+To promote this project, I wrote a [Medium Article](https://medium.com/@RobertLeeRead/public-invention-project-40-a-wheel-for-painting-very-thin-lines-5d596c625549) which includes pictures of some paintings I made with this technique.
+
+
+
 
