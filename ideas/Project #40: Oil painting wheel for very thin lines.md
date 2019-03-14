@@ -36,6 +36,7 @@ would be wonderful; please contact me!
 
 To promote this project, I wrote a [Medium Article](https://medium.com/@RobertLeeRead/public-invention-project-40-a-wheel-for-painting-very-thin-lines-5d596c625549) which includes pictures of some paintings I made with this technique.
 
+Here is the painting:
 
-
+![IMG-0926](https://user-images.githubusercontent.com/5296671/54373864-fba69280-464b-11e9-820a-7f54f8ba5fa1.JPG)
 
