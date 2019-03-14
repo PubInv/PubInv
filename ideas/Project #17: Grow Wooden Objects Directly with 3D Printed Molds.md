@@ -1,5 +1,29 @@
+# Making 3D Printed Molds for Tree Shaping
+
+After creating this, I learned of the practice of [Tree Shaping](https://en.wikipedia.org/wiki/Tree_shaping), which
+subsumes what I had imagined.
+
+However, in 2019 we can mke a bit o a twist on this idea: 3D printing molds or "collars" to place on the tree.
+
+Note that many practicitoners of tree shaping value the living, shaped tree, but we can also imagine valuing the 
+wooden object cut from the tree (either pruned from a branch or killing the tree.)
+
 Let’s use 3-D printing to construct molds that we can use to force trees into a particular shape.  
 We could then “grow” a chair -- possibly a living chair, or possibly a wood-skeleton chair.
+
+Possibly these molds would have to then be cast into Aluminum.
+
+
+
+Note that with a 3D printer, we could make a large mold out of Interlocking pieces. In fact, we could even imagine
+metal interlocking pieces which we receive a plastic insert which further modifies the shape. In his way we might 
+be able to use only easy-to-print molds that require not casting but can still be used.
+
+We could imagine creating a "jenny lind" style chair leg grown directly as a branch on a tree without killing the 
+tree.
+
+Can we reliable create a Y-splitter? That is, can we in some way reliably know that a tree will branch into two,
+which we can then  potentially bring back together?
 
 This is more of an art project than design project!
 
@@ -14,6 +38,9 @@ Imagine walking through a park where the trees had been sculpted to be playing c
 
 This would be a fun project because it would involve art, 3D printing, botany, and perhaps the development of new 
 techniques for working with living plants.
+
+References: http://www.grown-furniture.co.uk/history.html
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
