@@ -117,3 +117,21 @@ although we encourage young people to participate in Public Invention, they shou
 We will attempt to discuss safety precautions within each project.  However, because this is a distributed project 
 and each participant may be creating their own experiments and machines, it will not be possible for us to 
 provide safety guidance in all cases.  Please proceed carefully at your own risk.
+
+# Contributors and Public Inventors
+
+03/14/2019 Annalee Flower Horne contributed some ideas to [Project #40: Oil Painting Wheel for Very Thin Lines](https://github.com/PubInv/PubInv/blob/master/ideas/Project%20%2340:%20Oil%20painting%20wheel%20for%20very%20thin%20lines.md).
+
+02/01/2019 Robert Gatliff begins contribution work on the Platonic solides to [Project #45: Segmented Helices](https://pubinv.github.io/segmented-helixes/index.html)
+
+01/01/2019 Mark Frazier contributes the basic idea of [Project #44: Social Tetrahedrons](https://github.com/PubInv/SocialTetrahedrons).
+
+12/01/2018 David Jeschke, Nathan Gilbert and other contribute the first every [Public Invention Mathathon](https://github.com/PubInv/Mathathon-2018-Simplex-Chains).
+
+07/01/2018 Keeshan Patel did all the construction and date collection and half the writing of [Optical Linear Sensor](https://github.com/PubInv/optical-linear-sensor/blob/master/doc/OpticalDisplacementSensor.pdf).
+
+01/01/2018 Joshua Hannan signifiantly contributed to the Gluss Controller Project, including some Raspberry Pi python code which was used at SXSW Create.
+
+10/01/2017 Evan Bartilson and Josha Hannah design the 3D printing needed to make the gluss controller in the Gluss Controller Project.
+
+
