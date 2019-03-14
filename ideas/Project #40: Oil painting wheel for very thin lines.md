@@ -40,3 +40,8 @@ Here is the painting:
 
 ![IMG-0926](https://user-images.githubusercontent.com/5296671/54373864-fba69280-464b-11e9-820a-7f54f8ba5fa1.JPG)
 
+Here's the cutting wheel:
+
+![CuttingWheelWithPaint](https://user-images.githubusercontent.com/5296671/54374399-0c0b3d00-464d-11e9-8b85-a59f289c1c13.jpg)
+
+
