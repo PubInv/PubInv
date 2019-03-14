@@ -1,3 +1,7 @@
+# Status: Closed in favor of Project #45
+
+This project spawned [Project #45](https://github.com/PubInv/segmented-helixes), which is highly active. This project is closed in favor of that project.
+
 # Concept
 
 It is a fact, perhaps surprising, that if you take any object and make an unbounded number of copies of it and always place

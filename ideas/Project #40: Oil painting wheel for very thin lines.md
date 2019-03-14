@@ -32,4 +32,21 @@ color to mixed) that are narrow and shallow, ending in a broader hollow for mixi
 slightly longer than the circumference of the wheel. If someone wants to use a CNC machine to manufacture this for us, that 
 would be wonderful; please contact me!
 
+# The Medium Article
+
+To promote this project, I wrote a [Medium Article](https://medium.com/@RobertLeeRead/public-invention-project-40-a-wheel-for-painting-very-thin-lines-5d596c625549) which includes pictures of some paintings I made with this technique.
+
+Here is the painting:
+
+![IMG-0926](https://user-images.githubusercontent.com/5296671/54373864-fba69280-464b-11e9-820a-7f54f8ba5fa1.JPG)
+
+Here's the cutting wheel:
+
+![CuttingWheelWithPaint](https://user-images.githubusercontent.com/5296671/54374399-0c0b3d00-464d-11e9-8b85-a59f289c1c13.jpg)
+
+In response to this Article Annalee Flower Horne proposed a simple design for a "loading board" by cutting grooves and reservoirs into wood or arcylic, like this:
+
+![AnnaLeespalette](https://user-images.githubusercontent.com/5296671/54376082-41655a00-4650-11e9-8b7a-9c3a28b98cf1.png)
+
+
 
