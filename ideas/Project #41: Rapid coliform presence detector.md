@@ -46,7 +46,41 @@ The index of refaction of Ethanol is much higher than the index of refraction of
 
 # Understanding colorimetric changes
 
+Here is the description of [Petfilim Chemistry](https://www.3m.com/3M/en_US/company-us/all-3m-products/~/ECOLICT-3M-Petrifilm-E-coli-Coliform-Count-Plates/?N=5002385+3293785155&rt=rud):
+
 >The 3M Petrifilm E. coli/Coliform Count Plate is a sample-ready-culture-medium system which contains Violet Red Bile (VRB) >nutrients, a cold-water-soluble gelling agent, an indicator of glucuronidase activity (BCIG), and a tetrazolium indicator >that facilitates colony enumeration in food and beverage samples.
+
+Violet Red Bile (VRB) is an [interesting chemical](https://catalog.hardydiagnostics.com/cp_prod/Content/hugo/VioletRedBileAgar.htm):
+
+>Violet Red Bile Agar is a selective medium used to detect and enumerate lactose-fermenting coliform microorganisms. The medium is recommended for use in the microbiological analysis of milk and other dairy products, and for use in the examination of water. (1,2)
+
+>The medium contains bile salts and crystal violet which serve as inhibitory agents toward some gram-positive microorganisms, especially staphylococci. Neutral red is employed as the pH indicator.
+
+>Lactose-fermenting microorganisms produce pink to red colonies that are generally surrounded by a reddish zone of precipitated bile. Non-lactose-fermenting microorganisms result in colorless colonies.
+
+Note: [E. coli](https://en.wikipedia.org/wiki/Escherichia_coli) is a Gram-negative facultative anearobic bacteria.
+
+
+This is a description of [BCIG](https://foodsafety.neogen.com/en/dc-medium-bcig): 
+
+>DC Medium with BCIG is used in the chromogenic differentiation of E. coli from other coliforms in water samples using the membrane filtration method in a laboratory setting. DC Medium with BCIG is not intended for use in the diagnosis of disease or other conditions in humans.
+
+>DC (Differential Coliform) Medium with BCIG is a selective and differential medium for the presumptive identification of E. coli. This medium is enhanced by the addition of a chromogenic agent, BCIG, 5-bromo-4-chloro-3-indolyl-β-D-glucuronide to detect glucuronidase activity. The presence of the enzyme β-D-glucuronidase differentiates most E. coli spp. from other coliforms, and is the same enzyme used in the MUG reaction. BCIG reacts slightly differently, and when released into the medium is insoluble, accumulating within the cell, imparting a blue to purple color to presumptive E. coli colonies.
+
+
+>Formula	Liter
+>Lactose	10 g
+>Tryptose	10 g
+>Yeast Extract	3 g
+>Sodium Chloride	5 g
+>Proteose Peptone	5 g
+>Bile Salts	1.5 g
+>BCIG	0.2 g
+>Neutral Red	0.08 g
+>Agar	15 g
+
+
+
 
 
 
