@@ -81,8 +81,16 @@ This is a description of [BCIG](https://foodsafety.neogen.com/en/dc-medium-bcig)
 
 Note: There are two chemicals, [X-Gal](https://en.wikipedia.org/wiki/X-gal) and [X-Gluc](https://en.wikipedia.org/wiki/X-Gluc), which are slightly different, both of which can detect E. coli.
 
+# Related Research
+
+This research claims to have reduced times to 6.5 hours: https://www.sciencedirect.com/science/article/pii/S0167701200001937
+Same author, related work with pdf available: https://aem.asm.org/content/aem/61/12/4505.full.pdf
 
 
+https://link.springer.com/article/10.1007/s11274-008-9747-x
+
+
+https://onlinelibrary.wiley.com/doi/full/10.1046/j.1472-765x.2000.00683.x
 
 
 
