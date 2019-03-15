@@ -38,4 +38,11 @@ fecal contamination indicator organisms in, for example, 30 minutes, to rapidly 
 An improvement would be to use the same LED and the same photodiode for measuring both the control and the sample. However, we sould then need some sort of switch to shut off light to one of the tubes. One can imagine a mechanical switch of 
 physical device in an air gap; some sort of Faraday effect with polarization might be possible but is probably not worth it.
 
+# Update: Test of Light Guide
+
+In February of 2019, we filled a teflon tube with water and attempted to use it as a light guide. At the scale of a meter, it appeared to fail completely. On the other, as would be theoretically predicted, when the tube was filled with nearly pure Ethanl (5% water), it worked as expected, sending all most all of the entering light to the exit end.
+The index of refaction of Ethanol is much higher than the index of refraction of water.
+
+
+
 
