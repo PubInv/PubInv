@@ -79,6 +79,8 @@ This is a description of [BCIG](https://foodsafety.neogen.com/en/dc-medium-bcig)
 >Neutral Red	0.08 g
 >Agar	15 g
 
+Note: There are two chemicals, [X-Gal](https://en.wikipedia.org/wiki/X-gal) and [X-Gluc](https://en.wikipedia.org/wiki/X-Gluc), which are slightly different, both of which can detect E. coli.
+
 
 
 
