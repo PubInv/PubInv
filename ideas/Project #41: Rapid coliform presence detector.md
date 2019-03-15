@@ -92,6 +92,8 @@ https://link.springer.com/article/10.1007/s11274-008-9747-x
 
 https://onlinelibrary.wiley.com/doi/full/10.1046/j.1472-765x.2000.00683.x
 
+This method gets it down to 45 minutes, but requires a luminometer: https://ieeexplore.ieee.org/abstract/document/1037094
+
 
 
 
