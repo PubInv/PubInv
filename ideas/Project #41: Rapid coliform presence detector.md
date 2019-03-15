@@ -44,5 +44,10 @@ In February of 2019, we filled a teflon tube with water and attempted to use it 
 The index of refaction of Ethanol is much higher than the index of refraction of water.
 
 
+# Understanding colorimetric changes
+
+>The 3M Petrifilm E. coli/Coliform Count Plate is a sample-ready-culture-medium system which contains Violet Red Bile (VRB) >nutrients, a cold-water-soluble gelling agent, an indicator of glucuronidase activity (BCIG), and a tetrazolium indicator >that facilitates colony enumeration in food and beverage samples.
+
+
 
 
