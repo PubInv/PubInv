@@ -306,6 +306,19 @@ I know this is probably well-knwon, but looking at the series expansion of the S
 
 I know I really need to take a full course in analysis.  There is so much that I don't understand.  But I am still mystified by the series expansion of sin x, and how it can be period, and how it can generate such huge numbers which all cancel out. It seems to me there should be some way of representing it that captures its essential nature better than the awful power series. Also, I am intrigued that the truncated power series expansion is completely rational if x is rational, even though in general we think of sin as producing a rational result only if the input is a fraction of 2PI, and therefore transcendental. (This of course is a TRUNCATION, which makes all the difference, but still!)  This is probably just a mental weakness on my part somehow.  However, the fact that the expansion produces a "moving lump" like a wave packet is very real and I think requires some explanation.
 
+# Idea: Put multiple objects in orbit such that they can "sling-shot" an object
+
+In science fiction movies, one sometimes heres of the "slingshot" effect, which adds velocity to an object. In fact this nothing mysterious---a rocket temporarily allows itself to be captured by a fast moving object, like Jupiter.
+
+Since Jupiter is so big, you can gain energy falling towards it. Since it is orbiting the sun, it has a high velocity relative to the sun. While captured, a rocket has this velocity. If the rocket has chosen an orbit correctly, it can then escape 
+from Jupiter's gravity having some of Jupiter's velocity, even though the act of escaping slows it down.
+
+Suppose we had a tremendous (dare I say God-like?) power to build a solar system. We start with a star. We add a Jupiter.
+In orbit around Jupiter we place an object much smaller than jupiter orbiting in the same plane, at a great distance. Then around that object we place another object orbiting at great distance.
+
+Could we then have a rocket maneuver so that it successively sling-shotted by these smaller and smaller planetoids, thereby effectively gaining the absolute velocity of the last planetoid at relatively little energy expenditure?
+
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.
