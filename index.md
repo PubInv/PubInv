@@ -5,7 +5,7 @@ title: Public Invention
 
 # Mission of Public Invention
 
-The Mission of Public Invention is to “Invent in the public, for the public.” 
+The Mission of Public Invention is to “Invent in the public, for the public.”
 
 You may want to click through our Mission Statement using the Plectica Map below.
 
@@ -29,7 +29,7 @@ that is not real. A roller skate is better than a toy space fighter.
 * **Don't build weapons.** Technology is not neutral. Some things are more easily
 used for good and harder to pervert than others. Invent things that heal, help,
 educate, entertain, enlighten, strengthen, and ennoble humanity.
-* **Ideas are cheap.** Invention requires a flash of insight, an inspiration. But that is only 1% of the work of developing an idea. 
+* **Ideas are cheap.** Invention requires a flash of insight, an inspiration. But that is only 1% of the work of developing an idea.
 * **Seek egalitarian usefulness.** All else being equal, inventions which make us more
 equal are better than inventions that make us less equal.
 * **Collaborate whenever possible.** Even if it slows you down, try to involve others
@@ -61,7 +61,7 @@ You may want to review our projects via our [spreadsheet](https://docs.google.co
 
 # Accomplishments So Far
 
-* On the weekend of Dec. 1st, we hosted the first ever Public Mathathon to address serious open math problem communally. Although participation was low the [results](https://hackernoon.com/the-story-of-a-public-cooperative-mathathon-29ea5f4ff538) were stunning, including 2 presumably publishable results. 
+* On the weekend of Dec. 1st, we hosted the first ever Public Mathathon to address serious open math problem communally. Although participation was low the [results](https://hackernoon.com/the-story-of-a-public-cooperative-mathathon-29ea5f4ff538) were stunning, including 2 presumably publishable results.
 * We have produced [26 open-source](https://github.com/PubInv) repos of work so far.
 * Our biggest accomplishment has been revitalizing the [Tetrobot concept](https://pubinv.github.io/tetrobot/).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kYpHKjkcXKA" frameborder="0" allowfullscreen></iframe>
@@ -84,7 +84,9 @@ If any knows of a better double-pendulum simulation, please let me know.
 
 We welcome your participation.  You are welcome to email me <read.robert@gmail.com>.
 However, as a public project, it is even better for you to comment publicly.
-You can do this by opening an ("issue")[https://github.com/PubInv/PubInv/issues] here at GitHub.  If you want to add to or improve one of the existing documents, you can do this with a "pull request".
+You may wish to join our google group: <pubinv@googlegroups.com>.
+You can do this by opening an ("issue")[https://github.com/PubInv/PubInv/issues] here at GitHub.
+If you want to add to or improve one of the existing documents, you can do this with a "pull request".
 
 You may wish to subscribe to our <a href="https://www.youtube.com/watch?v=1T8XSMhwKUE">YouTube Channel</a>. Since we are bound neither by the need to keep something secret due to patent restrictions imposed by Universities, nor by the formality of Academic publishing, nor by the need to maintain trade secrets, we publish informally a lot at YouTube.
 
@@ -110,15 +112,19 @@ If you are not familiar with GitHub or git, please email me to give you assistan
 
 Some of the projects proposed here involve dangerous chemicals, powerful forces, fire, explosive gases, and biological hazards.
 
-Humanity an not advance without experiementation that involves some risk. The important thing is to remain safe 
+Humanity an not advance without experiementation that involves some risk. The important thing is to remain safe
 at all times and not to proceed with an experiment until you have proper safety equipment and training. In particular,
 although we encourage young people to participate in Public Invention, they should not participate without adult supervision.
 
-We will attempt to discuss safety precautions within each project.  However, because this is a distributed project 
-and each participant may be creating their own experiments and machines, it will not be possible for us to 
+We will attempt to discuss safety precautions within each project.  However, because this is a distributed project
+and each participant may be creating their own experiments and machines, it will not be possible for us to
 provide safety guidance in all cases.  Please proceed carefully at your own risk.
 
 # Contributors and Public Inventors
+
+04/16/2019 Avinash Baskaran agreed to work on the [Project #48: Gluss Controller](https://github.com/PubInv/GlussCon) project, part of [Project #16: Tetrobots](https://github.com/PubInv/tetrobot)
+
+04/15/2019 David Jeschke contributed [Project #47: Math-tablet](https://github.com/PubInv/math-tablet), which is fairly well-developed in terms of code.
 
 03/14/2019 Annalee Flower Horne contributed some ideas to [Project #40: Oil Painting Wheel for Very Thin Lines](https://github.com/PubInv/PubInv/blob/master/ideas/Project%20%2340:%20Oil%20painting%20wheel%20for%20very%20thin%20lines.md).
 
@@ -138,5 +144,3 @@ provide safety guidance in all cases.  Please proceed carefully at your own risk
 01/01/2018 Joshua Hannan signifiantly contributed to the Gluss Controller Project, including some Raspberry Pi python code which was used at SXSW Create.
 
 10/01/2017 Evan Bartilson and Josha Hannah design the 3D printing needed to make the gluss controller in the Gluss Controller Project.
-
-
