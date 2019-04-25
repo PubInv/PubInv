@@ -6,6 +6,8 @@ The basic idea is to develop a form of "flight", or perhaps "falling with style"
 Propellers are actually about 90% efficient, so it may not be possible to beat that.  However, it may be possible 
 to develop a mechanism for flight, or at least levitation, based on principles other than the air-foil based propeller.
 
+![Simplest possible Air Treader](https://user-images.githubusercontent.com/5296671/56735427-0ebc8000-672b-11e9-901e-f21e87ff53c2.png)
+
 
 # Series Drogue
 
