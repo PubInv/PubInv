@@ -46,7 +46,7 @@ Morgan Chen, Keeshan Patel,
 and Neil Martis. We plan to incorporate in 2019, and are actively seeking
 additional volunteers, and, above all, public inventors.
 
-Initial Board members in 2019 are Adam Riggs, Lea Shanley, PhD, Nina Bianchi, Martin Smith, PhD, Keeshan Patel, John K. Gibbons, Kaitlin Devine, and Robert L. Read.
+Initial Board members in 2019 are Stephanie Liu, Adam Riggs, Lea Shanley, PhD, Nina Bianchi, Martin Smith, PhD, Keeshan Patel, John K. Gibbons, Kaitlin Devine, and Robert L. Read.
 
 # Our projects
 
