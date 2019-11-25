@@ -46,7 +46,7 @@ Morgan Chen, Keeshan Patel,
 and Neil Martis. We plan to incorporate in 2019, and are actively seeking
 additional volunteers, and, above all, public inventors.
 
-Initial Board members in 2019 are Stephanie Liu, Adam Riggs, Lea Shanley, PhD, Nina Bianchi, Martin Smith, PhD, Keeshan Patel, John K. Gibbons, Kaitlin Devine, and Robert L. Read.
+Initial Board members in 2019 are Stephanie Liu, Adam Riggs, Lea Shanley, PhD, Nina Bianchi, Martin Smith, PhD, Keeshan Patel, John K. Gibbons, and Robert L. Read, PhD.
 
 # Our projects
 
@@ -80,7 +80,23 @@ You may want to review our projects via our [spreadsheet](https://docs.google.co
 as part of an unsolicited proposal to Montshire Science Museum for a physical exhibit.
 If any knows of a better double-pendulum simulation, please let me know.
 
+
+
 # How to Contribute
+
+## Donations
+
+Public Invention was granted 501c3 status by the IRS in November 2019. Please consider making a donation. Right now, donations will pay for travel to conferences, parts for the robot, supplies for the rapid E. coli project, and allow us to begin developing cookstove technologies for the developing world.
+
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="WYV89BJ7USAU6" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+## Participation
 
 We welcome your participation.  You are welcome to email me <read.robert@gmail.com>.
 However, as a public project, it is even better for you to comment publicly.
@@ -107,30 +123,6 @@ In summary, you can contribute by:
 * Even suggesting non-PubInv proejcts that we should contribute to.
 
 If you are not familiar with GitHub or git, please email me to give you assistance.
-
-# A Warning
-
-Some of the projects proposed here involve dangerous chemicals, powerful forces, fire, explosive gases, and biological hazards.
-
-Humanity an not advance without experiementation that involves some risk. The important thing is to remain safe
-at all times and not to proceed with an experiment until you have proper safety equipment and training. In particular,
-although we encourage young people to participate in Public Invention, they should not participate without adult supervision.
-
-We will attempt to discuss safety precautions within each project.  However, because this is a distributed project
-and each participant may be creating their own experiments and machines, it will not be possible for us to
-provide safety guidance in all cases.  Please proceed carefully at your own risk.
-
-# Donations
-
-Public Invention was granted 501c3 status by the IRS in November 2019. Please consider making a donation. Right now, donations will pay for travel to conferences, parts for the robot, supplies for the rapid E. coli project, and allow us to begin developing cookstove technologies for the developing world.
-
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="WYV89BJ7USAU6" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
 
 
 # Contributors and Public Inventors
