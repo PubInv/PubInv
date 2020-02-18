@@ -8,9 +8,11 @@ title: Public Invention
 **Please go to our [new website](https://www.pubinv.org).**
 
 <p>
+</p>
 <p>
+</p>
 <p>
-
+</p>
 
 # Mission of Public Invention
 
