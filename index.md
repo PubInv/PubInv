@@ -3,6 +3,10 @@ layout: default
 title: Public Invention
 ---
 
+# New Website
+
+Please go to our [new website](https://www.pubinv.org).
+
 # Mission of Public Invention
 
 The Mission of Public Invention is to “Invent in the public, for the public.”
@@ -127,6 +131,8 @@ If you are not familiar with GitHub or git, please email me to give you assistan
 
 # Contributors and Public Inventors
 
+Please go to our [new website](https://www.pubinv.org).
+
 10/16/2019 Avinash Baskaran and Megan Cadena travel to the IEEE Professional Forum and Students’ Poster Session at the University of Houston-Clear Lake to preset posters. Avinash gets highest score and wins $100 prize.
 
 04/16/2019 Avinash Baskaran agreed to work on the [Project #48: Gluss Controller](https://github.com/PubInv/GlussCon) project, part of [Project #16: Tetrobots](https://github.com/PubInv/tetrobot)
@@ -151,3 +157,6 @@ If you are not familiar with GitHub or git, please email me to give you assistan
 01/01/2018 Joshua Hannan signifiantly contributed to the Gluss Controller Project, including some Raspberry Pi python code which was used at SXSW Create.
 
 10/01/2017 Evan Bartilson and Josha Hannah design the 3D printing needed to make the gluss controller in the Gluss Controller Project.
+
+
+Please go to our [new website](https://www.pubinv.org).
