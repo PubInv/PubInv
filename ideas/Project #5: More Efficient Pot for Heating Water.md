@@ -47,6 +47,10 @@ Of course, I'm willing to work on the financial problem of stove distribution as
 
 Note further that at some level of efficiency this becomse a good way to treat human waste.
 
+## Basic Design Idea
+
+![Fire Kettle](https://user-images.githubusercontent.com/5296671/91883545-33433900-ec4a-11ea-996a-930bcd703112.png)
+
 ## Manufacturing Note: Aluminum casting is pretty easy
 
 I have taken a class on room-temperatue vulcanization (that is, silicone molding) that allows room-temperature casting.  The materials used in this process can not easily be used to make cookware. However, the whole process, particularly, in combination with 3D printers, open up the possibility of casting complex, heat-efficient shapes.
