@@ -51,6 +51,10 @@ Note further that at some level of efficiency this becomse a good way to treat h
 
 ![Fire Kettle](https://user-images.githubusercontent.com/5296671/91883545-33433900-ec4a-11ea-996a-930bcd703112.png)
 
+One can easily imagine a variant of this idea to make a "fire griddle" with a similar heat exchanger consiting of a spiral tubes.
+The exhuast tube would go under a griddle, and the intake tube would be beneath that. A height elevation in the chimney and air intake
+would still be required to insure air flow in the correct direction.
+
 ## Manufacturing Note: Aluminum casting is pretty easy
 
 I have taken a class on room-temperatue vulcanization (that is, silicone molding) that allows room-temperature casting.  The materials used in this process can not easily be used to make cookware. However, the whole process, particularly, in combination with 3D printers, open up the possibility of casting complex, heat-efficient shapes.
