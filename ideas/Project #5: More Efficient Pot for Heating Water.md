@@ -61,6 +61,10 @@ would still be required to insure air flow in the correct direction.
 
 I have taken a class on room-temperatue vulcanization (that is, silicone molding) that allows room-temperature casting.  The materials used in this process can not easily be used to make cookware. However, the whole process, particularly, in combination with 3D printers, open up the possibility of casting complex, heat-efficient shapes.
 
+## An additional idea: The Fire Spider
+
+![Fire Spider](https://user-images.githubusercontent.com/5296671/92622636-e2a38f80-f28a-11ea-965f-8c39c3ff51b3.png)
+
 ## References
 
 [https://turbopot.com](https://turbopot.com)
