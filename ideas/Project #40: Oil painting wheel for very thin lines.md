@@ -1,6 +1,6 @@
 # A Oil Painting wheel
 
-You may prefer this [more readable version](https://github.com/PubInv/PubInv/blob/master/ideas/Project%20%2340:%20Oil%20painting%20wheel%20for%20very%20thin%20lines.md).
+You may prefer this [more readable version](https://medium.com/hackernoon/public-invention-project-40-a-wheel-for-painting-very-thin-lines-5d596c625549).
 
 In oil painting, making very fine lines is difficult. This is why comic books are made with water colors; ink may be applied with
 a pen very finely over watercolors. Pens can create very fine lines. You cannot apply ink to oil color; ink is water-based and 
