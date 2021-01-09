@@ -7,6 +7,10 @@ Imagine recording a section of forest in the springtime (in the Northern Hemisph
 Then one would want to be able to physically or virtually walk into the space and listen (up close) to what you would
 have heard if you could have been in a particular location.  What if that bluebird had been on your shoulder?
 
+Passive Acoustic Modelling (PAM) has also emerged as ann [ecosystem assessment tool](https://www.wildlabs.net/resources/case-studies/monitoring-ecosystems-through-sound-present-and-future-passive-acoustics) with significant potential to aid ecosystem service mapping, and baselining. Since each species in an ecosystem has co-evolved to fill a different part of the "symphony of sound", measurable and quantifiable as the frequency domain, recordings of the symphony of sound prior to human contact help provide a baseline which must then be met through wildlife rehabilitation projects by prospective developers.  
+
+Prior art also exists in ecoacoustics from [Rainforest Connection](https://www.rfcx.org/), who combines the audio sensors and cellular networkinng of post-consumer (used) cellphones, with power generation from solar cells, to deploy monitoring networks of offgrid embedded systems that send deforestation and poaching alerts, in addition to cataloguing ecoacoustic data.  
+
 # Techniques
 
 I belibe this should be accomplishable with an array of microphones.  Seismologist do this kind of think all the time.
