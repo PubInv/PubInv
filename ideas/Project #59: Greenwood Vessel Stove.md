@@ -7,6 +7,8 @@ Public Invention has another project, the EcoPot, which is an attempt to address
 
 However, I am coming to believe that we need a stove-based solution.
 
+![Greenwood Vessel Stove](https://user-images.githubusercontent.com/5296671/108615867-ead13080-73cd-11eb-8f05-7f80aa301f08.png)
+
 Clearly, simply buying a people a $300 wood stove would, in fact, be a very useful starting point. In fact this would be an excellent use of $300B.
 However, we may ask if we can design something that is efficient enough to be self financing, or better.
 
