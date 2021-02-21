@@ -37,3 +37,25 @@ Eventually, we will be unable to add additional O2, so we open the exhuast port 
 would be if uncontrolled) into a pollution abatement exhaust system. This makes room for the injection of more O2 until the cooking is finished.
 If we run out of O2, we can force air into the stove, which is less efficient but accomplished the same effect.
 
+All of thise may seem like a ridiculous amount of sophistication for burning rotten wood; but I see it as a simple evolution of wood-burning technology.
+This system allow nearly the worst fuel to be used by people who have no ability to obtain better fuel. It produces the lowest possible carbon footprint.
+An initial cost estimate would be USD$5000 for such a system. However, like most things electronic, that cost could be radically reduced by engineering.
+
+## An interesting experiment
+
+I think this project could be begun by simpling investigating the power demands of vaccum drying on a small scale of deadfall wood.
+
+A second interesting experiment is: could we raise the pressue to 6 bar, and then exposively release it, to get a "puffing" effect of the 
+greenwood, making it more porous. If so, we could then dry it more quickly, and it would like combust more quickly as well.
+
+## Modularity
+
+This system should be investigated as a series of modules with iterative functionality. For example, the O2 Concentration may not be possible,
+but the vessel stove could still be incredibly effective without it.
+
+## Modeling
+
+As always, I believe the best invention exists at the interplay between theory and practice. As mentioned above, some experiments must be performed
+becasue theory simple can't predict what will happen. However, we certainly could build an effect model, perhaps using only a spreadsheet,
+of the inputs and outputs of the system, and of course we should do this before investing in equipment.
+
