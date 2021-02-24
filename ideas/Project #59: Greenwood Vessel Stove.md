@@ -41,12 +41,19 @@ All of thise may seem like a ridiculous amount of sophistication for burning rot
 This system allow nearly the worst fuel to be used by people who have no ability to obtain better fuel. It produces the lowest possible carbon footprint.
 An initial cost estimate would be USD$5000 for such a system. However, like most things electronic, that cost could be radically reduced by engineering.
 
-## An interesting experiment
+## Initial  Experiments
 
 I think this project could be begun by simpling investigating the power demands of vaccum drying on a small scale of deadfall wood.
 
+For less than $200, you can buy a vacuum chanber used to degassing silicon molds. A fundamenal question is: Given a mass of deadfall wood, what is the drying time in such a vacuum chamber as a function of temperature?  In particular, acheiving a 4-hour or 8-hour drying time at a low temperature could be very useful. We can
+control the temperature by putting the chamber on a hot-plate, I think, and putting a thermometer in the chamber. I would tend to do this with an Arduino.
+
+A second question is: can "pulsed" vacuum drying and/or heating speed the trying time.
+
 A second interesting experiment is: could we raise the pressue to 6 bar, and then exposively release it, to get a "puffing" effect of the 
-greenwood, making it more porous. If so, we could then dry it more quickly, and it would like combust more quickly as well.
+greenwood, making it more porous. If so, we could then dry it more quickly, and it would like combust more quickly as well. NOTE: this should probably NOT be done in the vaccum chanmber, but could be done a strong vessel with a bicycle pump and a quick release mechanism.  The sample would PROBABLY have to be 
+studied under an optical microscope after "puffing" --- I doubt there will be a change visible to the human eye. However, a microscopic change is 
+all important for drying and combustion.
 
 ## Modularity
 
