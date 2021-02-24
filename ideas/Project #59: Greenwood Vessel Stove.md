@@ -39,7 +39,8 @@ If we run out of O2, we can force air into the stove, which is less efficient bu
 
 All of thise may seem like a ridiculous amount of sophistication for burning rotten wood; but I see it as a simple evolution of wood-burning technology.
 This system allow nearly the worst fuel to be used by people who have no ability to obtain better fuel. It produces the lowest possible carbon footprint.
-An initial cost estimate would be USD$5000 for such a system. However, like most things electronic, that cost could be radically reduced by engineering.
+An initial cost estimate would be USD$5000 for such a system. However, like most things electronic, that cost could be radically reduced by engineering; 
+a mass production price might be USD$500. 
 
 ## Initial  Experiments
 
@@ -60,9 +61,30 @@ all important for drying and combustion.
 This system should be investigated as a series of modules with iterative functionality. For example, the O2 Concentration may not be possible,
 but the vessel stove could still be incredibly effective without it.
 
+## Some Arguments this is not Insane
+
+If we imagine a "camping" experience, which is similar to what many people in the world live with on a daily basis, we can imagine a small solar panel
+could be be used over the course of a day. By not having a battery of much size, we save a lot of expense. Throughout the day a modest amount of power
+could be intelligently diverted to different parts of the system. For example, it may not be possible or necessary to run the O2 concentrator at the 
+same time that the fuel is being dried. In fact, we can think of heating/running vacuum pump/running O2 system/running air compressor as separate activities that can all be performed at a leisurely manner as the available power allows.  Of course, this require a microcontroller with a modicum of programming sophistication; but this is now cheap to free.
+
+The highest VO2 Max ever recorded has ben 94 L/min (male) and 77 L/min (female), both in Nordic skiers. A SMALL fire will consume more oxygen than that! A typical portable O2 concentrator that costs US$1000 produces 6L/min. Therefore it seems crazy to try to use oxygen enrichment on a campfire.  However, we have all day to store up O2 in a pressurized tank; we may be able to store 100L under pressure quite easily in an hour.
+
+We do not need 90% oxygen to have a startling effect on combustion. Air is about 21% O2 in general.  Doubling or tripling this may make a fire burn much hotter and faster. This is potentially a very good thing, because it may mean that little energy is wasted in the flue gasses. Also, a hotter fire will shed heat through radiation much more; if this radiant heat can be directed into the stovetop (this is not obvious), then we may have a very efficient system.
+
+It is unquestionably the case that drying fuel is more efficient because one does not have to pay the heavy cost of the heat of vaporization of the contained water.
+
 ## Modeling
 
 As always, I believe the best invention exists at the interplay between theory and practice. As mentioned above, some experiments must be performed
 becasue theory simple can't predict what will happen. However, we certainly could build an effect model, perhaps using only a spreadsheet,
 of the inputs and outputs of the system, and of course we should do this before investing in equipment.
+
+## A Call to Action
+
+This project, like most Public Invention projects, needs an Invention Coach to drive it to completion and volunteers to do the work. This is one of the more difficult projects that we have proposed. I leave you with a quote from Sir W. Lawrence Bragg:
+
+> The chances of your success are zero, but the importance is infinite; therefore, I support you.
+
+To discuss this further, contact Public Invention or Robert L. Read <read.robert@gmail.com>, <read.robert@pubinv.org>.
 
