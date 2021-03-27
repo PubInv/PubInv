@@ -3,7 +3,8 @@
 In physics, we have conservation of energy and momentum.  In chemistry, we have the conversation of elements which
 allows the balancing of equations.  In bookkeping we have the balance of debits and credits.  Although all
 general purpose programming languages allow the construction of abstract data types (ADTs) that represent
-these laws of conservation, there are rather rarely used.  They would seem, however, to offer the great 
+these laws of conservation, supporting this has not been elevated to the level of standard libraries and practice.
+They would seem, however, to offer the great 
 benefit of reducing errors and clarifying programming.
 
 For example, if you have variable that represent the quantities of chemicals that are the complete input and output to checmical (non-nuclear) process, it is clear that an ADT that guaranteed tha each operation conserved the amounts
