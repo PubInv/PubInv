@@ -29,4 +29,5 @@ This depends on magentic flux gradients, which I think could be approximated wit
 
 If anyone wants to try making this, or discuss it, please contact me.
 
+Our current work can be found here: https://github.com/PubInv/ferrofluidcheckvalve
 
