@@ -45,3 +45,9 @@ and a small appliance that chills. The problems are:
 I have done know direct research on this idea yet. I would be greatful if somoeone would start that work and submit
 well-vetted citations via a pull-request or an issue. Thank you, Public Inventors! The time to do this is NOW,
 before disaster strikes.
+
+# Work at Rice University
+
+A freshman design team at Rice University is working on this problem.
+They are building a water pump system to pump cold water into tubes around the head, cooling it. They are not tackling the much harder
+problem of chilling the water itself.
