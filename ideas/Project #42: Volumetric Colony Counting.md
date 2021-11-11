@@ -25,6 +25,8 @@ It may be possible by moving the focal plane through the cube to focus on indivi
 In this way, changing the position and focus of a microscope, we might be able to automatically detect colonies 
 in a volume. This could be extremely efficient.
 
+This has been made much easier to study based on recent open source microscopes such as the [FlyPi](https://github.com/amchagas/Flypi).
+
 Since the volume of the dye associated with a colony may exist in multiple focal planes, this is a good candidate for
 algorithmic computer vision-based detection of the colony.
 
