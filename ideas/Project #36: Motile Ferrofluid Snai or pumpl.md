@@ -1,5 +1,9 @@
 # Motile Ferrofluid Snail/Slug
 
+Imagine a little device like a slug that could move inside a sea of ferrfluid like a little fish or submarine. It would be very cool if this
+device could move without any moving parts whatsover. If we had such a device, we could put it in a tube and have a pump---if the slug
+can swim forward, it must push the ferrofluid backeward.
+
 Imainge a pair of coils, about 1 cm in dimater, separated by about 0.5 cm. Imagine then with current flowing in the same direction,
 but controllable in the sense that the current to one or the other maybe be doubled.
 
@@ -15,6 +19,19 @@ until the process repeats.  This entire assembly will potentially move on the ba
 This would only take about 2 days to test out.  Potentially the frame would have to be constructed to hold the coils and
 the coils would have to be wound. An arduino program in combination with a motor shield with 10 channels would have to be 
 created to control the addtional voltage (or possibly relays, or a transistor, or a multiplexer could be used.)
+
+## Tremendous Progress -- A Passive Ferrofluid Valve
+
+Veronica Stuckey and I have submitted [this paper](https://github.com/PubInv/ferrofluidcheckvalve/blob/master/doc/SmartMaterials/ioplatexguidelines-1/FerrofluidCheckValve.pdf) to Smart Materials. It describes one of Public Invention's best inventions: a passive ferrofluid check valved.
+
+I belive it may be possible to use a similar idea to make a solidstate pump by using a shaped chamber and an oscillating magentic field.
+The basic idea is that in an assymetric 2D chamber, a strong magnetic field will attempt to draw fluid into the center of the field. 
+If the opening on one side accesses more fluid than on the other, it will create a force to squeeze the fluid into the narrower side.
+When the field is relaxed, there is no force for it to return. The result is that by simply oscilatting the field, we can make a true
+pump for ferrofluid which has no moving parts.
+
+![Idea for Pump](https://user-images.githubusercontent.com/5296671/146234698-07b2f31f-3cca-459b-bb94-ae29e1e219d2.png)
+
 
 ## A Frequency-based Ferrofluid Pump - Nov. 2021
 
