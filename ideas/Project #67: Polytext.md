@@ -108,3 +108,8 @@ Integration with a browser, which would be extremely powerful, could be done lat
 1. Pattern-matching anchors that operate within lines
 2. A standard for defining computational operations
 3. A standard for naming texts such that a derived text could be clearly associated with an original text.
+
+# References
+
+This system performs scansion of Engligh poetry. It could be useful for as a source of child texts for testing.
+1. https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-ca6efb02-dfd3-498a-b7f4-ca33197d8ea0
