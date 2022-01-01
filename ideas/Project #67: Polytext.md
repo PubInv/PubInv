@@ -103,6 +103,18 @@ it probably needs nothing more than a simple set of filters (in the Unix since o
 this work can be done as nearly pure algorithmic programs that operate at the command line. 
 Integration with a browser, which would be extremely powerful, could be done later.
 
+# Poetry is Easier than Programming
+
+Programs are generally more interesting when they are being written than after.
+Poetry, however, is generally analyzed after it is published and thus reified in an 
+immutable form.
+Therefore by working with Poetry before moving on to Programs, we can temporarily ignore
+the problem of the mutability of the parent text.
+In particular, prosody is the study of rhythm and meter in poetry.
+Significant scholar work has gone into the theory and practice of this, and yet
+there does not appear to be a good standard for beautifully recording and rendering scansion.
+That would be a perfect first case for this.
+
 # Distinct Parts of the Project
 
 1. Pattern-matching anchors that operate within lines
