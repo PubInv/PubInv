@@ -113,3 +113,6 @@ Integration with a browser, which would be extremely powerful, could be done lat
 
 This system performs scansion of Engligh poetry. It could be useful for as a source of child texts for testing.
 1. https://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-ca6efb02-dfd3-498a-b7f4-ca33197d8ea0
+This open-source code produced scansions of English poetry. It could be turned into a filter to produce child texts,
+and then a simple web-based rendered could add in the scansion, making it far more pleasant to use.
+3. https://github.com/manexagirrezabal/zeuscansion 
