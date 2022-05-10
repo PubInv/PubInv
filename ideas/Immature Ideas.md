@@ -318,6 +318,17 @@ In orbit around Jupiter we place an object much smaller than jupiter orbiting in
 
 Could we then have a rocket maneuver so that it successively sling-shotted by these smaller and smaller planetoids, thereby effectively gaining the absolute velocity of the last planetoid at relatively little energy expenditure?
 
+# Idea: Ferrofluid amoeba
+
+If you had a bag half-filled with ferrofluid, with coils attached all over the surface, a careful control of the energized coils would allow some eversion or motion of the bag. Possibly you could build a moving "amoeba" in this way.
+The coils could detect each other by sensing induced voltage; this would possibly allow a spatial model of the bag to be internally constructed.
+
+A simpler version of this would be to make tube and see if you could get it to roll.
+
+# Idea: Ferrofluid tentacle based on a "spine"
+
+We could 3D print an object holding 3 bobbins for magnet wire coils. The center could have one male and one female part to construct a "spine" or pieces fitted together. An elastic "ligament" would hold these together. If this spine were immersed in a flexible tube of ferrofluid, then the spine would 
+have flexing pressure when the coils have current. This could be either repulisve to drive the coils apart (on one side) and/or attractive (on the other sides.) The 3 pairs of wires could be routed through the central holes to form a "spinal column" allowing power to come from a single source. With a power multiplexer, this could be a relatively simple PCB; or a large number of transistors could be used.
 
 
 
