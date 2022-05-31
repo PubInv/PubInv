@@ -325,10 +325,29 @@ The coils could detect each other by sensing induced voltage; this would possibl
 
 A simpler version of this would be to make tube and see if you could get it to roll.
 
+Note: I tested this idea and it basically won't work with just ferrofluid, or not easily---the ferrofluid by itself does not have enough iron in it to make powerful enough magnets for this to work.
+
 # Idea: Ferrofluid tentacle based on a "spine"
 
 We could 3D print an object holding 3 bobbins for magnet wire coils. The center could have one male and one female part to construct a "spine" or pieces fitted together. An elastic "ligament" would hold these together. If this spine were immersed in a flexible tube of ferrofluid, then the spine would 
 have flexing pressure when the coils have current. This could be either repulisve to drive the coils apart (on one side) and/or attractive (on the other sides.) The 3 pairs of wires could be routed through the central holes to form a "spinal column" allowing power to come from a single source. With a power multiplexer, this could be a relatively simple PCB; or a large number of transistors could be used.
+
+# Idea: A Bag of Iron BBs as a ferro-"fluid"
+
+It would be wonderful if we had a fluid that could form a magnetic core as good as soft iron---that is, which allowed powerful magnets to be constructed
+with fluid-filled coils of wire. Ferrofluid by itself is NOT very good at this. Perhaps however, we could make a semi-fluid by making bunch of larger
+iron particles (BB-sized shot) and suspeneding them in an oil. In all probability this would be a terrible "fluid" -- it would clump, and be affected
+by gravity. However, under specific conditions (such as the whole container being filled), it might be a reasonable "soft" and movable system.
+
+# Idea: Parallel Magnetic Plates for Making a Ferrofluid Piston
+
+In order to use ferrofluid, you often want to create a "piston" that can be used to push air or an immiscible fluid.
+The obvious way to do this is to use a cylinder with a bolus of ferrofluid driven by horseshoe magnets arrayed along the cylinder.
+However, a potentially more powerful is to create a magnetic circuit by using actual iron plates or bars (that is, in contact with
+the fluid, so perhaps INSIDE a cylinder. The idea is that by simply magnetizing these plates, you create a magnetic circuit
+that creates considerable force to be filled by ferrfluid (that is, the fluid wants to fill the gap.)
+The question is: Can you make a more powerful "piston" this way?  An additional question is could these plates be shaped,
+such as triangles, in order to allow a changing force profile.
 
 
 
