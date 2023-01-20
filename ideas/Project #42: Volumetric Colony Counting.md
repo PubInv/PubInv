@@ -42,3 +42,8 @@ identify colonies due to occlusions.
 This approach might allow us to potentially identify colonies in larger samples. If this is simpler than membrane filtration,
 or for bacteria which are difficult to isolate via membrane filtration, it seems that this approach could significantly
 improve important subsets of basic bacteriology.
+
+## A variation proposed by Lawrence Kincheloe
+
+The agar can be layered in a large long tube that would make a linear actuator and rotary element to allow for volumetric imaging with confocal light field microscopy. A filter paper that has a similar diffraction value as the agar can be used to isolate layers. This allows for bulk sample incubation and in situ detection and counting of colony size.
+
