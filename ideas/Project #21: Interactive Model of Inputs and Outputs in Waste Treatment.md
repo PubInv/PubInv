@@ -1,3 +1,6 @@
+# This project has been given a full repo
+
+This project now has its own repo : [https://github.com/PubInv/wastemodel](https://github.com/PubInv/wastemodel)
 # Motivation
 
 Many of the projects mentioned here at PIFAH focus on sanitation and waste treatment. Following permaculture

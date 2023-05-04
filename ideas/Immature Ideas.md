@@ -306,6 +306,49 @@ I know this is probably well-knwon, but looking at the series expansion of the S
 
 I know I really need to take a full course in analysis.  There is so much that I don't understand.  But I am still mystified by the series expansion of sin x, and how it can be period, and how it can generate such huge numbers which all cancel out. It seems to me there should be some way of representing it that captures its essential nature better than the awful power series. Also, I am intrigued that the truncated power series expansion is completely rational if x is rational, even though in general we think of sin as producing a rational result only if the input is a fraction of 2PI, and therefore transcendental. (This of course is a TRUNCATION, which makes all the difference, but still!)  This is probably just a mental weakness on my part somehow.  However, the fact that the expansion produces a "moving lump" like a wave packet is very real and I think requires some explanation.
 
+# Idea: Put multiple objects in orbit such that they can "sling-shot" an object
+
+In science fiction movies, one sometimes heres of the "slingshot" effect, which adds velocity to an object. In fact this nothing mysterious---a rocket temporarily allows itself to be captured by a fast moving object, like Jupiter.
+
+Since Jupiter is so big, you can gain energy falling towards it. Since it is orbiting the sun, it has a high velocity relative to the sun. While captured, a rocket has this velocity. If the rocket has chosen an orbit correctly, it can then escape 
+from Jupiter's gravity having some of Jupiter's velocity, even though the act of escaping slows it down.
+
+Suppose we had a tremendous (dare I say God-like?) power to build a solar system. We start with a star. We add a Jupiter.
+In orbit around Jupiter we place an object much smaller than jupiter orbiting in the same plane, at a great distance. Then around that object we place another object orbiting at great distance.
+
+Could we then have a rocket maneuver so that it successively sling-shotted by these smaller and smaller planetoids, thereby effectively gaining the absolute velocity of the last planetoid at relatively little energy expenditure?
+
+# Idea: Ferrofluid amoeba
+
+If you had a bag half-filled with ferrofluid, with coils attached all over the surface, a careful control of the energized coils would allow some eversion or motion of the bag. Possibly you could build a moving "amoeba" in this way.
+The coils could detect each other by sensing induced voltage; this would possibly allow a spatial model of the bag to be internally constructed.
+
+A simpler version of this would be to make tube and see if you could get it to roll.
+
+Note: I tested this idea and it basically won't work with just ferrofluid, or not easily---the ferrofluid by itself does not have enough iron in it to make powerful enough magnets for this to work.
+
+# Idea: Ferrofluid tentacle based on a "spine"
+
+We could 3D print an object holding 3 bobbins for magnet wire coils. The center could have one male and one female part to construct a "spine" or pieces fitted together. An elastic "ligament" would hold these together. If this spine were immersed in a flexible tube of ferrofluid, then the spine would 
+have flexing pressure when the coils have current. This could be either repulisve to drive the coils apart (on one side) and/or attractive (on the other sides.) The 3 pairs of wires could be routed through the central holes to form a "spinal column" allowing power to come from a single source. With a power multiplexer, this could be a relatively simple PCB; or a large number of transistors could be used.
+
+# Idea: A Bag of Iron BBs as a ferro-"fluid"
+
+It would be wonderful if we had a fluid that could form a magnetic core as good as soft iron---that is, which allowed powerful magnets to be constructed
+with fluid-filled coils of wire. Ferrofluid by itself is NOT very good at this. Perhaps however, we could make a semi-fluid by making bunch of larger
+iron particles (BB-sized shot) and suspeneding them in an oil. In all probability this would be a terrible "fluid" -- it would clump, and be affected
+by gravity. However, under specific conditions (such as the whole container being filled), it might be a reasonable "soft" and movable system.
+
+# Idea: Parallel Magnetic Plates for Making a Ferrofluid Piston
+
+In order to use ferrofluid, you often want to create a "piston" that can be used to push air or an immiscible fluid.
+The obvious way to do this is to use a cylinder with a bolus of ferrofluid driven by horseshoe magnets arrayed along the cylinder.
+However, a potentially more powerful is to create a magnetic circuit by using actual iron plates or bars (that is, in contact with
+the fluid, so perhaps INSIDE a cylinder. The idea is that by simply magnetizing these plates, you create a magnetic circuit
+that creates considerable force to be filled by ferrfluid (that is, the fluid wants to fill the gap.)
+The question is: Can you make a more powerful "piston" this way?  An additional question is could these plates be shaped,
+such as triangles, in order to allow a changing force profile.
+
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH: Immature Ideas</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.

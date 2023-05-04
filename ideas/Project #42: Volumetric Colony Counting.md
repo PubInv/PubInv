@@ -25,6 +25,8 @@ It may be possible by moving the focal plane through the cube to focus on indivi
 In this way, changing the position and focus of a microscope, we might be able to automatically detect colonies 
 in a volume. This could be extremely efficient.
 
+This has been made much easier to study based on recent open source microscopes such as the [FlyPi](https://github.com/amchagas/Flypi).
+
 Since the volume of the dye associated with a colony may exist in multiple focal planes, this is a good candidate for
 algorithmic computer vision-based detection of the colony.
 
@@ -40,3 +42,8 @@ identify colonies due to occlusions.
 This approach might allow us to potentially identify colonies in larger samples. If this is simpler than membrane filtration,
 or for bacteria which are difficult to isolate via membrane filtration, it seems that this approach could significantly
 improve important subsets of basic bacteriology.
+
+## A variation proposed by Lawrence Kincheloe
+
+The agar can be layered in a large long tube that would make a linear actuator and rotary element to allow for volumetric imaging with confocal light field microscopy. A filter paper that has a similar diffraction value as the agar can be used to isolate layers. This allows for bulk sample incubation and in situ detection and counting of colony size.
+

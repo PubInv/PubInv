@@ -47,8 +47,31 @@ Of course, I'm willing to work on the financial problem of stove distribution as
 
 Note further that at some level of efficiency this becomse a good way to treat human waste.
 
+## Basic Design Idea
+
+The design below has an integrated fire box, which goes beyond the idea of a basic pot, but the principles could apply in both cases.
+
+![Fire Kettle](https://user-images.githubusercontent.com/5296671/91883545-33433900-ec4a-11ea-996a-930bcd703112.png)
+
+One can easily imagine a variant of this idea to make a "fire griddle" with a similar heat exchanger consiting of a spiral tubes.
+The exhuast tube would go under a griddle, and the intake tube would be beneath that. A height elevation in the chimney and air intake
+would still be required to insure air flow in the correct direction.
+
 ## Manufacturing Note: Aluminum casting is pretty easy
 
 I have taken a class on room-temperatue vulcanization (that is, silicone molding) that allows room-temperature casting.  The materials used in this process can not easily be used to make cookware. However, the whole process, particularly, in combination with 3D printers, open up the possibility of casting complex, heat-efficient shapes.
+
+## An additional idea: The Fire Spider
+
+![Fire Spider](https://user-images.githubusercontent.com/5296671/92622636-e2a38f80-f28a-11ea-965f-8c39c3ff51b3.png)
+
+## References
+
+[https://turbopot.com](https://turbopot.com)
+[https://www.sciencedirect.com/science/article/pii/S2214157X19300863](https://www.sciencedirect.com/science/article/pii/S2214157X19300863)
+
+## Acknowledgements
+
+Thanks to Dr. Sabia Abidi of Rice University for these references.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">PIFAH Project #5: More Efficient Pot for Heating Water</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/PIFAH/PIFAH" property="cc:attributionName" rel="cc:attributionURL">Robert L. Read</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/PIFAH/PIFAH" rel="dct:source">https://github.com/PIFAH/PIFAH</a>.

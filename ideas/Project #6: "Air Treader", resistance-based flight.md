@@ -1,3 +1,14 @@
+# Initial design for a tiny table-top prototype
+
+Here's a very basic design for a buildable version of an air-treader that could begin research.
+
+The basic idea is to develop a form of "flight", or perhaps "falling with style", that is slower and safer than normal flight.
+Propellers are actually about 90% efficient, so it may not be possible to beat that.  However, it may be possible 
+to develop a mechanism for flight, or at least levitation, based on principles other than the air-foil based propeller.
+
+![Simplest possible Air Treader](https://user-images.githubusercontent.com/5296671/56735427-0ebc8000-672b-11e9-901e-f21e87ff53c2.png)
+
+
 # Series Drogue
 
 Mariners use a device called a drogue.  it is similar to a parachute.

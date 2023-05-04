@@ -1,5 +1,7 @@
 # A Oil Painting wheel
 
+You may prefer this [more readable version](https://medium.com/hackernoon/public-invention-project-40-a-wheel-for-painting-very-thin-lines-5d596c625549).
+
 In oil painting, making very fine lines is difficult. This is why comic books are made with water colors; ink may be applied with
 a pen very finely over watercolors. Pens can create very fine lines. You cannot apply ink to oil color; ink is water-based and 
 oil paint is oil based, and they don't mix.  (There may be more exotic inks, such as alcohol based, which bridge this gap.)
@@ -48,5 +50,15 @@ In response to this Article Annalee Flower Horne proposed a simple design for a 
 
 ![AnnaLeespalette](https://user-images.githubusercontent.com/5296671/54376082-41655a00-4650-11e9-8b7a-9c3a28b98cf1.png)
 
+
+Annalee provided these files in Adobe illustrator format so they can be edited:
+
+https://github.com/PubInv/PubInv/blob/master/images/AnnaLeespalette.png
+
+https://github.com/PubInv/PubInv/blob/master/images/pi%20no%2040%20grooved%20paint%20well.ai
+
+https://github.com/PubInv/PubInv/blob/master/images/pi%20no%2040%20grooved%20paint%20well.svg
+
+Annalee also points out that it might be easier to just use "ice stick trays" like this: https://www.amazon.com/Silicone-Ice-Cube-Sticks-Tray/dp/B01KB0XALO
 
 
