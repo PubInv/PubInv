@@ -12,3 +12,11 @@ or even for building an internal combustion engine, then a the problem requires 
 
 If you had a long cylinder with 10 electromagnets of the same size ranged around if of the same side but the pressure against which the bolus
 is working is increasing as the bolus moves, it seems inefficient to have all magnets of the same size.
+
+# References
+
+Liquid piston gas compression
+Author links open overlay panelJames D. Van de Ven a, Perry Y. Li b 1
+
+https://www.sciencedirect.com/science/article/abs/pii/S0306261908003218
+
