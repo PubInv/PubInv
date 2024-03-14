@@ -47,6 +47,10 @@ That is our recommendation.
 Of course it is tempting to create "coins" and allow identities to be anonymous, proven by some cryptographic means.
 This would work and probably has some advantages; but it is an enormous headache and really unneeded.
 
+# References
+
+Sheh, Wesley, and Joel Nishimura. "Why You Should Be Able to Make Your Own Individualized, Digital Nano-Currency." Communications of the ACM 66.8 (2023): 35-38.
+
 
 
 
