@@ -52,7 +52,7 @@ So, as a first pass, my basic idea is:
 * Contain the feces and divert the urine.
 * Analyzes both.
 * Distill the urine.
-* Use vacuum drying and RF heating to dry the feces.
+* Use vacuum drying and RF heating to dry the feces. [This idea is now obsolete; I think this is wrong.]
 * Pyrolyze it completely.
 * Use motors to move the final product into a convenient packaging mechanism.
 * Provide water for drinking or hand washing.
@@ -69,7 +69,14 @@ The user experience should be: scoop, and by the time you get home it is complet
 I have performed and planned some experiments with RF Heating (also known as dielectric heating.) In pursuant of that, I built a high-voltage power supply: https://github.com/PIFAH/PIFAH/blob/master/experiments/MIT-OCW%20High%20Voltage%20Power%20Supply.md
 It is probably not quite up to snuff, as we really need a AC source at 10 MHz and probably more than a few Watts of power, but it is a start.
 
-The reason I think this is interesting is that it may be a more efficient and safer way of drying feces and pyrolyzing it.  Since in any pyrolysis thorough drying is a necessary part of the process and major cost of the total energy, I would like to know if we can dry things using RF Heating (possibly in combination with a vacuum to lower the boiling point of water) efficiently and safely.  This may be safer than joule heating (or burning a fuel) because it is cleaner, can heat "from the inside" of the sample, and might prevent a dry crust on the outside from forming. Furtermore, although it requires high voltage, it might be safer overall than higher temperatures, in much the same way that a microwave oven (a related but distinct heating mechanism) is in someways safer than a gas overn.
+The reason I think this is interesting is that it may be a more efficient and safer way of drying feces and pyrolyzing it.  Since in any pyrolysis thorough drying is a necessary part of the process and major cost of the total energy, I would like to know if we can dry things using RF Heating (possibly in combination with a vacuum to lower the boiling point of water) efficiently and safely.  This may be safer than joule heating (or burning a fuel) because it is cleaner, can heat "from the inside" of the sample, and might prevent a dry crust on the outside from forming. Furthermore, although it requires high voltage, it might be safer overall than higher temperatures, in much the same way that a microwave oven (a related but distinct heating mechanism) is in someways safer than a gas overn.
+
+# Thought as of April 21st, 2025
+
+I currently believe we can try a simpler approach of using joule heating to repetitively raise the pressure with RF or joule heating, and then "flash" the steam off into a
+safetly chamber at atmospheric pressure. I imagine that this will raise the pressure to 1-3 atmospheres above ambient pressure, and then opening a simple solenoid valve.
+This approach will have to be done repeatedly until the sample is mostly dry. This makes for a simple mechanism and may work. I am now working with a volunteer to
+do a mathematical model of this approach.
 
 
 
