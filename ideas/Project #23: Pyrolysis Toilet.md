@@ -1,6 +1,6 @@
 # OBSOLETE
 
-This file is now obsolete. It has been given its [own repo](https://github.com/PubInv/PubInv/blob/master/ideas/Project%20%2323:%20Pyrolysis%20Toilet.md).
+This file is now obsolete. It has been given its [own repo](https://github.com/PubInv/Biochar-Toilet).
 
 # An Approach to the "Re-inventing the Toilet" challenge of the Gates Foundation
 
