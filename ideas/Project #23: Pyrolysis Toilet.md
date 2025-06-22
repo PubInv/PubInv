@@ -1,3 +1,7 @@
+# OBSOLETE
+
+This file is now obsolete. It has been given its [own repo](https://github.com/PubInv/PubInv/blob/master/ideas/Project%20%2323:%20Pyrolysis%20Toilet.md).
+
 # An Approach to the "Re-inventing the Toilet" challenge of the Gates Foundation
 
 ## Basic Idea: Build a toilet that quickly pyrolyzes human feces to produce biochar
