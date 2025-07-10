@@ -7,7 +7,7 @@ learning and comprehension is a difficult task that many endure and people need 
 comprehend other languages in an accurate, fast, efficient, and comfortable manner. Broadly
 Augmented Bidirectional Integrated Language (BABIL) aims to tackle this problem and provide
 a solution that fits the needs of the stakeholders while staying within the constraints of the real
-world. The sponsor and primary stakeholder is looking for an autonomous wearable language
+world. The Invention Coach is looking for an autonomous wearable language
 translator to help bridge communication gaps for the end users. This device should receive
 speech in various languages and translate via subtitles on a display to the wearer&#39;s choice of
 language. The unit should be compact and not create discomfort. This device&#39;s target users are
