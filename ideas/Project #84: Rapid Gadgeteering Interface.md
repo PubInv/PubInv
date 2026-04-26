@@ -1,9 +1,12 @@
+
 # Rapid Gadgeteering Interface
 
 A large number of devices which we might call "gadgets" are made by putting an microcontroller inside a controller with some sort of sensor
 or control system. If we apply the "Unix Way" to this and attempt to make the most *physically* compositional system, much in the way
 that software and electronic components are modular, we may obtain a modular system that allows extraordinarily rapid 
 prototyping.
+
+<img width="960" height="720" alt="RGI Drawing" src="https://github.com/user-attachments/assets/399e3908-7987-4c8a-97b2-c76a8c760908" />
 
 I imagine small rectangle that can be physically composed by plugging some wires together and then sliding the parts together with 
 a "dovetail" joint and the locked into place with long, slender bolts.
