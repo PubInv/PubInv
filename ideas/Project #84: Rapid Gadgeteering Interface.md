@@ -1,4 +1,4 @@
-# Open Rapid Gadgeteering Interface
+# Rapid Gadgeteering Interface
 
 A large number of devices which we might call "gadgets" are made by putting an microcontroller inside a controller with some sort of sensor
 or control system. If we apply the "Unix Way" to this and attempt to make the most *physically* compositional system, much in the way
