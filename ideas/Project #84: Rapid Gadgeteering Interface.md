@@ -36,6 +36,16 @@ more specific and compact enclosure.
 The electronic connects would also be standardized, including the physical connectors. For example, 12V, 5V, and 3.3V power lines
 are very useful. SPI, I2C and USB can be used for communication between the components.
 
+# Example
+
+One of the enclosures that we have put a lot of work into is the Krake. There is no reason to throw away
+this work, but we could redesign it as a componentized system. For example, we are thinking about 
+adding a battery. If it were done as an RGI system, we could test the battery component without 
+having to redesign the case---even if we planned to do make a perfect, compact enclosure later.
+
+<img width="960" height="720" alt="Krake Redesigned at the RGI" src="https://github.com/user-attachments/assets/ce98771b-c076-43a2-be95-f87092a06dd8" />
+
+
 # The Plan
 
 This is just a sketch of an idea at present.  We can an artist to make a drawing of how this might work phycially, and what it would look like. 
