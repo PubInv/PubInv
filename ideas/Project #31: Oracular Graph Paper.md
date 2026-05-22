@@ -55,4 +55,18 @@ we can perhaps exploit to improve alogirhtms in the Church Turing model.
 This seems a bit far-fetched, but when I read the large number of mathematical papers devoted to relatively specialized 
 subjects, it seems at least interesting to investigate this.
 
+# A Second Thought
+
+Imagine that we had a magic computational ability which doesn't seem to exist today. Imagine that we had a magic "eye" or a 
+a magic camera that could be placed on the graph paper and would detect ponts of a particular colors and the "angles"
+to them. Then if we had a computational process that could designates points with colors, we would have a computational
+ability that is outside of Church's Thesis (that is, neither implementable with a Turing Machine, the lambda calculus).
+
+For example, imagine the cameara sitting at a (0.5,0.5) and looking out at the grid points that correspond to integer 
+coordinates. Imagine these as "stars" in a 2-dimensional space. Now suppose that the eye could see a thin, curving,
+laser like line curving through the first quadrant. Let this curve be defined by the equation x * y = c, where
+x and y are "real". If the eye could detect where this line intersected a "star", it would find a a star 
+at 1 * c and a start at c * 1. Would it find any other stars that intersect this curve? If so, then c is a composite,
+if not c is prime. 
+
 
