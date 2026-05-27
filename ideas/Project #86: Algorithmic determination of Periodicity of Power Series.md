@@ -1,4 +1,4 @@
-# Project #85: Algorithmic determination of Periodicity of Power Series
+# Project #86: Algorithmic determination of Periodicity of Power Series
 
 It is possible the answer to thid problem of pure mathematical analysis is known, but as can be seen 
 by this conversation at Math Stack Exchange: 
